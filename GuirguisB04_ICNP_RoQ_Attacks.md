@@ -10,6 +10,7 @@
     title={Exploiting the transients of adaptation for RoQ attacks on Internet resources}, 
     year={2004},  
     pages={184-195}
+}
 ```
 
 ### Summary
