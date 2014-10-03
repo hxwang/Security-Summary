@@ -2,7 +2,7 @@ Security Paper Summary
 ---
 
 ### Reputation-based Mechanism
-
+- [TrustGuard: A Flow-level Reputation-based DDoS Defense System](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5766474), by  *Hanqin Liu et al*, in PerNets 2011, [[Summary]]()
 
 ### DDoS
 - [OverCourt: DDoS Mitigation through credit-based traffic segration and path mitigation](http://www.sciencedirect.com/science/article/pii/S0140366410004251), by *Ping Du et al*, in COMCOM 2010, [[Summary]](https://github.com/hxwang/Security-Summary/blob/master/DuN10_COMCOM_OverCourt-DDoS-mitigation-through-credit-based-traffic-segregation-and-path-migration.md)
