@@ -11,7 +11,7 @@ Security Paper Summary
 
 
 ### Attack Mode
-- [A study of On-Off Attack Models for Wireless Ad Hoc Networks](http://ieeexplore.ieee.org/xpl/abstractCitations.jsp?arnumber=4138221), by 
+- [A study of On-Off Attack Models for Wireless Ad Hoc Networks](http://ieeexplore.ieee.org/xpl/abstractCitations.jsp?arnumber=4138221), by *Perrone, L.F.*, 2006
 
 ### Reduce of Quality (RoQ) Attack and EDoS
 - [Detecing Fradulent Use of Cloud Resources](http://dl.acm.org/citation.cfm?id=2046676), by *Joseph Idziorek et al*, in CCSW 2011, [[Summary]](https://github.com/hxwang/Security-Summary/blob/master/IdziorekT11_CCSW_Detecting-Fraudulent-Use-of-Cloud-Resources.md)
