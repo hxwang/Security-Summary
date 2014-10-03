@@ -9,5 +9,6 @@ Security Paper Summary
 
 ### Reduce of Quality (RoQ) Attack
 - [Detecing Fradulent Use of Cloud Resources](http://dl.acm.org/citation.cfm?id=2046676), by *Joseph Idziorek et al*, in CCSW 2011, [[Summary]](https://github.com/hxwang/Security-Summary/blob/master/IdziorekT11_CCSW_Detecting-Fraudulent-Use-of-Cloud-Resources.md)
+- [Exploiting the Transients of Adaption for RoQ Attacks on Internet Resources](http://ieeexplore.ieee.org/xpl/abstractCitations.jsp?arnumber=1348109&tag=1), by *Mina Guirguis et al*, in ICNP 2004, [[Summary]](https://github.com/hxwang/Security-Summary/blob/master/GuirguisB04_ICNP_RoQ_Attacks.md)
 
 ### Moving Target Defense
