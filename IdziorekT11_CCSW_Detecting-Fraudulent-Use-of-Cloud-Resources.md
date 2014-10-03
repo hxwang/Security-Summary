@@ -4,7 +4,7 @@
 - reading status: 2014-10-03 ing
 - bib
 ```
-@inproceedings{Idziorek:2011:DFU:2046660.2046676,
+@inproceedings{IdziorekT11,
     author = {Idziorek, Joseph and Tannian, Mark and Jacobson, Doug},
     title = {Detecting Fraudulent Use of Cloud Resources},
     booktitle = {Proceedings of the 3rd ACM Workshop on Cloud Computing Security Workshop(CCSW)},
