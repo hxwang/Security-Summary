@@ -1,4 +1,4 @@
-[A Study of On-Off Attack Models for Wireless Ad Hoc Networks])(http://ieeexplore.ieee.org/xpl/abstractCitations.jsp?arnumber=4138221)
+[A Study of On-Off Attack Models for Wireless Ad Hoc Networks](http://ieeexplore.ieee.org/xpl/abstractCitations.jsp?arnumber=4138221)
 ----
 
 - reading status: haven't started
