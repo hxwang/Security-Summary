@@ -21,14 +21,22 @@ Application-level DDoS flooding attacks
 
 #### 2. HTTP flooding attacks
 There are four types of attacks in this category.
+
 ##### Session flooding attacks
+- In this type of attack, session connection request rates from the attackers are higher than the requests from the legitimate users. Hence, this **exhausts the server resources** and leads to DDoS flooding attack on the server
+- One of the famous attack in this category is the **HTTP get/post flooding attack**, (a.k.a., excessive VERB)  
+    - Attackers generate a large number of valid HTTP (get/post) to a victim web server
+    - Attackers often employ botnets to launch these attacks, since each of the bots can generate a large number of valid requests(usually more than 10 requests a second) there is no need for a large number of bots to launch a successful attack. 
+    - HTTP get/post flooding attacks are **non-spoofed** attacks.
 ##### Request flooding attacks
 ##### Asymmetric attacks
     - Multiple HTTP get/post flood
     - Faulty Application
 ##### Slow request/response attacks
     - a Slowloris attack
-    - 
+    - HTTP fragementation attack
+    - Slowpost attack
+    - Slowreading attack
 
 
 
