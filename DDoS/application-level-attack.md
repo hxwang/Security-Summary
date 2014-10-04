@@ -65,4 +65,4 @@ In this type of attack, attackers send session that contain high-workload reques
 
 
 #### Thoughts
-- maybe we can target our moving target model to combat the application-level ddos attack. Since this assumption is in favor of our mechanism that attackers are hard to be distinguish from the benign clients by traffic. Also, we can simulate small number of insiders. 
+- `maybe we can target our moving target model to combat the application-level ddos attack. Since this assumption is in favor of our mechanism that attackers are hard to be distinguish from the benign clients by traffic. Also, we can simulate small number of insiders. `
