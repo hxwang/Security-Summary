@@ -13,10 +13,10 @@ Attackers of this category are generally frustrated individuals, possibly with l
  Attackers who belong to this category are motivated by their ideological beliefs to attack their targets [[Fultz-2009]](http://link.springer.com/chapter/10.1007%2F978-3-642-03549-4_10#page-1).  This category is currently one of the major incentives for the attackers to launch DDoS attacks. For instance political incentives have led to recent sabotages in [Iran 2009](https://isc.sans.edu/diary/Slowloris+and+Iranian+DDoS+attacks/6622) and [Wiki Leaks-2010](http://techcrunch.com/2010/11/28/wikileaks-ddos-attack/)
 
  
- #### *Intellectual Challenge*
+#### *Intellectual Challenge*
  Attackers of this category attack the targeted systems to experiment and learn how to launch various attacks. They are usually young hacking enthusiasts who want to show off their capabilities. Nowadays, there exist various easy to use attack tools and botnests to rent that even a computer amateur can avail of in order to launch a successful DDoS attack.
  
- #### *Cyberwarfare*
+#### *Cyberwarfare*
  - Attackers of this category usually belong to the military or terrorist organizations of a country and they are politically motivated to attack a wide range of critical sections of another country [Ref](http://www.gideonrasmussen.com/article-14.html). 
  - The potential targets of these attacks include, but not limited to, executive civilian departments and agencies, private/public financial organizations (e.g., national/commercial banks), energy/waster infrastructures, and telecommunications and mobile service providers.
  - Cyberwar attackers can be considered as very well trained individuals with ample resources.
