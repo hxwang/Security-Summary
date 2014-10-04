@@ -14,4 +14,4 @@ According to [[Peng-2007]](http://dl.acm.org/citation.cfm?id=1216373) , there ar
 
 - First, A large number of zombies involved in the attack facilitates attackers to make the attacks larger in scale and more disruptive.
 - Second, zombies' IP addresses are usually spoofed under the control of the attacker, which makes it very difficult to traceback the attack traffic even to the zombies.
-- [X] for our designed mechanism, we can prevent the spoofed IP address attack.
+- [my comment]: <> (For our designed moving target defense, we can prevent spoofed IP address attack.)
