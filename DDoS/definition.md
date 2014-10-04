@@ -5,7 +5,7 @@ DDoS Attack
 
 ### Purpose
 - DDoS flooding attacks are typically explicit attempts to disrupt legitimate users' access to services.
-
+- They try to make the victim's services unavailable, leading to revenue losses and increased costs of mitigating the attacks and restoring the services.
 
 ### DDoS attack Types
 Currently, there are two methods to launch DDoS attack in the Internet. 
@@ -18,8 +18,8 @@ Currently, there are two methods to launch DDoS attack in the Internet.
 
 ### How (by using BotNet)
 - Today, DDoS attacks are often launched by a network of remotely controlled, well organized, and widely scatterd Zombies or Botnet computers that are simulaneously and continuously sending a large amount of traffic and/or service requests to the target system. 
-
+- Employing the resources of recruited computers to perform DDoS attacks allows attackers to launch a much larger and more disruptive attack.
 
 ### BotNet, Zombies
 - Attackers usually gain access to a large number of computer by exploiting their vulnerabilities to set up attack armies(i.e., Botnets). Once an attack army has been set up, an attacker can invoke a coordinated, large-scale attack against one or more targets. [[Zargar-2013]](https://github.com/hxwang/Security-Summary/blob/master/ZargarJ13_Survey_Defense-Mechanism-against-DDoS.md)
-- Zombies or computers that are part of a botnet are usually recruited throught the use of worm, Trojan hourse or blackdoors
+- Zombies or computers that are part of a botnet are usually recruited throught the use of worm, Trojan horses or blackdoors.
