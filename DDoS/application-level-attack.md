@@ -49,7 +49,7 @@ In this type of attack, attackers send sessions that contain **high-workload req
     
 ##### 2.4 Slow request/response attacks
 
-In this type of attack, attackers send session that contain high-workload requests. There are a number of famous attacks in this category that we describe in the [Ref]().
+In this type of attack, attackers send session that contain high-workload requests. There are a number of famous attacks in this category that we describe in the [Ref](https://github.com/hxwang/Security-Summary/blob/master/DDoS/slow-request-response-attack.md).
 
 ###### 2.4.1 a Slowloris attack
 ###### 2.4.2 HTTP fragementation attack
