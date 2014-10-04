@@ -1,7 +1,7 @@
 DDoS Attackers' Incentive
 ---
 
-DDoS Attackers are usually motivated by various incentives. We can categorize DDoS attacks based on the motivation of attackers into 5 main categories: [[Zargar-2013]]
+DDoS Attackers are usually motivated by various incentives. We can categorize DDoS attacks based on the motivation of attackers into 5 main categories: [[Zargar-2013]](https://github.com/hxwang/Security-Summary/blob/master/ZargarJ13_Survey_Defense-Mechanism-against-DDoS.md)
 #### *Financial/economical gain*
 These attacks are a major concern of corporations. Because of the nature of their incentive, attackers of this category are usually the most technical and the most experienced attackers. Attacks that are launched for financial gain are often the most dangerous and hard-to-stop attacks.
 
