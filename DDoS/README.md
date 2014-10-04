@@ -20,8 +20,10 @@ DDoS Attack
 
 
 ### Defense Mechanism
-- [defense network/transport level]()
-- [defense application level]()
+- types
+  - [defense network/transport level]()
+  - [defense application level]()
+- how to evaluate
 
 
 
