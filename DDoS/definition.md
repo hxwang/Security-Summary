@@ -3,8 +3,8 @@ DDoS Attack
 
 ### Definition
 
-### How
-- Attackers usually gain access to a large number of computer by exploiting their vulnerabilities to set up attack armies(i.e., Botnets). Once an attack army has been set up, an attacker can invoke a coordinated, large-scale attack against one or more targets. [Zargar-2013]()
+### Purpose
+- DDoS flooding attacks are typically explicit attempts to disrupt legitimate users' access to services.
 
 
 ### DDoS attack Types
@@ -16,5 +16,6 @@ Currently, there are two methods to launch DDoS attack in the Internet.
 	- disrupt a legitimate users connectivity by exhuasting **bandwidth**, router processing capacity or network resources; they are essentiallly network/transport-level attacks[[Mirkovic-2004]](http://dl.acm.org/citation.cfm?id=997156), or
 	- disrupt a legitimate users' service by exhausting the **server resources** (e.g., sockets, CPU, memory, disk/database bandwidth, and I/O bandwidth); these essentially include application-level flooding attacks[[Ramkam-2006]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4146780&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D4146780).
 
-### Purpose
-- DDoS flooding attacks are typically explicit attempts to disrupt legitimate users' access to services.
+### How (by use BotNet)
+- Attackers usually gain access to a large number of computer by exploiting their vulnerabilities to set up attack armies(i.e., Botnets). Once an attack army has been set up, an attacker can invoke a coordinated, large-scale attack against one or more targets. [Zargar-2013]()
+- Today, DDoS attacks are often launched by a network of remotely controlled, well organized, and widely scatterd Zombies or Botnet computers that are simulaneously and continuously sending a large amount of traffic and/or service requests to the target system. 
