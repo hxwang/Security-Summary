@@ -4,7 +4,7 @@ DDoS Attack
 
 ### Intro
 - [Definition and Characteristics](https://github.com/hxwang/Security-Summary/blob/master/DDoS/definition.md)
-- [Incentive]()
+- [Incentive](https://github.com/hxwang/Security-Summary/blob/master/DDoS/incentive.md)
 - [Impact]()
 - [Attack Trend](https://github.com/hxwang/Security-Summary/blob/master/DDoS/trend.md)
 
