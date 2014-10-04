@@ -9,6 +9,7 @@ Botnets are the dominant mechanisms that facilitate DDoS flooding attacks on com
 
 #### Botnet Intro
 - Usually a group of zombies that are controlled by an attacker(a.k.a. Master) form a botnet. Botnets consist of masters, handlers, and bots(a.k.a. Agents), depicted in the following Figure.
+![](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-example.PNG)
 
 #### Defense Challenge
 According to [[Peng-2007]](http://dl.acm.org/citation.cfm?id=1216373) , there are two main reasons that make the development of an effective DDoS defense mechanism even more challenging when attacker employ zombies to launch DDoS flooding attacks.
