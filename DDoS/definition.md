@@ -7,7 +7,7 @@ DDoS Attack
 - Attackers usually gain access to a large number of computer by exploiting their vulnerabilities to set up attack armies(i.e., Botnets). Once an attack army has been set up, an attacker can invoke a coordinated, large-scale attack against one or more targets. [Zargar-2013]()
 
 
-### How to launch DDoS attack
+### DDoS attack Types
 Currently, there are two methods to launch DDoS attack in the Internet. 
 
 1. The attacker can send some malformed packets to the victim to confuse a protocol or an application running on it(i.e., vulnaribility attack[[Mirkovic-2004]](http://dl.acm.org/citation.cfm?id=997156)).
