@@ -3,7 +3,7 @@ Application-level DDoS flooding attacks
 * Most contents in this page is from paper [[Zargar]]()
 
 
-- These attacks focus on disrupting legitimate user's services by exhausting the server resources (e.g., Sockets, CPU, memory, disk/databased bandwidth, and I/O bandwidth) [[Ranjan-2006]]http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4146780&tag=1)
+- These attacks focus on disrupting legitimate user's services by exhausting the server resources (e.g., Sockets, CPU, memory, disk/databased bandwidth, and I/O bandwidth) [[Ranjan-2006]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4146780&tag=1)
 - Application-level DDoS attacks generally consume less bandwidth and are stealthier in nature compared to volumetric attacks since **they are very similar to benign traffic**. 
 - However, application-level DDoS flooding attacks usually have the same impact to the services since they target specific characteristics of applications such as HTTP. DNS, or Session Initiation Protocol(SIP).
 
