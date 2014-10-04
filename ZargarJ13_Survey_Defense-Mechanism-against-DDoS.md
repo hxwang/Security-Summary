@@ -15,4 +15,7 @@
 ```
 
 ### Summary
-
+- they categorize the DDoS flooding attacks 
+- they classify exisiting countermeansures based on *where* and *when* they prevent, detect and response to the DDoS folloding attacks.
+- moreover, they highlight the need for a comprehensive distributed and collaborative defense approach
+- Note, I summarized their review in the [DDoS Intro]()
