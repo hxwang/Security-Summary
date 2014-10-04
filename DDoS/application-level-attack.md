@@ -26,14 +26,25 @@ There are four types of attacks in this category.
 - In this type of attack, session connection request rates from the attackers are higher than the requests from the legitimate users. Hence, this **exhausts the server resources** and leads to DDoS flooding attack on the server
 - One of the famous attack in this category is the **HTTP get/post flooding attack**, (a.k.a., excessive VERB)  
     - Attackers generate a large number of valid HTTP (get/post) to a victim web server
-    - Attackers often employ botnets to launch these attacks, since each of the bots can generate a large number of valid requests(usually more than 10 requests a second) there is no need for a large number of bots to launch a successful attack. 
+    - Attackers often employ botnets to launch these attacks, since each of the bots can generate a large number of valid requests(usually more than **10 requests a second**) there is no need for a large number of bots to launch a successful attack. 
     - HTTP get/post flooding attacks are **non-spoofed** attacks.
     
 ##### 2.2 Request flooding attacks
-
+- In this type of attack, attackers send sessions that contain more number of requests than usual and leads to a DDoS flooding attack on the server
+- One of the well know attacks in this category is the **single-session HTTP get/post flooding** (a.k.a., excessive VERB single session)
+    - this attack is a variation of HTTP get/post flooding attack which employs the feature of HTTP 1.1 to allow multiple requests within a single HTTP session.
+    - Hence the attack can limit the session rate of an HTTP attack and bypass session rate limitation defense mechanisms of many security systems.
 ##### 2.3 Asymmetric attacks
-    - Multiple HTTP get/post flood
-    - Faulty Application
+In this type of attack, attackers send sessions that contain **high-workload requests**. Here, we enumerate some of the famous attacks in this category.
+- Multiple HTTP get/post flood
+    - This attack is also a variation of HTTP get/post flood attack
+    - Here, an attacker creates multiple HTTP requests by **forming a single packet embeded with multiple requests** and without issuing them one after another within a single HTTP session.
+    - This way attacker can still maintain high loads on the victim server with a low attack packet rate which makes the attacker nearly invisible to netflow anomaly detection techniques. 
+    - Also, attackers can easily bypass deep packet inspection techniques if they carefully select the HTTP VERB.
+    
+- Faulty Application
+    - In this attack, attackers take advantage of websites with poor design or improper integration with databases.
+    - For instance, they can employ SQL-like injections to generate requests to lock up database queries. These attacks are highly specific and effective because they consume server resources (memory, CPU etc.)
     
 ##### 2.4 Slow request/response attacks
     - a Slowloris attack
