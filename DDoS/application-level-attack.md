@@ -34,6 +34,7 @@ There are four types of attacks in this category.
 - One of the well know attacks in this category is the **single-session HTTP get/post flooding** (a.k.a., excessive VERB single session)
     - this attack is a variation of HTTP get/post flooding attack which employs the feature of HTTP 1.1 to allow multiple requests within a single HTTP session.
     - Hence the attack can limit the session rate of an HTTP attack and bypass session rate limitation defense mechanisms of many security systems.
+    
 ##### 2.3 Asymmetric attacks
 In this type of attack, attackers send sessions that contain **high-workload requests**. Here, we enumerate some of the famous attacks in this category.
 - Multiple HTTP get/post flood
