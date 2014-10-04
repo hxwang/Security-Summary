@@ -37,13 +37,13 @@ There are four types of attacks in this category.
     
 ##### 2.3 Asymmetric attacks
 In this type of attack, attackers send sessions that contain **high-workload requests**. Here, we enumerate some of the famous attacks in this category.
-- 2.3.1 Multiple HTTP get/post flood
+###### 2.3.1 Multiple HTTP get/post flood
     - This attack is also a variation of HTTP get/post flood attack
     - Here, an attacker creates multiple HTTP requests by **forming a single packet embeded with multiple requests** and without issuing them one after another within a single HTTP session.
     - This way attacker can still maintain high loads on the victim server with a low attack packet rate which makes the attacker nearly invisible to netflow anomaly detection techniques. 
     - Also, attackers can easily bypass deep packet inspection techniques if they carefully select the HTTP VERB.
     
-- 2.3.2 Faulty Application
+###### 2.3.2 Faulty Application
     - In this attack, attackers take advantage of websites with poor design or improper integration with databases.
     - For instance, they can employ SQL-like injections to generate requests to lock up database queries. These attacks are highly specific and effective because they consume server resources (memory, CPU etc.)
     
