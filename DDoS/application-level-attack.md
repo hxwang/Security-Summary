@@ -20,14 +20,14 @@ Application-level DDoS flooding attacks
 
 ### HTTP flooding attacks
 There are four types of attacks in this category.
-- #### Session flooding attacks
-- #### Request flooding attacks
-- #### Asymmetric attacks
+-#### Session flooding attacks
+-#### Request flooding attacks
+-#### Asymmetric attacks
     - Multiple HTTP get/post flood
     - Faulty Application
-- #### Slow request/response attacks
+-#### Slow request/response attacks
     - a Slowloris attack
-    
+    - 
 
 
 
