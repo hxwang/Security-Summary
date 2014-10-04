@@ -21,5 +21,5 @@ Currently, there are two methods to launch DDoS attack in the Internet.
 
 
 ### BotNet, Zombies
-- Attackers usually gain access to a large number of computer by exploiting their vulnerabilities to set up attack armies(i.e., Botnets). Once an attack army has been set up, an attacker can invoke a coordinated, large-scale attack against one or more targets. [Zargar-2013](https://github.com/hxwang/Security-Summary/blob/master/ZargarJ13_Survey_Defense-Mechanism-against-DDoS.md)
+- Attackers usually gain access to a large number of computer by exploiting their vulnerabilities to set up attack armies(i.e., Botnets). Once an attack army has been set up, an attacker can invoke a coordinated, large-scale attack against one or more targets. [[Zargar-2013]](https://github.com/hxwang/Security-Summary/blob/master/ZargarJ13_Survey_Defense-Mechanism-against-DDoS.md)
 - Zombies or computers that are part of a botnet are usually recruited throught the use of worm, Trojan hourse or blackdoors
