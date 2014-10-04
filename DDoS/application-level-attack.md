@@ -65,10 +65,9 @@ Similar to Slowris, the attackers send HTTP post commands slowly to bring down w
     - Then it sends the data to fill the message body at a rate of one byte every two minutes.
     - Hence, the serve waits for each message body to be completed while Slowpost attack grows rapidly which causes the DDoS flooding attack on the Web server.
 - Slowreading attack
-    
-
-
-This <span style="color:red">word</span> is not black.
+   - This attack achieves its purpose by setting a smaller receive window-size than the target server's send buffer.
+   - The TCP protocol maintains open connections even if there is not data communications;
+   - Hence, the attackers can force the server to keep a large number of connections open and eventually causes the DDoS flooding attack on the server.
 
 
 
