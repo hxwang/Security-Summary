@@ -10,7 +10,7 @@ Application-level DDoS flooding attacks
 #### Reflection/amplification based flooding attacks[[Pend-2004]](http://dl.acm.org/citation.cfm?id=1216373),[[Douligeris-2004]](http://www.sciencedirect.com/science/article/pii/S1389128603004250).
 - These attacks use the same techniques as their network/tranport-level peers (i.e., sending forged application-level protocol requests to the large number of reflectors). 
 - For instance, the DNS amplification attack employs both reflection and amplification techniques. 
-    - The attackers(zombies) generate *small* DNS queries with forged source IP addresses which can generate a large volume of network traffic since DNS response messages may be substantially larger than DNS query messages. 
+    - The attackers(zombies) generate **small** DNS queries with forged source IP addresses which can generate a **large** volume of network traffic since DNS response messages may be substantially larger than DNS query messages. 
     - Then this large volume of network traffic is directed towards the targeted system to paralyze it.
 - Another example is VoIP flooding.
     - This attack is a variance of an application specific UDP flooding. 
