@@ -32,7 +32,7 @@
     
 - Migrate
     - A well-behaving client may dynamically migrate to a protected channel when her credit points exceed a threshold while an ill-behaving client will be blocked after her credit points have been exhausted. 
-    - Technical: since a pth is established through a tunnel(virtual link), so we can migrate the traffic path of a well-behaving client from a non-VIP channel to a protected VIP channel
+    - Technical: since a path is established through a tunnel(virtual link), so we can migrate the traffic path of a well-behaving client from a non-VIP channel to a protected VIP channel
 
 - Mechanism
     - clients with different credit points are served on different communication channels. 
