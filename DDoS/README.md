@@ -26,8 +26,8 @@ DDoS Attack
 - [Overview](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-defense-mechanism.md)
 - Defense Mechanism Categories
     - by Location 
-        - [defense network/transport level](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-network-level-attack-by-location.md)
-        - [defense application level]()
+        - defense network/transport level,[Source-based](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-network-level-attack-by-location-source.md), [Destination-based]()
+        - defense application level, [source-based](), [Destination-based]()
     - by Point of Time
 - how to evaluate
 
