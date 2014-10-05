@@ -1,7 +1,7 @@
 ﻿Defense mechanisms against network/transport-level DDoS attacks(Source based mechanisms)
 ---
 
-- Note: contents of this page are from paper [Zigzag-2013]()
+- Note: contents of this page are from paper [Zigzag-2013](https://github.com/hxwang/Security-Summary/blob/master/papers/ZargarJ13_Survey_Defense-Mechanism-against-DDoS.md)
 
 - Overview
 	- Source-based mechanisms are deployed near the sources of the attack to prevent network customers from generating DDoS flooding attacks.  These mechanism can either take place either at the **edge routers** of the source's local network or at the **access routers** of an Autonomous System(AS) that connects to the sources' edge routers[[Criscuolo-2000]](http://www.iwar.org.uk/comsec/resources/reports/CIAC-2319_Distributed_Denial_of_Service.pdf). 
