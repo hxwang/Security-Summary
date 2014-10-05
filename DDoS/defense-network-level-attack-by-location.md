@@ -3,7 +3,15 @@
 
 - Note: contents of this page are from paper [Zigzag-2013]()
 
-Source-based mechanisms are deployed near the sources of the attack to prevent network customers from generating DDoS flooding attacks.  These mechanism can either take place either at the **edge routers** of the source's local network or at the **access routers** of an Autonomous System(AS) that connects to the sources' edge routers[[Criscuolo-2000]](http://www.iwar.org.uk/comsec/resources/reports/CIAC-2319_Distributed_Denial_of_Service.pdf). 
+- Overview
+	- Source-based mechanisms are deployed near the sources of the attack to prevent network customers from generating DDoS flooding attacks.  These mechanism can either take place either at the **edge routers** of the source's local network or at the **access routers** of an Autonomous System(AS) that connects to the sources' edge routers[[Criscuolo-2000]](http://www.iwar.org.uk/comsec/resources/reports/CIAC-2319_Distributed_Denial_of_Service.pdf). 
+	- Source-based defense mechanism aim to detect and filter the attack traffic at the sources of the attack; however, they are not entirely effective against DDoS flooding attacks.
+	- There are three main reasons which make these mechanisms a poor choice against DDoS flooding attacks.
+		- First, the sources of the attacks can be distributed in different domains making it difficult for each of the sources to detect and filter attacks flow accurately. 
+		- Second, it is difficult to differentiate between legitimate and attack traffic near the sources, since the volume of the traffic may **not be big enough** as the traffic typically aggregates tatpoints closer to the destinations.
+		- Finally, the motivation for deployment of the source-based mechanisms is low since it is unclear who (i.e., customers or service providers) would pay for the expenses associated with these services.
+	- Hence pure source-based mechanisms are not efficient and effective against DDoS flooding attacks.
+
 
 ### Ingress/Egress filtering at the sources' edge routers[[Ferguson-2000]](http://dl.acm.org/citation.cfm?id=RFC2827)
 - how it works
@@ -40,4 +48,13 @@ Source-based mechanisms are deployed near the sources of the attack to prevent n
 	- Both MULTOPS and TOPS are based on the **assumption** that incoming and outgoing traffic rates are proportional, which is not always the case. For instance, rates for multimedia streams are not proportional and significantly higher than the ones from clients. Hence, MULTOPS and TOPS can have high false negative rates. 
 	- Furthermore, attackers can increase the proportion ofthe incoming and outgoing traffic rates legitimately (e.g., downloading large files from different fup servers through a number of genuine sources); hence during the attack, the attack trffic will be undtected because of the similarity of the attack traffic rates to the normal traffic rates which have been legitimately increased.
 
-	
+
+### MANAnet's Reverse Firewall
+- [Mananet]](http://www.cs3-inc.com/pubs/ps_MANAnet-Reverse-Firewall.pdf)
+- How it works
+	- As opposed to a traditional firewall, which protects a network from imcoming packets, the reverse firewall protects the outside from the packet flooding attacks that originate from within a network.
+	- A reverse firewall **limits the rate at which it forwards packet** that are not replies to the other packets that recently were forwarded in the other direction.
+	- Of course, it must be possible to send some packets that are not replies, for instance, to start a new conversation. However, such packets must not be transmitted at a high rate.
+- Drawback
+	- It is manual and requires the administrators' involvement
+	- Incentive: there is no benefit(e.g., financial gain) for the source networks to deploy costly reverse firewalls since there is **no benefit for the source networks**. 
