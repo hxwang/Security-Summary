@@ -2,7 +2,7 @@ DDoS Attack
 ---
 
 
-### Intro
+### DDoS Intro
 - [Definition and Characteristics](https://github.com/hxwang/Security-Summary/blob/master/DDoS/definition.md)
 - [Incentive](https://github.com/hxwang/Security-Summary/blob/master/DDoS/incentive.md)
 - [Impact]()
