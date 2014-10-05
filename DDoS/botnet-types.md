@@ -18,18 +18,18 @@ Several IRC-based botnet tools have been developed and used over the years for l
     - [Kaiten-Knight.c](http://packetstormsecurity.com/files/23939/knight.c.html), conducts UDP, TCP, SYN and PUSH+ACH flood attacks
     
     
- #### Web-based (a.k.a HTTP-based)
- More recently, botnets have started using HTTP as a communication protocol to send commands to the bots making it much more difficult to track the DDoS command and control structure.
- 
- - Characteristic
-    - Web-based botnest do not maintain connections with a C&C server like IRC-based botnets do. 
-    - Instead, each Web bot periodically downloads the instructions using web requests. Web-based botnets are stealthier since they hide themselves within legitimate HTTP traffic.
-    - Bots are configurated and controoled through complex PHP scripts and they use encrypted communication over HTTP( port 80) or HTTPS( port 443) protocol. 
+#### Web-based (a.k.a HTTP-based)
+More recently, botnets have started using HTTP as a communication protocol to send commands to the bots making it much more difficult to track the DDoS command and control structure.
+
+- Characteristic
+- Web-based botnest do not maintain connections with a C&C server like IRC-based botnets do. 
+- Instead, each Web bot periodically downloads the instructions using web requests. Web-based botnets are stealthier since they hide themselves within legitimate HTTP traffic.
+- Bots are configurated and controoled through complex PHP scripts and they use encrypted communication over HTTP( port 80) or HTTPS( port 443) protocol. 
 - Tool
 Three well known and widely-used web-based botnet tools are
-    - [BlackEnergy](http://www.arbornetworks.com/asert/2007/10/blackenergy-ddos-bot-analysis-available/)
-    - [Low-Orbit Ion Cannon(LOIC)](https://github.com/neweracracker/loic)
-    - [Aldi](http://www.arbornetworks.com/asert/2012/02/ddos-tools/)
+- [BlackEnergy](http://www.arbornetworks.com/asert/2007/10/blackenergy-ddos-bot-analysis-available/)
+- [Low-Orbit Ion Cannon(LOIC)](https://github.com/neweracracker/loic)
+- [Aldi](http://www.arbornetworks.com/asert/2012/02/ddos-tools/)
     
     
  
