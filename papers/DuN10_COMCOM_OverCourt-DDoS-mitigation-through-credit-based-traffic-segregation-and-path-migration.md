@@ -1,7 +1,7 @@
 ## [OverCourt: DDoS Mitigation through credit-based traffic segration and path mitigation](http://www.sciencedirect.com/science/article/pii/S0140366410004251)
 
 
-- reading status: haven't started
+- reading status: finished on 2014-10-05
 - bib
 ```
 @article{Du20102164,
