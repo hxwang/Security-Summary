@@ -19,7 +19,7 @@ DDoS Attack
 - Category by Attack Technique
     - [BotNet-based DDoS attacks](./attack/botnet-based-DDoS-attack.md)
     
-
+### Detect Mechanism
 
 ### Defense Mechanism
 - [Overview](./defense/botnet-defense-mechanism.md)
