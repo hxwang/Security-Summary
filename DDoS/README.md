@@ -23,9 +23,12 @@ DDoS Attack
 
 
 ### Defense Mechanism
-- types
-  - [defense network/transport level]()
-  - [defense application level]()
+- [Overview](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-defense-mechanism.md)
+- Defense Mechanism Categories
+    - by Location 
+        - [defense network/transport level]()
+        - [defense application level]()
+    - by Point of Time
 - how to evaluate
 
 
