@@ -46,5 +46,8 @@ Different location for performing DDoS detection and response is shown in the fo
 The following figure shows the taxonomy of defense mechanisms against DDoS flooding attacks.
 ![](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-defense-taxonomy.PNG)
 
+- If classification by time, then the mechanisms could be before, in, or after the attack. However, a comprehensive DDoS defense mechanism should include all three defenses since there is no one-size-fit-all solution to the DDoS problem.
+
 The following figure gives more detail example of location-based defense.
 ![](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-network-level-defense-by-location.PNG)
+
