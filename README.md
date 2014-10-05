@@ -24,5 +24,5 @@ Security Paper Summary
 ####  Moving Target Defense
 
 #### OutLink
-- [Reputation-based Mechanism](./Moving-target.md)
-- [Moving-target Mechanism](./Reputation-based.md)
+- [Reputation-based Mechanism](./Reputation-based.md)
+- [Moving-target Mechanism](./Moving-target.md)
