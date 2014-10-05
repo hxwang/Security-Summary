@@ -29,3 +29,22 @@ According to [[Peng-2007]](http://dl.acm.org/citation.cfm?id=1216373) , there ar
 - Second, zombies' IP addresses are usually spoofed under the control of the attacker, which makes it very difficult to traceback the attack traffic even to the zombies.
 - `My comments: For our designed moving target defense, we can prevent spoofed IP address attack.`
 
+#### Defense 
+##### Goal
+	- detect the attack as soon as possible
+	- stop the attack ad near as possible to their source
+	
+#####  Defense location	
+Different location for performing DDoS detection and response is shown in the following Fig.
+![]()
+	- From the figure, we can see that a DDoS flooding attack resembles a funnel in which attack flows are generated in a dispersed area(i.e., source), forming the top of the funnel, receives all the attack flow generated.
+	- Thus, detecting a DDoS flooding attack is relatively easier at the destination(victim), since all the flows can be observed at the destination.
+	- While it is difficult for an individual source network of the attack to detect the attack unless a large number of attack flows are initiated from that source.
+	- Obviously, it is desirable to respond to the attack flows closer to the sources of the attacks, but there is a trade-off between accuracy of the detection and how close to the source of attack the prevention and response mechanism can stop or respond to the attack.
+
+##### Defense Mechanism
+The following figure shows the taxonomy of defense mechanisms against DDoS flooding attacks.
+![]()
+
+The following figure gives more detail example of location-based defense.
+![]()
