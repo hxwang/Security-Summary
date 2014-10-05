@@ -1,16 +1,30 @@
-Botnet-based DDoS defense mechanism 
----
+#### Defense Challenge
+According to [[Peng-2007]](http://dl.acm.org/citation.cfm?id=1216373) , there are two main reasons that make the development of an effective DDoS defense mechanism even more challenging when attacker employ zombies to launch DDoS flooding attacks.
 
-## 1. Classification based on the deployment location
-### 1.1 Defense mechanism against network/transport-level DDoS attacks
-#### 1.1.1 Source based mechanisms
-Source-based mechanisms are deployed near the sources of the attack to prevent network customers from generating DDoS flooding attacks.  These mechanism can either take place either at the **edge routers** of the source's local network or at the **access routers** of an Autonomous System(AS) that connects to the sources' edge routers[[Criscuolo-2000]](http://www.iwar.org.uk/comsec/resources/reports/CIAC-2319_Distributed_Denial_of_Service.pdf). 
-- Ingress/Egress filtering at the sources' edge routers[[Ferguson-2000]](http://dl.acm.org/citation.cfm?id=RFC2827)
-	- how it works
-		- The current IP protocol allows source hosts to alter source addresses in the IP packets. Victims cannot distinguish attack packets from legitimate ones based on source addresses. Although the IPSec protocol [[RFC2402-1998]](https://tools.ietf.org/html/rfc2402) can address this problem by authenticating the source addresses of IP packets, this method is not widely deployed among service providers because of its increased overhead.
-		- Ingress/Egress filtering mechanisms have been proposed to detect and filter packets with **spoofed IP address** at the **source's edge routers* based on the valid IP address range internal to the network.
-	- drawback
-		- cannot detect if the spoofed IP addresses are still in the valid internal IP address range.
-		- under the filter mechanism, mobile IP address has to be tunnelled in order to avoid filtering.
-		- considering the current trend towards employing botnets to launch various atacks, attackers can still attack their targets by employing the pool of zombies with genuine IP addresses available through botnets. 
-## 2. Classification based on the point by time
+- First, A large number of zombies involved in the attack facilitates attackers to make the attacks larger in scale and more disruptive.
+- Second, zombies' IP addresses are usually spoofed under the control of the attacker, which makes it very difficult to traceback the attack traffic even to the zombies.
+- `My comments: For our designed moving target defense, we can prevent spoofed IP address attack.`
+
+#### Defense 
+- Goal
+	- detect the attack as soon as possible
+	- stop the attack ad near as possible to their source
+	
+- Defense location	
+Different location for performing DDoS detection and response is shown in the following Fig.
+![](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-defense-location.PNG)
+	- From the figure, we can see that a DDoS flooding attack resembles a funnel in which attack flows are generated in a dispersed area(i.e., source), forming the top of the funnel, receives all the attack flow generated.
+	- Thus, detecting a DDoS flooding attack is relatively easier at the destination(victim), since all the flows can be observed at the destination.
+	- While it is difficult for an individual source network of the attack to detect the attack unless a large number of attack flows are initiated from that source.
+	- Obviously, it is desirable to respond to the attack flows closer to the sources of the attacks, but there is a trade-off between accuracy of the detection and how close to the source of attack the prevention and response mechanism can stop or respond to the attack.
+
+- Defense Mechanism
+	- The following figure shows the taxonomy of defense mechanisms against DDoS flooding attacks.
+![](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-defense-taxonomy.PNG)
+
+	- If classification by time, then the mechanisms could be before, in, or after the attack. However, a comprehensive DDoS defense mechanism should include all three defenses since there is no one-size-fit-all solution to the DDoS problem.
+
+	- The following figure gives more detail example of location-based defense.
+![](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-network-level-defense-by-location.PNG)
+
+
