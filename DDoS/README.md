@@ -19,7 +19,6 @@ DDoS Attack
 - Category by Attack Technique
     - [BotNet-based DDoS attacks](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-based-DDoS-attack.md)
     
-### BotNets
 
 
 ### Defense Mechanism
