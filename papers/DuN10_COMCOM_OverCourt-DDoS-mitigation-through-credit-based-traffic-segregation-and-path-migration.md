@@ -24,7 +24,7 @@
         - VIP(very important person)
         - non-VIP 
     - The architecture is shown in the following figure.
-    ![](https://github.com/hxwang/Security-Summary/blob/master/figs/OverCourt-arch.PNG = 250x)
+    ![](https://github.com/hxwang/Security-Summary/blob/master/figs/OverCourt-arch.PNG = 100x20)
     
 - Migrate
     - A well-behaving client may dynamically migrate to a protected channel when her credit points exceed a threshold while an ill-behaving client will be blocked after her credit points have been exhausted. 
