@@ -30,13 +30,13 @@ According to [[Peng-2007]](http://dl.acm.org/citation.cfm?id=1216373) , there ar
 - `My comments: For our designed moving target defense, we can prevent spoofed IP address attack.`
 
 #### Defense 
-##### Goal
+- Goal
 	- detect the attack as soon as possible
 	- stop the attack ad near as possible to their source
 	
-#####  Defense location	
+- Defense location	
 Different location for performing DDoS detection and response is shown in the following Fig.
-![]()
+![](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-defense-location.PNG)
 	- From the figure, we can see that a DDoS flooding attack resembles a funnel in which attack flows are generated in a dispersed area(i.e., source), forming the top of the funnel, receives all the attack flow generated.
 	- Thus, detecting a DDoS flooding attack is relatively easier at the destination(victim), since all the flows can be observed at the destination.
 	- While it is difficult for an individual source network of the attack to detect the attack unless a large number of attack flows are initiated from that source.
@@ -44,7 +44,7 @@ Different location for performing DDoS detection and response is shown in the fo
 
 ##### Defense Mechanism
 The following figure shows the taxonomy of defense mechanisms against DDoS flooding attacks.
-![]()
+![](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-defense-taxonomy.PNG)
 
 The following figure gives more detail example of location-based defense.
-![]()
+![](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-network-level-defense-by-location.PNG)
