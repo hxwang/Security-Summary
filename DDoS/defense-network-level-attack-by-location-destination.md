@@ -33,3 +33,10 @@ There are various IP traceback mechanisms that have been proposed to date [[Chen
 	- Moreover, attackers can also aggregate generate traceback messages; consequently, some form of authentication of traceback message is necessary.
 	- Furthermore, most of the traceback mechanisms have heavy computational, network or management overheads [[Wu-2011]](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5318904&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D5318904).
 
+
+#### Management Information Base(MIB)
+- Ref: [
+
+
+#### TODO
+- [ ] Read page 2054-2055 of [Zigzag-2013]()
