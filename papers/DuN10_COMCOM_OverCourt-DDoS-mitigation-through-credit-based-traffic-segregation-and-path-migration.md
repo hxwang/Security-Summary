@@ -25,8 +25,8 @@
         - non-VIP 
     - The architecture is shown in the following figure.
     
-    <img src="https://github.com/hxwang/Security-Summary/blob/master/figs/OverCourt-arch.PNG" width="400px" height="400px" />
-    ![](https://github.com/hxwang/Security-Summary/blob/master/figs/OverCourt-arch.PNG){ width: 200px; }
+    <img src="https://github.com/hxwang/Security-Summary/blob/master/figs/OverCourt-arch.PNG" width="400px" height="500px" />
+    
     
 - Migrate
     - A well-behaving client may dynamically migrate to a protected channel when her credit points exceed a threshold while an ill-behaving client will be blocked after her credit points have been exhausted. 
