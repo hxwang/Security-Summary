@@ -23,6 +23,8 @@
     - Two classes of communication channel
         - VIP(very important person)
         - non-VIP 
+    - The architecture is shown in the following figure.
+    ![]()
     
 - Migrate
     - A well-behaving client may dynamically migrate to a protected channel when her credit points exceed a threshold while an ill-behaving client will be blocked after her credit points have been exhausted. 
