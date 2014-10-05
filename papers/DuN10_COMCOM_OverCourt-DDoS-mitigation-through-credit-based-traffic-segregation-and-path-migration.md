@@ -25,7 +25,7 @@
         - non-VIP 
     - The architecture is shown in the following figure.
     
-    <img src="https://github.com/hxwang/Security-Summary/blob/master/figs/OverCourt-arch.PNG" width="400px" height="500px" />
+    <img src="https://github.com/hxwang/Security-Summary/blob/master/figs/OverCourt-arch.PNG" height="500px" align="center" />
     
     
 - Migrate
