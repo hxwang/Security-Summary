@@ -28,7 +28,7 @@ DDoS Attack
         - defense network/transport level:[Source-based](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-network-level-attack-by-location-source.md), [Destination-based](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-network-level-attack-by-location-destination.md), [Network-based](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-network-level-attack-by-location-network.md), [Hybrid](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-network-level-attack-by-location-hybrid.md)
         - defense application level: [Destination-based](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-application-level-attack-by-location-destination.md), [Hybrid](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-application-level-attack-by-location-hybrid.md)
     - by Point of Time
-- how to evaluate
+- Evaluation Mechanism
 
 
 
