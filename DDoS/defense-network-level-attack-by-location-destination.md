@@ -1,7 +1,7 @@
 ﻿Defense mechanisms against network/transport-level DDoS attacks(destination based mechanisms)
 ---
 
-- Note: contents of this page are from paper [Zigzag-2013]()
+- Note: contents of this page are from paper [Zigzag-2013](https://github.com/hxwang/Security-Summary/blob/master/papers/ZargarJ13_Survey_Defense-Mechanism-against-DDoS.md)
 
 - In the destination-base defense mechanisms, detection and response is mostly done at the destination of the attack(i.e., the victim). There exist various destination-based mechanisms that can take place either at the edge routers or the access routers of the destinations' AS. These mechanisms can closely observe the victim, model its behavior and detect anomalies. Some ofthe major destination-based DDoS defense mechanisms are as follows.
 
