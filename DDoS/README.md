@@ -22,11 +22,11 @@ DDoS Attack
 
 
 ### Defense Mechanism
-- [Overview](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-defense-mechanism.md)
+- [Overview](./defense/botnet-defense-mechanism.md)
 - Defense Mechanism Categories
     - by Location 
-        - defense network/transport level:[Source-based](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-network-level-attack-by-location-source.md), [Destination-based](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-network-level-attack-by-location-destination.md), [Network-based](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-network-level-attack-by-location-network.md), [Hybrid](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-network-level-attack-by-location-hybrid.md)
-        - defense application level: [Destination-based](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-application-level-attack-by-location-destination.md), [Hybrid](https://github.com/hxwang/Security-Summary/blob/master/DDoS/defense-application-level-attack-by-location-hybrid.md)
+        - defense network/transport level:[Source-based](./defense/defense-network-level-attack-by-location-source.md), [Destination-based](./defense/defense-network-level-attack-by-location-destination.md), [Network-based](./defense/defense-network-level-attack-by-location-network.md), [Hybrid](./defense/defense-network-level-attack-by-location-hybrid.md)
+        - defense application level: [Destination-based](./defense/defense-application-level-attack-by-location-destination.md), [Hybrid](./defense/defense-application-level-attack-by-location-hybrid.md)
     - by Point of Time
     - by Type: [Overlay]()
 - Evaluation Mechanism
