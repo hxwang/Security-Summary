@@ -27,7 +27,7 @@
     
    
     <p align="center">
-    <img src="https://github.com/hxwang/Security-Summary/blob/master/figs/OverCourt-arch.PNG" height="400px"/>
+    <img src="../figs/OverCourt-arch.PNG" height="400px"/>
     </p>
     
 - Migrate
