@@ -20,7 +20,7 @@ DDoS Attack
     - [BotNet-based DDoS attacks](./attack/botnet-based-DDoS-attack.md)
     
 ### Detect Mechanism
-- [detection overview]()
+- [detection overview](./detect/detect-mechanism.md)
 
 ### Defense Mechanism
 - [Overview](./defense/botnet-defense-mechanism.md)
