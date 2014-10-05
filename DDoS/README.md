@@ -14,10 +14,10 @@ DDoS Attack
 
 ### Attack Types
 - Category by Attack Protocol Level
-    - [Network/transport level attacks](https://github.com/hxwang/Security-Summary/blob/master/DDoS/network-level-attack.md)
-    - [Application-level attacks](https://github.com/hxwang/Security-Summary/blob/master/DDoS/application-level-attack.md)
+    - [Network/transport level attacks](./attack/network-level-attack.md)
+    - [Application-level attacks](./attack/application-level-attack.md)
 - Category by Attack Technique
-    - [BotNet-based DDoS attacks](https://github.com/hxwang/Security-Summary/blob/master/DDoS/botnet-based-DDoS-attack.md)
+    - [BotNet-based DDoS attacks](./attack/botnet-based-DDoS-attack.md)
     
 
 
