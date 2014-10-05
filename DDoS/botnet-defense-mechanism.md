@@ -1,3 +1,7 @@
+Botnet-based DDoS defense mechanisms
+---
+
+
 #### Defense Challenge
 According to [[Peng-2007]](http://dl.acm.org/citation.cfm?id=1216373) , there are two main reasons that make the development of an effective DDoS defense mechanism even more challenging when attacker employ zombies to launch DDoS flooding attacks.
 
