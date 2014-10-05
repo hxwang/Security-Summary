@@ -19,7 +19,7 @@ Botnets are the dominant mechanisms that facilitate DDoS flooding attacks on com
     - Bots are those systems that will eventually carry out the attack on the victim's system.
     
 #### BotNet Types
-Botnet can have hundreds of implementation. Based on how bots are controlled by the masters, botnets are classified into three major categories
+Botnet can have hundreds of implementation. Based on how bots are controlled by the masters, botnets are classified into three major categories, IRC-based, Web-based and P2P-based. [[Link]]()
 
 ##### IRC-based
 - Ref: [[Lo-1997]](http://www.irchelp.org/irchelp/irctutorial.html)
