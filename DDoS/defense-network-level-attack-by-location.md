@@ -1,4 +1,4 @@
-﻿Defense mechanism against network/transport-level DDoS attacks(Source based mechanisms)
+﻿Defense mechanisms against network/transport-level DDoS attacks(Source based mechanisms)
 ---
 
 - Note: contents of this page are from paper [Zigzag-2013]()
