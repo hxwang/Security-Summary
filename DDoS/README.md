@@ -29,7 +29,7 @@ DDoS Attack
         - defense network/transport level:[Source-based](./defense/defense-network-level-attack-by-location-source.md), [Destination-based](./defense/defense-network-level-attack-by-location-destination.md), [Network-based](./defense/defense-network-level-attack-by-location-network.md), [Hybrid](./defense/defense-network-level-attack-by-location-hybrid.md)
         - defense application level: [Destination-based](./defense/defense-application-level-attack-by-location-destination.md), [Hybrid](./defense/defense-application-level-attack-by-location-hybrid.md)
     - by Point of Time
-    - by Type: [Overlay](./defense/defense-overlay.md)
+    - by Type: [Overlay](./defense/defense-overlay.md), [Filter-based](), [Capability-based]()
 - Evaluation Mechanism
 
 
