@@ -9,7 +9,7 @@ DDoS Attack
 - [Attack Trend](https://github.com/hxwang/Security-Summary/blob/master/DDoS/trend.md)
 
 ### Attack Events
-- [Recent Events](https://github.com/hxwang/Security-Summary/blob/master/DDoS/recentDDoSAttaks.md)
+- [Recent Events](./attack/recentDDoSAttaks.md)
 
 
 ### Attack Types
