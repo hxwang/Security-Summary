@@ -11,7 +11,8 @@
     year={2013}, 
     volume={15}, 
     number={4}, 
-    pages={2046-2069},
+    pages={2046-2069}
+    }
 ```
 
 ### Summary
