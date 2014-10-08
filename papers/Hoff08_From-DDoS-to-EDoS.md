@@ -11,15 +11,14 @@
 }
 ```
 
-
 ### Summary
+With the cloud charging scheme, the users in the cloud could suffer from EDoS attack. The attackers could design botnet to make seemingly legitimate request for service to generate economic cost for the service provider, this kind of attack is termed Economic Denial of Sustainability(EDoS).
 
+### Defense
+To defend EDoS attack, the service could have the following strategy
+- constrain the cost
+- try to distiguish between legitimate and targeted resource consumption from attackers.
 
-### Problem Model
-
-### Strongness
-
-### Weakness
-
-### Extension
+### Learned
+- In could computing environment, the storate and compute were not billable serice options to worry about, but the **network bandwidth**.
 
