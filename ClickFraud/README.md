@@ -7,7 +7,7 @@
 
 
 ### Events
-- [events](./events.md)
+- [Events](./events.md)
 
 ### Defense
-- [detect](./detect.md)
+- [Detect](./detect.md)
