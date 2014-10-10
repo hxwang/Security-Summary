@@ -25,3 +25,5 @@ Note: the increasing in PPC advertising has implications for trends in click fra
 
 - A B&T Weekly article [Nguyen-2006](http://connection.ebscohost.com/c/articles/23591135/online-giants-failing-educate-market-click-fraud) reported that Yahoo's software could identify click fraud, allowing it to delete invalid click charges from advertisers' PPC accounts. 
 
+### Google
+- According to an Economist article, Google handles more than 75 percent of search related ads in the US [[Economist-299]](http://www.economist.com/node/14637206).  It offers advertisers three choices: Google.com only, Google.com and major search partners such as AOL and AskJeeves, and Google.com and the network of its affiliates.  According to the July 2006 webpronnews.com ariticle, click-fraud rate were the highest in the third case and the lowerest in the first. 
