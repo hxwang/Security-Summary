@@ -26,5 +26,5 @@ Security Paper Summary
 #### OutLink
 - [Reputation-based Mechanism](./Reputation-based.md)
 - [Moving-target Mechanism](./Moving-target.md)
-- Basic: [DDoS Attack](./DDoS)
+- Basic: [DDoS Attack](./DDoS), [Click-Fraud](./ClickFraud)
 - PaperList: [To Read](./ToRead.md), [Done-List](./DoneList.md)
