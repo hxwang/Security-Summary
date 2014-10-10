@@ -2,8 +2,14 @@ Paper Finished List
 ---
 
 ### DDoS
+| Paper       | Assigner | Date |
+| ------------- |:-------------:| -----:|
+| [From DDoS(distributed denail of service) to EDoS(economic denial of sustainability)](http://rationalsecurity.typepad.com/blog/2008/11/cloud-computing-security-from-ddos-distributed-denial-of-service-to-edos-economic-denial-of-sustaina.html), by *C. Hoff*, online 2008, [[Summary]](./papers/Hoff08_From-DDoS-to-EDoS.md).     | Fei| 10/08/2014 | 
+
+### Click Fraud
 | Paper       | Date |
 | ------------- |:-------------:| -----:|
-| [From DDoS(distributed denail of service) to EDoS(economic denial of sustainability)](http://rationalsecurity.typepad.com/blog/2008/11/cloud-computing-security-from-ddos-distributed-denial-of-service-to-edos-economic-denial-of-sustaina.html), by *C. Hoff*, online 2008, [[Summary]](./papers/Hoff08_From-DDoS-to-EDoS.md).     | 10/08/2014 | 
+| [The economics of click Fraud](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5445076), by *N. Kshetri*, in IEEE Security Privacy, in 2010, [[Summary]](./papers/Kshetri10_The-economics-of-click-fraud.md).     | Fei | 10/08/2014 | 
+
 
 
