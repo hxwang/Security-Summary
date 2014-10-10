@@ -11,7 +11,10 @@ Note: the increasing in PPC advertising has implications for trends in click fra
 
 - AuctionBytes.com reported that in 20006, advertisers workdwide spent $15 billion on PPC advertising [[AuctionBytes-2007]](http://www.ecommercebytes.com/cab/abn/y07/m04/i23/s03/)
 
-![click fraud portion](./figs/PortionClickFraud.PNG)
+  <div align = "center">
+  <img src="./figs/PortionClickFraud.PNG" width = "550px"/>
+  </div>
+
 
 ### Click Fraud Events
 - As the *Washington Post reported, click-exchange programs and forums exist to let site publishers exchange click-fraud tips [Oct-2006](http://www.washingtonpost.com/wp-dyn/content/article/2006/10/21/AR2006102100936.html). These fraudulent clicks arise from user's malicious intent to make advertisers pay, which raises questions about how infallible the Internet's measurability really is.
