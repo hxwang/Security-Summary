@@ -46,6 +46,17 @@ The following rles are defined in the context of cloud computing to provide a co
         <img src= "../figs/DDoS-Flash-Crowd.PNG" width = "800px" />
     </div>
 
+### Detection Mechanism
+- Detecting based on Zip law
+    - Observation
+        - In the normal case, the document request will satisfy Zip law.
+        - However, for the FRC attack, attackers will have more interest in requesting for the documents that represent the majority of overall data usage. 
+    - How it works?
+        - computing the 90% regression slop of a sample data set
+        - determine if the slope falls within a tolerance interval relative to normal activity
+    - Resiliency
+        - if the attacker want to avoid being detected, then the attackers to know the website's usage patterns
+        
 ### Strongness
 
 ### Weakness
