@@ -42,7 +42,7 @@ The following rles are defined in the context of cloud computing to provide a co
     - in DDoS attack, the average client request is high during the peak
     - in Flash Crowd, the average client request rate will decrease due to the decrease of QoS quality
 - <div align = "center">
-  <img src= "../figs/DDoS-Flash-Crowd.PNG" width = "600px" />
+  <img src= "../figs/DDoS-Flash-Crowd.PNG" width = "800px" />
   </div>
 
 ### Strongness
