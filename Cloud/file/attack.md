@@ -1,4 +1,4 @@
-## Vulnerability
+## Cloud Attack
 
 ### Fradulent Resource Consumption(FRC) attack
 - Ref: [[Idziorek-2011]](../../papers/IdziorekT11_CCSW_Detecting-Fraudulent-Use-of-Cloud-Resources.md)
