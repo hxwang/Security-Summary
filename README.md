@@ -13,5 +13,8 @@ Security Summary
 - [Reputation-based Mechanism](./Reputation-based.md)
 - [Moving-target Mechanism](./Moving-target.md)
 
+### Trace
+- [Trace](./Trace)
+
 ### Reading
 - PaperList: [To Read](./ToRead.md), [Done-List](./DoneList.md)
