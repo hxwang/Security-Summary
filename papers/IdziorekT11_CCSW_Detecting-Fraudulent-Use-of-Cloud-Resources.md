@@ -17,8 +17,19 @@
 ### Summary
 
 ### Model
-
-
+The following rles are defined in the context of cloud computing to provide a consistent reference to the actors that play in a FRC attack.
+- *Cloud Service Provider(CSP)**
+  - The CSP(e.g., Amazon EC2 or Microsoft Azure) offers consumer-provisioned and metered computing resources that can be leased for flexible time durations.
+- *Cloud Consumer*
+    - The cloud consumer is a person or organization that employs the services of a CSP and is financially responsible for resource consumption. 
+    - The cloud consumer also plays a dual role of the victim.
+- *Client*
+    - The client is a legitimate user that requests web content offered by the cloud consumer.
+- *Attacker*
+    - Although a FRC attack is ultimately carried by one or more attack clients, the attackers(e.g., bot master) is the mastermined that orchestrates the FRC among the attack clients. 
+- *Attack Client*
+    - The attack client is a malicious user(e.g., bot) that fraudulently consumes resources offered by the cloud consumer. 
+    
 ### Strongness
 
 ### Weakness
