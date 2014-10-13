@@ -4,7 +4,7 @@
 Ref: [[Idziorek-2011]](../../papers/IdziorekT11_CCSW_Detecting-Fraudulent-Use-of-Cloud-Resources.md)
 ##### Attack Objective
 - The objective of the attacker is to exploit the utility pricing model by fraudulently consuming web content with the purpose of depriving the victim of their long-term economic viability of hosting publicly accessible web content in the cloud.
-  - under the **pay-as-you-go scheme**, attackers could attack the economic sustainability of cloud consumers, i.e., the attackers could request web content in volumes that cost the cloud consumer a lot of money
+  - under the **pay-as-you-go scheme**, attackers intend to run-up the data usage cost for the victime by consuming bandwidth in excess of normal usage.
   - Cloud network attack diagram
     - <img src="../figs/CloudEdosAttack.PNG" width="550px" />
     
