@@ -1,4 +1,4 @@
-Security Paper Summary
+Security Summary
 ---
 
 #### Reputation-based Mechanism
