@@ -7,7 +7,9 @@ Ref: [[Idziorek-2011]](../../papers/IdziorekT11_CCSW_Detecting-Fraudulent-Use-of
   - under the **pay-as-you-go scheme**, attackers could attack the economic sustainability of cloud consumers, i.e., the attackers could request web content in volumes that cost the cloud consumer a lot of money
   - Cloud network attack diagram
     - <img src="../figs/CloudEdosAttack.PNG" width="550px" />
+    
 #### Attacker Characteristic
 - to avoid detection by current application-layer DDoS solutions, fraudulent request rates of attack clients are of **moderate itensity** and requests attempt to lend into the normal activity of the target website. 
+
 #### Detection
 - For the cloud consumer, differentiating data usage of legitimate clients from that of attack clients is difficult because requests only differe in the intentions of the attacker not in the structure or semantics of the requests/ 
