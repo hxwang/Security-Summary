@@ -11,3 +11,5 @@ The dataset is a historical web trace from a busy NASA web server.
         <img src= "../figs/NASA-Request.PNG" width = "600px" />
      </div>
 
+### Used by 
+- [[Idziorek-2011]](../../papers/IdziorekT11_CCSW_Detecting-Fraudulent-Use-of-Cloud-Resources.md)
