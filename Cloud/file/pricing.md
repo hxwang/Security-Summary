@@ -1,6 +1,6 @@
 ## Pricing
 
-### pay-as-you-go
+### Mode1: pay-as-you-go
 also known as **utility pricing**
 - [Amazon EC2 Data Transfer Pricing](http://aws.amazon.com/ec2/pricing/)
 - pay by resource consumption (e.g., server hours, bandwidth, storage, etc.)
