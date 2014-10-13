@@ -33,6 +33,14 @@ The following rles are defined in the context of cloud computing to provide a co
 - Utility Model
     - [Pay-As-You-Go](../Cloud/file/pricing.md)
     
+### DDoS v.s. Flash Crowd
+- Definition
+    - Flash crowd: a significnat number of legitimae clients simultaneously requesting web content from a given site. Often triggered by a major news or sporting event, the individual clients that participate in this phenomenon are not malicious in nature.
+- Similarity
+    - traffic peak
+- Difference
+    - in DDoS attack, the average client request is high during the peak
+    - in Flash Crowd, the average client request rate will decrease due to the decrease of QoS quality
 ### Strongness
 
 ### Weakness
