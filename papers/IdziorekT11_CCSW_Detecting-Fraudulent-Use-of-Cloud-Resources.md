@@ -1,4 +1,4 @@
-[Detecting Fraudulent Use of Cloud Resources]()
+[Detecting Fraudulent Use of Cloud Resources](http://dl.acm.org/citation.cfm?id=2046676)
 ---
 
 - reading status: 2014-10-03 ing
