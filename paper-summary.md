@@ -21,10 +21,4 @@ Security Paper Summary
 - [A study of On-Off Attack Models for Wireless Ad Hoc Networks](http://ieeexplore.ieee.org/xpl/abstractCitations.jsp?arnumber=4138221), by *Perrone, L.F.*, 2006, [[Summary]](./papers/PerroneN06_A-study-of-on-off-attack-models-for-wireless-ad-hoc-networks.md)
 
 
-####  Moving Target Defense
 
-#### OutLink
-- [Reputation-based Mechanism](./Reputation-based.md)
-- [Moving-target Mechanism](./Moving-target.md)
-- Basic: [DDoS Attack](./DDoS), [Click-Fraud](./ClickFraud)
-- PaperList: [To Read](./ToRead.md), [Done-List](./DoneList.md)
