@@ -3,10 +3,10 @@
 ### System structure
 
 ### Attack Events
-- [events](./file/event.md)
+- [Events](./file/event.md)
 
 ### Pricing
-- [pricing](./file/pricing.md)
+- [Pricing](./file/pricing.md)
 
 ### Vulnerability
-- [vulnerability](./file/vulnerability.md)
+- [Vulnerability](./file/vulnerability.md)
