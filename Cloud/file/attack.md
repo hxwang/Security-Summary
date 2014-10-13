@@ -1,6 +1,6 @@
 ## Cloud Attack
 
-### Fradulent Resource Consumption(FRC) attack
+### 1. Fradulent Resource Consumption(FRC) attack
 Ref: [[Idziorek-2011]](../../papers/IdziorekT11_CCSW_Detecting-Fraudulent-Use-of-Cloud-Resources.md)
 ##### Attack Objective
 - The objective of the attacke ris to exploit the utility pricing model by fradumlently consuming web content with the purpose of depriving the victime of their long-term economic viability of hosting publicly accessible web content in the cloud.
