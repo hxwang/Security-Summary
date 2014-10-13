@@ -15,6 +15,7 @@
 ```
 
 ### Summary
+In this paper, the authors first point out that the traditional mechanism for detecting DDoS attack cannot be applied to detect FRC attack. Then they proposed three detection metrics form the criteria for identifying a FRC attack from that of normal web activity. Evaluations are conducted under three make-up attack scenarios. 
 
 ### Model
 - System Model
@@ -46,8 +47,10 @@ The following rles are defined in the context of cloud computing to provide a co
         <img src= "../figs/DDoS-Flash-Crowd.PNG" width = "800px" />
     </div>
 
-### Detection Mechanism
-- Detecting based on Zip law
+### Detection Metrics
+
+- Metrics1: based on Zip law
+The proposed metrics are based on the consistency and self-similar nature of aggregate web activity.
     - Observation
         - In the normal case, the document request will satisfy Zip law.
         - However, for the FRC attack, attackers will have more interest in requesting for the documents that represent the majority of overall data usage. 
@@ -56,13 +59,28 @@ The following rles are defined in the context of cloud computing to provide a co
         - determine if the slope falls within a tolerance interval relative to normal activity
     - Resiliency
         - if the attacker want to avoid being detected, then the attackers to know the website's usage patterns
+- Metric2: based on Spearman's Footrule
+Detect the presence of resource usage fraud within an inspected dataset(i.e., the ground truth is known)
+    - intro
+        - The Spearman's Footrule distance [[Dwork-2001]](http://dl.acm.org/citation.cfm?id=372165) is a non-parametric measure of **similarity**, or lack thereof, between two ranked lists.
+        - the greater the Spearman proximity between two top_k ranked lists, the more similar the two lists are in respect to each other.
+- Metric3: overlap
         
-### Strongness
+### Evaluation
+- attack scenario
+    - the authors describe three attack scenarios: random attack, heavy-hitter attack and trace-drive attack.
+    - the evaluation is performed under these three attack scenarios 
+- evaluation metrics
+    - false positive
+    - false negative
+    
 
-### Weakness
 
 
 ### Extensions
+- Although the detection mechanism present in this paper can detect FRC attack, it is not capable of identifying of individual attack clients from legitimate clients
+    - However, our shuffling mechanism can! How to map our mechanism to solve the problem?
+    
 
 ### TODO
 - page 65: archive the related work on detection mechanism in this paper 
