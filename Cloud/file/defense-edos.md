@@ -16,7 +16,7 @@
 - my comment: `the idea is similar to turing test`
 
 ### CLAD
-- Ref: [[PingN-2010]]
+- Ref: [[PingN-2010]](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5488345)
 - CLAD is a cloud-based **overlay** network, which is an on-demand network service to proect the web-servers against the DDoS. 
 - how it works?
     - mediates the traffic targeting the protected server to verity the clients using graphical Truing tests.
