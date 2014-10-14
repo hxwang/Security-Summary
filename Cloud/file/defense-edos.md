@@ -12,7 +12,7 @@
     - however, this cannot be considered as an efficient practical solution for the EDoS attack since the user account could still be charged to some extent defined by quota due to such attack. In addition, when elasticity reaches the upper bound, the cloud service freezes and thus legitimate clients will be denied service till refreshing the quota again leading to a behavior similar to a DoS attack.
 
 ### sPoW
-- sPoW [[]HinkhorN-2009]](http://www.docstoc.com/docs/104260160/sPoW-On-Demand-Cloud-based-eDDoS-Mitigation-Mechanism) 
+- sPoW [[HinkhorN-2009]](http://www.docstoc.com/docs/104260160/sPoW-On-Demand-Cloud-based-eDDoS-Mitigation-Mechanism) 
 - my comment: `the idea is similar to turing test`
 
 ### CLAD
