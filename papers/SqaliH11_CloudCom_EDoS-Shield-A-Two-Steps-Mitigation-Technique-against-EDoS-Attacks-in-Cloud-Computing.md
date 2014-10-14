@@ -13,6 +13,6 @@
 ```
 
 ### Summary
-
+In this paper, the authors propose a EDoS mitigating mechanism by verifying whether the requests are from legitimate users or bots. 
 
 ### 
