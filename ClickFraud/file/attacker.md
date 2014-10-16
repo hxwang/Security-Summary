@@ -7,7 +7,7 @@
 - Syndicated publishers
 	- have strong financial motive, have been know to fraudulent generate clicks to inflate their paychecks[[FBI-2011]](http://www.fbi.gov/news/stories/2011/november/malware_110911)
 
-### Victime
+### Victim
 - advertisers
 - consumers
     - they could suffer from pop-up ads used to perform click fraud
