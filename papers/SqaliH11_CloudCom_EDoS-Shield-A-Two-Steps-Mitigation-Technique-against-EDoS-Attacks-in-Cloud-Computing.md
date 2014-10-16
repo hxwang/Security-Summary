@@ -13,7 +13,8 @@
 ```
 
 ### Summary
-In this paper, the authors propose a EDoS mitigating mechanism by verifying whether the requests are from legitimate users or bots. 
+In this paper, the authors propose a EDoS mitigating mechanism by verifying whether the requests are from legitimate users or bots. The main components of distinguishing legitimates from bots is achived by CAPTCHA. 
+
 
 ### System Architecture
 - The following figures show the system architecure
@@ -29,6 +30,11 @@ In this paper, the authors propose a EDoS mitigating mechanism by verifying whet
     - it is unpleasant to users for dealing with the turing test or CAPTCHA
 - block IP
     - NAT problem
+
+### Extension
+- the system is somewhat similar to our system
+    - we both use firewall(load balancer) to redirect clients to authentication node
+    - however, we assume some bots may pass the authentication and enter our system. i.e., we are trying to deal with the case when there are insiders in the system.
     
 ### TODO
 - record the related work of *load balancing" of firewall in page 52, these could be evidence of how robust the firewall or loadblancer could be in the cloud
