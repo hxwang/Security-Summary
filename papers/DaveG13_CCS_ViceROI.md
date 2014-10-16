@@ -1,6 +1,6 @@
 ## [ViceROI: Catching Click-Spam in Search Ad Networks](http://dl.acm.org/citation.cfm?id=2516688)
 
-- reading status: 10/16/2014 ing
+- reading status: 10/16/2014 ing, finish Section 1,2
 - bib
 ```
 @inproceedings{Dave:2013:VCC:2508859.2516688,
@@ -31,3 +31,5 @@ In this paper, the authors proposed a principled approach to catching click-spam
 
 ### Extension
 
+
+### TODO
