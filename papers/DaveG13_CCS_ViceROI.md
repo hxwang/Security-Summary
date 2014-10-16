@@ -1,4 +1,4 @@
-## [ViceROI: Catching Click-Spam in Search Ad Networks]()
+## [ViceROI: Catching Click-Spam in Search Ad Networks](http://dl.acm.org/citation.cfm?id=2516688)
 
 - reading status: 10/16/2014 ing
 - bib
