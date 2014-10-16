@@ -8,6 +8,7 @@
 
 ### Events
 - [Events](./file/events.md)
+- [Economy Loss](./file/economyLoss.md)
 
 ### Attack
 - [Attacker](./file/attacker.md)
