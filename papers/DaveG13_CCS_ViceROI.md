@@ -14,7 +14,7 @@
 ```
 
 ### Summary
-
+In this paper, the authors proposed a principled approach to catching click-spam in search ad networks. It is designed based on the intuition that click-spam is a profit-making business that needs to deliver higher return on investment(ROI) for click-spammers than other (ethical) business models to offset the risk of getting caught.
 
 ### Strongness
 
