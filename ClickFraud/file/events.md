@@ -12,7 +12,7 @@ Note: the increasing in PPC advertising has implications for trends in click fra
 - AuctionBytes.com reported that in 20006, advertisers workdwide spent $15 billion on PPC advertising [[AuctionBytes-2007]](http://www.ecommercebytes.com/cab/abn/y07/m04/i23/s03/)
 
   <div align = "center">
-  <img src="./figs/PortionClickFraud.PNG" width = "650px"/>
+  <img src="../figs/PortionClickFraud.PNG" width = "650px"/>
   </div>
 
 
