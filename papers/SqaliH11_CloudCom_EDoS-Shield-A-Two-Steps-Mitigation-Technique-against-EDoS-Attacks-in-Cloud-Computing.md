@@ -1,7 +1,7 @@
 [EDoS-Shield: A Two-Steps Mitigation Technique against EDoS Attacks in Cloud Computing](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6123480&tag=1)
 ---
 
--  reading status: haven't started
+-  reading status: finished
 - bib
 ```
 @INPROCEEDINGS{SqalliA11, 
@@ -31,5 +31,4 @@ In this paper, the authors propose a EDoS mitigating mechanism by verifying whet
     - NAT problem
     
 ### TODO
-- record the related work of *load balancing" of firewall in page 52
-- 
+- record the related work of *load balancing" of firewall in page 52, these could be evidence of how robust the firewall or loadblancer could be in the cloud
