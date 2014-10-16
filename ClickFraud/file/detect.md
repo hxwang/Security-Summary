@@ -24,3 +24,7 @@ or **deviation-from-norm-based**
 - challenge
     - it assumes the advisers has past data, which classifiers a click as valid or invalid with certain level of confidence and doesn't consider the properties of valid or invalid clicks discussed in the previous approaches.
 
+
+---
+### Detection accuracy
+- A controlled measurement study conducted in 2012 found that major ad networks still missed ongoing click-spam attacks that accounted for an estimated 10-25% of clicks in the study [[DaveG12]](http://dl.acm.org/citation.cfm?id=2377715)
