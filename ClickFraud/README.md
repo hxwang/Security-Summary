@@ -13,4 +13,5 @@
 - [Attacker](./file/attacker.md)
 
 ### Defense
+- [Motivation](./file/detectMotivation.md)
 - [Detect](./file/detect.md)
