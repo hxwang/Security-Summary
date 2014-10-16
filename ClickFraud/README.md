@@ -1,8 +1,8 @@
 ## Click Fraud
 
 ### Intro
-- [Advertise Mode](./file/admode.md)
-- [Definition](./file/define.md)
+- Ad Click: [Ad Click System](./file/admode.md), [Economic Analysis](./file/ecoAnalysis.md)
+- Click Fraud: [Definition](./file/define.md)
 
 
 
