@@ -1,16 +1,16 @@
 ## Click Fraud
 
 ### Intro
-- [Advertise Mode](./admode.md)
-- [Definition](./define.md)
+- [Advertise Mode](./file/admode.md)
+- [Definition](./file/define.md)
 
 
 
 ### Events
-- [Events](./events.md)
+- [Events](./file/events.md)
 
 ### Attack
-- [Attacker](./attacker.md)
+- [Attacker](./file/attacker.md)
 
 ### Defense
-- [Detect](./detect.md)
+- [Detect](./file/detect.md)
