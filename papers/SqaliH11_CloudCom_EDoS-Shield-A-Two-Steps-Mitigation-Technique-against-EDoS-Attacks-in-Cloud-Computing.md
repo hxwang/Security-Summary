@@ -15,4 +15,21 @@
 ### Summary
 In this paper, the authors propose a EDoS mitigating mechanism by verifying whether the requests are from legitimate users or bots. 
 
-### 
+### System Architecture
+- The following figures show the system architecure
+<div text-align ="center" >
+    <img src="../figs/EDoS-Shield.PNG" width="500px"/>
+</div>
+    - Virtual Firewall(VF): IP white and black list
+    - V-Nodes: turing-test, captcha to verify whether it is human or bots
+
+### Weakness
+- The proposed mechanism use Turing test to verity legitimate clients from bots 
+    - turing test could fail
+    - it is unpleasant to users for dealing with the turing test or CAPTCHA
+- block IP
+    - NAT problem
+    
+### TODO
+- record the related work of *load balancing" of firewall in page 52
+- 
