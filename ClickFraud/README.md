@@ -2,7 +2,7 @@
 
 ### Intro
 - Ad Click: [Ad Click System](./file/admode.md), [Economic Analysis](./file/ecoAnalysis.md)
-- Click Fraud: [Definition](./file/define.md)
+- Click Fraud: [Definition](./file/intro.md)
 
 
 
