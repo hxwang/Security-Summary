@@ -1,6 +1,6 @@
-## Economic Analysis of Each Participants
-
 ### Benefit/Cost analysis of each component
+
+
 Note: the  analysis comes from paper [[Kshetri-2010]](../papers/Kshetri10_The-economics-of-click-fraud.md).
 
 ##### Click fraudster
