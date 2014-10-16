@@ -3,6 +3,7 @@
 
 ### System structure
 
+![Anatomy of an ad click](../figs/AdClickArch.PNG)
 
 
 ### Benefit/Cost analysis of each component
