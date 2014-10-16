@@ -21,4 +21,4 @@
 
 
 ### Resources
-- [trace](./trace)
+- [trace](./traces)
