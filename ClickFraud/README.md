@@ -7,7 +7,8 @@
 
 
 ### Events
-- [Events](./file/events.md)
+- [Click Statistics](./file/clickStatistics.md)
+- [Detect Events](./file/events.md)
 - [Economy Loss](./file/economyLoss.md)
 
 ### Attack
