@@ -6,13 +6,15 @@ Online search advertising has three players: *Advertises*, *Publishers*, and *ad
 ![Anatomy of an ad click](../figs/AdClickArch.PNG)
 
 
-1. Advertiser
+#### 1. Advertiser
 Advertisers are who want to advertise a product or service
-2. Publishers
+
+#### 2. Publishers
 Publishers run websites(search engines, new sites, blog sites), mobile apps and games that display the ads. There are two kinds of publishers, 
-	- *publishers owned by the ad network*, e.g., google.com shows ads from Google's ad network
-	-  *publishers operated(O&O) by the  adnetwork*, e.g., ask.com is a syndicated publisher for Google ads
-3. Ad Networks
+- *publishers owned by the ad network*, e.g., google.com shows ads from Google's ad network
+-  *publishers operated(O&O) by the  adnetwork*, e.g., ask.com is a syndicated publisher for Google ads
+	
+#### 3. Ad Networks
 Ad networks(like Google AdSense, Bing Ads, Baidu, and Tahoo) that connect advertisers with the publishers.
 
 
