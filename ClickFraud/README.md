@@ -18,3 +18,7 @@
 - [Motivation](./file/detectMotivation.md)
 - [Attacker Avoid Detection](./file/avoidDetect.md)
 - [Detect](./file/detect.md)
+
+
+### Resources
+- [trace](./trace)
