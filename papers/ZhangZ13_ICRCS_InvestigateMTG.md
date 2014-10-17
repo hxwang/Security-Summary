@@ -17,7 +17,8 @@
 In this paper, the author study the effects of randomly adapting one aspect of the system(role to VM mapping) in reducing attacker's sucess likelihood. 
 
 ### Strongness
-- 
+- design simulation to study the effectiveness of moving target defense
+
 ### Weakness
 - only experiment study, no theoretical model and analysis
 
