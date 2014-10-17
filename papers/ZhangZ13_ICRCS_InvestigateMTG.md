@@ -26,6 +26,9 @@ In this paper, the author study the effects of randomly adapting one aspect of t
 - Simulation
   - They define adaption interval of the defender, which is the react time for the defender to refresh from attack. And then they show simulation result under different adaption interval. 
 
+### TODO
+- I didn't investigate the detail of "refresh VM". In my view, when the attackers attack a VM,the defender could simply refresh the VM to recover from the attack. I am not sure. Although this point is not important for now, in the future, if I examine the paper again, I will pay attention to this issue.
+
 
 ### Extension
 
