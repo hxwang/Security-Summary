@@ -2,3 +2,7 @@
 
 ### Intro
 - [Definition](./file/define.md)
+
+
+### Tech
+- [TechType](./file/techType.md)
