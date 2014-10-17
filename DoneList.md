@@ -13,10 +13,11 @@ Paper Finished List
 | [The economics of click Fraud](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5445076), by *N. Kshetri*, in IEEE Security Privacy, in 2010, [[Summary]](./papers/Kshetri10_The-economics-of-click-fraud.md).     | Fei | 10/10/2014 | **|
 | [EDoS-Shield-A Two-Steps Mitigation Technique against EDoS Attacks in Cloud Computing](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6123480), by *Mohammed H. Sqalli et al*, in  Utility and Cloud Computing 2011,[[Summary]](./papers/SqaliH11_CloudCom_EDoS-Shield-A-Two-Steps-Mitigation-Technique-against-EDoS-Attacks-in-Cloud-Computing.md)| Me| 10/15/2014|**|
 
-### Moving Target
+### Moving Target Defense
 |Paper | Assinger| Date | Rate|
 |:-----|:--------|:-----|:----|
 | [Investigating the Application of Moving Target Defenses to Network Security](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623770), by *Rui Zhang et al*, in ICRCS 2013, [[Summary]](./papers/ZhangZ13_ICRCS_InvestigateMTG.md)| me| 10/17/2014 | ***|
+
 
 ---
 ### Rate
