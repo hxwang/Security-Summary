@@ -7,4 +7,4 @@
 | [DDoS Defense as a Network Service](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5488345), by *D. Ping et al*, in NOMS 2010| me|
 | [ViceROI:Catching Click-Spam in Search Ad Networks](http://dl.acm.org/citation.cfm?id=2516688), by *Vacha Dave et al*, in CCS 2013, [[Summary]](./papers/DaveG13_CCS_ViceROI.md)| me| ing|
 | [Measuring and Fingerprinting Click-Spam in Ad Networks](http://dl.acm.org/citation.cfm?id=2377715), by *Vacha Dave et al*, in SIGCOMM 2012, [[Summary]](./papers/DaveG12_SIGCOMM_MeasureClickSpam.md) | me| ing|
-| [Investigating the Application of Moving Target Defenses to Network Security](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623770), by *Rui Zhang et al*, in ICRCS 2013, [[Summary]](./papers/ZhangZ13_ICRCS_InvestigateMTG.md)| me| ing 10/17/2014 |
+
