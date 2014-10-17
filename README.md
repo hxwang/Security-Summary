@@ -10,8 +10,8 @@ Security Summary
 - [Cloud](./Cloud)
 
 ### Defense Mechanism
-- [Reputation-based Mechanism](./Reputation-based.md)
-- [Moving-target Mechanism](./Moving-target.md)
+- [Reputation-based Mechanism](./Reputation)
+- [Moving-target Mechanism](./MTG)
 
 ### Trace
 - [Trace](./Trace)
