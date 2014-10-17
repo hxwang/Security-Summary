@@ -14,12 +14,16 @@
 
 
 ### Summary
+In this paper, the author study the effects of randomly adapting one aspect of the system(role to VM mapping) in reducing attacker's sucess likelihood. 
 
 ### Strongness
-
+- 
 ### Weakness
+- only experiment study, no theoretical model and analysis
 
 ### Learned 
+- Simulation
+  - They define adaption interval of the defender, which is the react time for the defender to refresh from attack. And then they show simulation result under different adaption interval. 
 
 
 ### Extension
