@@ -7,4 +7,5 @@
 | [DDoS Defense as a Network Service](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5488345), by *D. Ping et al*, in NOMS 2010| me|
 | [ViceROI:Catching Click-Spam in Search Ad Networks](http://dl.acm.org/citation.cfm?id=2516688), by *Vacha Dave et al*, in CCS 2013, [[Summary]](./papers/DaveG13_CCS_ViceROI.md)| me| ing|
 | [Measuring and Fingerprinting Click-Spam in Ad Networks](http://dl.acm.org/citation.cfm?id=2377715), by *Vacha Dave et al*, in SIGCOMM 2012, [[Summary]](./papers/DaveG12_SIGCOMM_MeasureClickSpam.md) | me| ing|
+| [Distributed Denial of Service is a Scalability Problem](http://www.sigcomm.org/sites/default/files/ccr/papers/2012/January/2096149-2096160.pdf), by *Yoo Chung*, in SIGCOMM 2012, [[Summary]](./papers/Chung12_SIGCOMM_ddos-scalability.md)| me | |
 
