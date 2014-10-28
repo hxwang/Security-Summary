@@ -2,6 +2,7 @@ DDoS Attack
 ---
 
 #### Definition
+- A distributed denial of service attack involves a very large number of computers all over the network sending data to a single target system that is to be attacked [[Chung-2012]](http://www.sigcomm.org/node/3233)
 
 ####  Purpose
 - DDoS flooding attacks are typically explicit attempts to disrupt legitimate users' access to services.
