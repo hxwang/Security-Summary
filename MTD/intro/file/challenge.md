@@ -5,3 +5,4 @@
 
 
 ### Challenge in smart adversaries
+- The co-evolution between attackers and defenders must be taken seriously.
