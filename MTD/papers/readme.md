@@ -1,6 +1,8 @@
 ## Paper Summary
 
-
+|Title| Date| Rate|
+|:----|:----|:----|
+|[Moving-Target Defenses for Computer Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537), by *Marco Carvalho*, in CRS 2014, [[Summary]](./file/marco14.md)| 05/04/2015| ***|
 
 ### TO READ
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
