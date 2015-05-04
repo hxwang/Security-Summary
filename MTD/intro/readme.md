@@ -7,6 +7,8 @@
 ### How it works
 - MTD techniques generally focus not on the shields that protect the targes but on the manipulation and control of the targets themselves, to create the perception of movement to attackers. The goal is to mitigate the assymmetric advantage of attackers by increasing the complexity, diversity, and uncertainty over the protected system's attack surface. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
 
+### [Examples](file/example.md)
+
 ### Motivation
 - Traditional static network
   - One of the criticisms of traditional security approaches is that they present a static target for attackers. Critics statm with good justification, that by allowing the attacker to recooniter a system at leisure to plan an attack, defenders are immediately disadvantaged. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
