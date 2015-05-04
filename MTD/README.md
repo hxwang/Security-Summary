@@ -5,5 +5,4 @@
 
 ### [Question](./file/question.md)
 
-### Tech
-- [TechType](./file/techType.md)
+
