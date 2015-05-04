@@ -2,7 +2,7 @@
 
 
 ### Network graph
-[[Rui-2014]](http://dl.acm.org/citation.cfm?id=2602088) consider the following model
+[[Rui-2014]](../papers/file/rui14-model.md) consider the following model
 
 
  <img src="figs/rui-model.PNG" vertical-align="middle" width="500px" />
