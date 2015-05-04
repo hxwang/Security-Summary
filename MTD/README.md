@@ -5,7 +5,7 @@
 
 ### [Model](./model)
 
-### [Papers](./paper)
+### [Papers](./papers)
 
 ### [Question](./file/question.md)
 
