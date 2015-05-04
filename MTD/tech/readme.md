@@ -3,6 +3,7 @@
 - [Software-based Diversification](./file/software-based.md)
 - [Runtime-based Diversification](./file/runtime-based.md)
 - [Communication Diversification](./file/communication.md)
+- [Dynamic Platform Techniques](./file/plat-form-based.md)
 
 ## Examples
 - Periodiacallly change the operating of a system that provides a critical service, to make it harder for attackers to exploit a specific OS's known vulnerabilities. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
