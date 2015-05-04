@@ -14,10 +14,7 @@
 - Combat the advantage of attacker
   - the static nature of current networks makes it easy to attack and breach a system and to maintain illegal access priviledges for extended periods of time. 
 
-### Examples
-- Periodiacallly change the operating of a system that provides a critical service, to make it harder for attackers to exploit a specific OS's known vulnerabilities. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
-- Restructruing a software-defined network's topology, which could disrupt attacks amounted through compromised nodes in the subne. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
-- Changeing the address space layout to disrupt precoded buffer-overflow. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
+
 
 ### Challenge
 - First and foremost, while a network's configuration can be amde more dynamic through constant changing, legitimate users still need to locate and access needed services. 
