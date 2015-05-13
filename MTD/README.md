@@ -5,6 +5,8 @@
 
 ### [Model](./model)
 
+### [Tech](./tech)
+
 ### [Papers](./papers)
 
 ### [Question](./file/question.md)
