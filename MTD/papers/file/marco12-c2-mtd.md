@@ -1,4 +1,4 @@
-## [Command and Control Requirements for Moving Target Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6237462）
+## [Command and Control Requirements for Moving Target Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6237462)
 
 
 ### Summary
