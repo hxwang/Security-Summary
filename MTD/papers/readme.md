@@ -12,7 +12,7 @@
 |[Hey, You, Get Off of My Cloud: Exploring Information Leakage in Third-Party Compute Clouds](http://dl.acm.org/citation.cfm?id=1653687), by *Thomas Ristenpart*, in CCS 2009, [[Summary]](./file/hyg.md)|05/14/2015|****|related work|
 |[Command and Control Requirements for Moving Target Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6237462), by *Marco Carvalho*, in ICS 2012, [[Summary]](./file/marco12-c2-mtd.md)|05/15/2015|**|related work|
 |[Symbiotes and defensive Mutualism: Moving Target Defense](http://link.springer.com/chapter/10.1007/978-1-4614-0977-9_5#page-1), by *Ang Cui*, in [MTD book](http://www.springer.com/us/book/9781461409762) 2011, [[Summary]](file/ang11-symbiotes.md)|05/15/2015|*| |
-|[Managed Execution Environment as a Moving-Target Defense Infrastrcuture](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6671568), by *Partha Pal*, in S&P 2014|05/15/2015|**| |
+|[Managed Execution Environment as a Moving-Target Defense Infrastrcuture](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6671568), by *Partha Pal*, in S&P 2014|05/15/2015, [[Summary]](./file/partha14-environment-mtd.md)|**| |
 |[Investigating the Application of Moving Target Defenses to Network Security](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623770&tag=1), by *Rui Zhang*, in ICRCS 2013, [[Summary]](file/rui13-mtd.md)|05/15/2015|*****| related work|
 
 ### TO READ
