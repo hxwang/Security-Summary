@@ -8,6 +8,7 @@
 |[Incentive Compatible Moving Target Defense against VM-Colocation Attacks in Clouds](http://link.springer.com/chapter/10.1007%2F978-3-642-30436-1_32#page-1), by *Yulong Zhang*, in SEC 2012, [[Summary]](./file/zhang12-incentive-mtd.md)|05/14/2015|**** |related work|
 |[Improving Cloud Survivability through Dependency based Virtual Machine Placement](http://www.people.vcu.edu/~myu/s-lab/publications/Li2012.pdf), by *Min Li*, in DBSec 2012, [[Summary]](./file/li12-vm-placement.md)|05/14/2015|****| |
 |[Hey, You, Get Off of My Cloud: Exploring Information Leakage in Third-Party Compute Clouds](http://dl.acm.org/citation.cfm?id=1653687), by *Thomas Ristenpart*, in CCS 2009, [[Summary]](./file/hyg.md)|05/14/2015|****|related work|
+|[Command and Control Requirements for Moving Target Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6237462), by *Marco Carvalho*, in ICS 2012|05/15/2015|**|related work|
 
 ### TO READ
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
