@@ -1,5 +1,7 @@
 ## Paper Summary
 
+- Note: rate means closeness to my research, not paper quality
+
 |Title| Date| Rate|Note|
 |:----|:----|:----|:---|
 |[Moving-Target Defenses for Computer Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537), by *Marco Carvalho*, in CRS 2014, [[Summary]](./file/marco14.md)| 05/04/2015| ***|
