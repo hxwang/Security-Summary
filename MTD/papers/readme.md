@@ -14,7 +14,7 @@
 |[Symbiotes and defensive Mutualism: Moving Target Defense](http://link.springer.com/chapter/10.1007/978-1-4614-0977-9_5#page-1), by *Ang Cui*, in [MTD book](http://www.springer.com/us/book/9781461409762) 2011, [[Summary]](file/ang11-symbiotes.md)|05/15/2015|*| |
 |[Managed Execution Environment as a Moving-Target Defense Infrastrcuture](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6671568), by *Partha Pal*, in S&P 2014,[[Summary]](./file/partha14-environment-mtd.md)|05/15/2015|**| |
 |[Investigating the Application of Moving Target Defenses to Network Security](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623770&tag=1), by *Rui Zhang*, in ICRCS 2013, [[Summary]](file/rui13-mtd.md)|05/15/2015|*****| related work|
-|[Simulation-based Approaches to Studying Effectiveness of Moving-Target Network Defense](http://people.cis.ksu.edu/~sdeloach/publications/Conference/MTD-MTR_Symposium_2012.pdf), by *Rui Zhang*, 2012|05/15/2015|****|related work|
+|[Simulation-based Approaches to Studying Effectiveness of Moving-Target Network Defense](http://people.cis.ksu.edu/~sdeloach/publications/Conference/MTD-MTR_Symposium_2012.pdf), by *Rui Zhang*, 2012, [[Summary]](./file/rui12-sim-mtd.md)|05/15/2015|****|related work|
 
 
 ### TO READ
