@@ -9,6 +9,7 @@
 |[Improving Cloud Survivability through Dependency based Virtual Machine Placement](http://www.people.vcu.edu/~myu/s-lab/publications/Li2012.pdf), by *Min Li*, in DBSec 2012, [[Summary]](./file/li12-vm-placement.md)|05/14/2015|****| |
 |[Hey, You, Get Off of My Cloud: Exploring Information Leakage in Third-Party Compute Clouds](http://dl.acm.org/citation.cfm?id=1653687), by *Thomas Ristenpart*, in CCS 2009, [[Summary]](./file/hyg.md)|05/14/2015|****|related work|
 |[Command and Control Requirements for Moving Target Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6237462), by *Marco Carvalho*, in ICS 2012, [[Summary]](./file/marco12-c2-mtd.md)|05/15/2015|**|related work|
+|[Symbiotes and defensive Mutualism: Moving Target Defense](http://link.springer.com/chapter/10.1007/978-1-4614-0977-9_5#page-1), by *Ang Cui*, in [MTD book](http://www.springer.com/us/book/9781461409762) 2011|05/15/2015|*| |
 
 ### TO READ
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
