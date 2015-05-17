@@ -16,6 +16,7 @@
 |[Investigating the Application of Moving Target Defenses to Network Security](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623770&tag=1), by *Rui Zhang*, in ICRCS 2013, [[Summary]](file/rui13-mtd.md)|05/15/2015|*****| related work|
 |[Simulation-based Approaches to Studying Effectiveness of Moving-Target Network Defense](http://people.cis.ksu.edu/~sdeloach/publications/Conference/MTD-MTR_Symposium_2012.pdf), by *Rui Zhang*, 2012, [[Summary]](./file/rui12-sim-mtd.md)|05/15/2015|****|related work|
 |[A Multi-Layer Moving Target Defense Approaches for Protecting Resource-Constrainted Distributed Devices](http://download-v2.springer.com/static/pdf/465/chp%253A10.1007%252F978-3-319-04717-1_14.pdf?token2=exp=1431713670~acl=%2Fstatic%2Fpdf%2F465%2Fchp%25253A10.1007%25252F978-3-319-04717-1_14.pdf*~hmac=3dbdae1534b5c82fbbdeb0e3d99f4f2f9fd2372b5ad3092b3fc580e3c5da8c5b), by *Valentina Casola*, in Integration Reusable Systems 2014, [[Summary]](./file/vakentina12-multi-layer.md)|05/15/2015|***|related work|
+|[Creating a cyber moving target for cirtical infrastructure applications using platform diversity](http://www.sciencedirect.com/science/article/pii/S1874548212000030), by *Hamed Okhravi*, in ISP 2012|05/17/2015|***| |
 
 
 ### TO READ
