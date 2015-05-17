@@ -17,6 +17,7 @@
 |[Simulation-based Approaches to Studying Effectiveness of Moving-Target Network Defense](http://people.cis.ksu.edu/~sdeloach/publications/Conference/MTD-MTR_Symposium_2012.pdf), by *Rui Zhang*, 2012, [[Summary]](./file/rui12-sim-mtd.md)|05/15/2015|****|related work|
 |[A Multi-Layer Moving Target Defense Approaches for Protecting Resource-Constrainted Distributed Devices](http://download-v2.springer.com/static/pdf/465/chp%253A10.1007%252F978-3-319-04717-1_14.pdf?token2=exp=1431713670~acl=%2Fstatic%2Fpdf%2F465%2Fchp%25253A10.1007%25252F978-3-319-04717-1_14.pdf*~hmac=3dbdae1534b5c82fbbdeb0e3d99f4f2f9fd2372b5ad3092b3fc580e3c5da8c5b), by *Valentina Casola*, in Integration Reusable Systems 2014, [[Summary]](./file/vakentina12-multi-layer.md)|05/15/2015|***|related work|
 |[Creating a cyber moving target for cirtical infrastructure applications using platform diversity](http://www.sciencedirect.com/science/article/pii/S1874548212000030), by *Hamed Okhravi*, in ISP 2012,[[Summary]](./file/hamed12-platform-diversity.md)|05/17/2015|***| |
+|[On the Challenges of Effective Movement](http://dl.acm.org/citation.cfm?id=2663480), by *Thomas Hobson*, in MTD 2014|05/17/2015| | |
 
 
 ### TO READ
