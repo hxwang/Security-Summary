@@ -32,3 +32,4 @@ Moving Target Network Defense Mechanisms](http://scholarworks.rit.edu/cgi/viewco
 - [Modeling modern network attacks and countermeasures using attack graph](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5380524)
 - [Toward network configuration randomization for moving target defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_9)
 - [Predictive Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6378159)
+- [Effectiveness of Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_2)
