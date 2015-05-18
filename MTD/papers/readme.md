@@ -34,3 +34,5 @@ Moving Target Network Defense Mechanisms](http://scholarworks.rit.edu/cgi/viewco
 - [Predictive Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6378159)
 - [Effectiveness of Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_2)
 - [A formal model for a system attack surface](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_1)
+- [Moving toward trustworthy systems](http://dl.acm.org/citation.cfm?id=1907684)
+
