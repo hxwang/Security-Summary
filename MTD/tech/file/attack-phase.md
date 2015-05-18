@@ -3,7 +3,7 @@
 - [ref](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6673500)
 
 ### Reconnaissance
-- This phase encompsasses the means by which attackers find the target andcollect basic information on it. It's mainly limited to observation to learn more about a targtt. Examples include findings an appropriate spear-phishing target or determine a host's location using basic IP scanning.
+This phase encompsasses the means by which attackers find the target andcollect basic information on it. It's mainly limited to observation to learn more about a targtt. Examples include findings an appropriate spear-phishing target or determine a host's location using basic IP scanning.
 
 ### Access
 This phase covers actions attackers take to collect detailed information about a chosen target. For example, attackers might launch probes against a web server to determine the architecture, opearting system, exact server application version, or configuraton.
