@@ -20,7 +20,7 @@
 |[On the Challenges of Effective Movement](http://dl.acm.org/citation.cfm?id=2663480), by *Thomas Hobson*, in MTD 2014, [[Summary]](./file/thomas14-effective-movement.md)|05/17/2015|*** | |
 |[Achieving Cyber Survivability in a Contested Environment Using a Cyber Moving Target](https://www.ll.mit.edu/mission/cybersec/publications/publication-files/full_papers/2011_05_01_Okhravi_HighFrontier_FP.pdf), by *Hamed Okhravi*, in high frontier journal 2011, [[Summary]](file/hamed11-cyber-moving-target.md)|05/17/2015|**** | |
 |[Finding Focus in the Blur of Moving-Target Techniques](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6673500), by *Hamed Okhravi*, in CRS 2014, [[Summary]](./file/hamed14-find-focus.md)|05/18/2015|*** |related work|
-|[A Moving-target Defense Strateg for Cloud-based Services with Heterogeneous and Dynamic Attack Surface](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883418), by *Wei Peng*, in ICC 2014| | | |
+|[A Moving-target Defense Strateg for Cloud-based Services with Heterogeneous and Dynamic Attack Surface](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883418), by *Wei Peng*, in ICC 2014, [[Summary]](./file/wei14-a-mtd-strategy.md)| | | |
 
 
 ### TO READ
