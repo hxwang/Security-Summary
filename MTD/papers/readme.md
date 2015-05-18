@@ -23,7 +23,7 @@
 |[A Moving-target Defense Strateg for Cloud-based Services with Heterogeneous and Dynamic Attack Surface](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883418), by *Wei Peng*, in ICC 2014, [[Summary]](./file/wei14-a-mtd-strategy.md)|05/18/2015 |***** |model |
 |[Introductin Diversity and Uncertainty to Create Moving Attack Surfaces for Web Services](https://books.google.com/books?id=VERsnX772S0C&pg=PR15&lpg=PR15&dq=Introduction+Diversity+and+Uncertainty+to+Create+Moving+Attack+Surfaces+for+Web+Services&source=bl&ots=hMJZktVK3i&sig=P0HWn51GLYcTOKx1RSvuC1UDgS0&hl=en&sa=X&ei=DhBaVfadLY2VyQSRpYGQCQ&ved=0CB4Q6AEwAA#v=onepage&q=Introduction%20Diversity%20and%20Uncertainty%20to%20Create%20Moving%20Attack%20Surfaces%20for%20Web%20Services&f=false), by *Yih Huang*, in MTD book 2011, [[Summary]](./file/Huang11-diversity-and-uncertainty.md)|05/18/2015|***| |
 |[Characterizing the power of moving target defense via vyber epidemic dynamics](http://dl.acm.org/citation.cfm?id=2600180), by *Yujuan Han*, in HotSoS 2014, [[Slides]](http://www.cs.utsa.edu/~shxu/socs/Measuring-Power-of-MTD.pdf), [[Summary]](./file/han14-characterizing-the-power-of-mtd.md)|05/18/2015 |**** |model |
-|[Artificial Diversity as Maneuvers in a Control Theoretic Moving Target Defense](http://cps-vo.org/node/3710),by *Jeff Rowe*, in MTD Symposium 2012, [[Summary]]()| | | |
+|[Artificial Diversity as Maneuvers in a Control Theoretic Moving Target Defense](http://cps-vo.org/node/3710),by *Jeff Rowe*, in MTD Symposium 2012, [[Summary]](./file/jeff12-artificial-diversity.md)| | | |
 
 
 ### TO READ
