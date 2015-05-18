@@ -1,5 +1,6 @@
 ## Techniques on Moving Target Defense
 
+### Moving Target Defense Types
 - [Software-based Diversification](./file/software-based.md)
 - [Runtime-based Diversification](./file/runtime-based.md)
 - [Communication Diversification](./file/communication.md)
@@ -21,3 +22,6 @@ Most work on network-based MTDS focuses on low-level techniques such as IP addre
 - In [[Antonatos-2007]](http://dl.acm.org/citation.cfm?id=1103633), a network address space randomization scheme to thwart hit worms is proposed, which configured DHCP servers to expire the leases of hosts at various intervals to support address randomization. 
 - IP-Hop-ping. 
   - IP-Hopping relies on changing a host's IP address to increase the complexity of network attacks such as communication eavesdropping and hijacking. By changing network address, most of the standard techniques for flow and session isoalation will likedly be disrupted, greatly increasing the complexity of mounting a successful attack. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
+
+### Attack
+- [general attack phase](./file/attack-phase.md)
