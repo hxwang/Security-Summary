@@ -11,3 +11,5 @@ The authors also introudce NetSPA, their designed attack-graph generation and re
   
 
 
+### Comment
+- The parts about attack graph generation and reachability analysis is intersting. We can further consider design strategy to better prevent reachability.
