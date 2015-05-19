@@ -24,7 +24,7 @@
 |[Introductin Diversity and Uncertainty to Create Moving Attack Surfaces for Web Services](https://books.google.com/books?id=VERsnX772S0C&pg=PR15&lpg=PR15&dq=Introduction+Diversity+and+Uncertainty+to+Create+Moving+Attack+Surfaces+for+Web+Services&source=bl&ots=hMJZktVK3i&sig=P0HWn51GLYcTOKx1RSvuC1UDgS0&hl=en&sa=X&ei=DhBaVfadLY2VyQSRpYGQCQ&ved=0CB4Q6AEwAA#v=onepage&q=Introduction%20Diversity%20and%20Uncertainty%20to%20Create%20Moving%20Attack%20Surfaces%20for%20Web%20Services&f=false), by *Yih Huang*, in MTD book 2011, [[Summary]](./file/Huang11-diversity-and-uncertainty.md)|05/18/2015|***| |
 |[Characterizing the power of moving target defense via vyber epidemic dynamics](http://dl.acm.org/citation.cfm?id=2600180), by *Yujuan Han*, in HotSoS 2014, [[Slides]](http://www.cs.utsa.edu/~shxu/socs/Measuring-Power-of-MTD.pdf), [[Summary]](./file/han14-characterizing-the-power-of-mtd.md)|05/18/2015 |**** |model |
 |[Artificial Diversity as Maneuvers in a Control Theoretic Moving Target Defense](http://cps-vo.org/node/3710),by *Jeff Rowe*, in MTD Symposium 2012, [[Summary]](./file/jeff12-artificial-diversity.md)|05/18/2015 |**** |Mechanism |
-|[OpenFlow Random Host Mutation: Transparent Moving Target Defense using Software Defined Networking](http://dl.acm.org/citation.cfm?id=2342467), by *Jafar Haadi Jafarian*, in HostSDN 2012, [[Summary]](./file/Jafar12-random-host-sdn.md)| | | |
+|[OpenFlow Random Host Mutation: Transparent Moving Target Defense using Software Defined Networking](http://dl.acm.org/citation.cfm?id=2342467), by *Jafar Haadi Jafarian*, in HostSDN 2012, [[Summary]](./file/Jafar12-random-host-sdn.md)|05/18/2015 |**** |algorithm |
 
 
 ### TO READ 1
