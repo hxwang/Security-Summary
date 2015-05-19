@@ -29,6 +29,7 @@
 |[Effectiveness of Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_2) by *David Evans*, in MTD book 2011,[[Summary]](./file/david11-effectivness-of-mtd.md)|05/19/2015|****|bin & ball|
 |[Random Host Mutation for Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-3-642-36883-7_19), by *Ehab Al-Shaer*, in Security and Privacy in Communication Networks 2013, [[Summary]](./file/Ehab13-RHM.md)|05/19/2015|****|Algorithms|
 |[A Formal Model for a System's Attack Surface](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_1), by *Pratyusa K. Manadhata*, in MTD 2011, [[Summary]](./file/Pratyusa11-a-formal-model-attack-surface.md)|05/19/2015|***|attack surface|
+|[Moving Toward Trustworthy Systems: R&D Essentials](http://dl.acm.org/citation.cfm?id=1907684), by *Frederick T. Sheldon*, in ICS 2010, [[Summary]](./file/Frederick10-moving-toward-trustworthy.md)|05/19/2015|**| |
 
 
 ### TO READ 1
