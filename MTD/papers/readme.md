@@ -25,7 +25,7 @@
 |[Characterizing the power of moving target defense via vyber epidemic dynamics](http://dl.acm.org/citation.cfm?id=2600180), by *Yujuan Han*, in HotSoS 2014, [[Slides]](http://www.cs.utsa.edu/~shxu/socs/Measuring-Power-of-MTD.pdf), [[Summary]](./file/han14-characterizing-the-power-of-mtd.md)|05/18/2015 |**** |model |
 |[Artificial Diversity as Maneuvers in a Control Theoretic Moving Target Defense](http://cps-vo.org/node/3710),by *Jeff Rowe*, in MTD Symposium 2012, [[Summary]](./file/jeff12-artificial-diversity.md)|05/18/2015 |**** |Mechanism |
 |[OpenFlow Random Host Mutation: Transparent Moving Target Defense using Software Defined Networking](http://dl.acm.org/citation.cfm?id=2342467), by *Jafar Haadi Jafarian*, in HostSDN 2012, [[Summary]](./file/Jafar12-random-host-sdn.md)|05/18/2015 |**** |algorithm |
-|[NOMAD: Towards Non-Intrusive Moving-Target Defense against Web Bots](http://faculty.cse.tamu.edu/guofei/paper/NOMAD_CNS13.pdf), by *Shardul Vikram*, in CNS 2013, [[Summary]](./papers/file/Shardul13-nomad.md)|05/19/2015|***| | 
+|[NOMAD: Towards Non-Intrusive Moving-Target Defense against Web Bots](http://faculty.cse.tamu.edu/guofei/paper/NOMAD_CNS13.pdf), by *Shardul Vikram*, in CNS 2013, [[Summary]](./file/Shardul13-nomad.md)|05/19/2015|***| | 
 
 
 ### TO READ 1
