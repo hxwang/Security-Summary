@@ -2,3 +2,4 @@
 
 
 ### Summary
+In this papers, they authors present an approach to construct the attack graph via the firewall files. The essential is how to use firewall rules to construct the attack graph in an efficient way and ensure the scalability.
