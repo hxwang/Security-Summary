@@ -27,6 +27,7 @@
 |[OpenFlow Random Host Mutation: Transparent Moving Target Defense using Software Defined Networking](http://dl.acm.org/citation.cfm?id=2342467), by *Jafar Haadi Jafarian*, in HostSDN 2012, [[Summary]](./file/Jafar12-random-host-sdn.md)|05/18/2015 |**** |algorithm |
 |[NOMAD: Towards Non-Intrusive Moving-Target Defense against Web Bots](http://faculty.cse.tamu.edu/guofei/paper/NOMAD_CNS13.pdf), by *Shardul Vikram*, in CNS 2013, [[Summary]](./file/Shardul13-nomad.md)|05/19/2015|***| | 
 |[Effectiveness of Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_2) by *David Evans*, in MTD book 2011,[[Summary]](./file/david11-effectivness-of-mtd.md)|05/19/2015|****|bin & ball|
+|[Random Host Mutation for Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-3-642-36883-7_19), by *Ehab Al-Shaer*, in Security and Privacy in Communication Networks 2013, [[Summary]](./file/Ehab13-RHM.md)|05/19/2015|****|Algorithms|
 
 
 ### TO READ 1
