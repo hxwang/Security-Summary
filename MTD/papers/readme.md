@@ -28,6 +28,7 @@
 |[NOMAD: Towards Non-Intrusive Moving-Target Defense against Web Bots](http://faculty.cse.tamu.edu/guofei/paper/NOMAD_CNS13.pdf), by *Shardul Vikram*, in CNS 2013, [[Summary]](./file/Shardul13-nomad.md)|05/19/2015|***| | 
 |[Effectiveness of Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_2) by *David Evans*, in MTD book 2011,[[Summary]](./file/david11-effectivness-of-mtd.md)|05/19/2015|****|bin & ball|
 |[Random Host Mutation for Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-3-642-36883-7_19), by *Ehab Al-Shaer*, in Security and Privacy in Communication Networks 2013, [[Summary]](./file/Ehab13-RHM.md)|05/19/2015|****|Algorithms|
+|[A Formal Model for a System's Attack Surface](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_1), by *Pratyusa K. Manadhata*, in MTD 2011, [[Summary]](./file/Pratyusa11-a-formal-model-attack-surface.md)|05/19/2015|***|attack surface|
 
 
 ### TO READ 1
@@ -40,6 +41,5 @@ Moving Target Network Defense Mechanisms](http://scholarworks.rit.edu/cgi/viewco
 - [Modeling modern network attacks and countermeasures using attack graph](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5380524)
 - [Toward network configuration randomization for moving target defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_9)
 - [Predictive Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6378159)
-- [A formal model for a system attack surface](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_1)
 - [Moving toward trustworthy systems](http://dl.acm.org/citation.cfm?id=1907684)
 
