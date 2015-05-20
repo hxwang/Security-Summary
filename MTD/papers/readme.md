@@ -32,6 +32,7 @@
 |[Moving Toward Trustworthy Systems: R&D Essentials](http://dl.acm.org/citation.cfm?id=1907684), by *Frederick T. Sheldon*, in ICS 2010, [[Summary]](./file/Frederick10-moving-toward-trustworthy.md)|05/19/2015|**| |
 |[Modeling Modern Network Attacks and Countermeasures Using Attack Graphs](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5380524&tag=1), by *Kyle Ingols*, in SAC 2009, [[Summary]](./file/Kyle09-attack-graph.md)|05/19/2015|*| |
 |[Toward Network Configuration Randomizatio for Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_9), by *Ehab Al-Shaer*, in MTD book 2011, [[Summary]](./file/ehab11-randomization-mtd.md)|05/20/2015|***| | 
+|[Predictability-Oriented Defense Against Adaptive Adversaries](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6378159), by *Richard Colbaugh*, in SMC 2012, [[Summary]](./file/richard12-Predictability-oriented-defense.md)|05/20/2015|***|model|
 
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
