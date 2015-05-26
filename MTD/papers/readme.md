@@ -34,6 +34,7 @@
 |[Toward Network Configuration Randomizatio for Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_9), by *Ehab Al-Shaer*, in MTD book 2011, [[Summary]](./file/ehab11-randomization-mtd.md)|05/20/2015|***| | 
 |[Predictability-Oriented Defense Against Adaptive Adversaries](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6378159), by *Richard Colbaugh*, in SMC 2012, [[Summary]](./file/richard12-Predictability-oriented-defense.md)|05/20/2015|***|model|
 |[Evolutionary Drift Models for Moving Target Defense](http://dl.acm.org/citation.cfm?id=2460018), by *Christopher Oehmen*, in CSIIRW 2012, [[Summary]](./file/oehmen12-evolution-drift.md)|05/24/2015|**|
+|[Towards a Theory of Moving Target](http://dl.acm.org/citation.cfm?id=2663479), by *Rui Zhuang*, in MTD 2014| | |
 
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
