@@ -2,3 +2,4 @@
 
 
 ### Summary
+In this paper, the authors present a scheme HARM that could be used to model the risk/importance of system infrascture. The simulation results show that the proposed mechanism is more scalable than using attack graph directly.
