@@ -36,6 +36,7 @@
 |[Evolutionary Drift Models for Moving Target Defense](http://dl.acm.org/citation.cfm?id=2460018), by *Christopher Oehmen*, in CSIIRW 2012, [[Summary]](./file/oehmen12-evolution-drift.md)|05/24/2015|**|
 |[Towards a Theory of Moving Target](http://dl.acm.org/citation.cfm?id=2663479), by *Rui Zhuang*, in MTD 2014,[[Summary]](./file/zhuang14-mtd-theory.md)| | |
 |[Scalable Security Model for Assessing Effectiveness of Moving Target Defenses](http://ieeexplore.ieee.org.mutex.gmu.edu/stamp/stamp.jsp?tp=&arnumber=6903607), by *Jin B. Hong*, in DSN 2014, [[Summary]](./file/jin14-scalable-security-model-for-MTD.md)| | |
+|[DSN](http://www.mohaisen.net/doc/dsn2015.pdf)| | |
 
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
