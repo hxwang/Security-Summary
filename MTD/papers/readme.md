@@ -38,7 +38,7 @@
 |[Scalable Security Model for Assessing Effectiveness of Moving Target Defenses](http://ieeexplore.ieee.org.mutex.gmu.edu/stamp/stamp.jsp?tp=&arnumber=6903607), by *Jin B. Hong*, in DSN 2014, [[Summary]](./file/jin14-scalable-security-model-for-MTD.md)| | |
 |[DSN](http://www.mohaisen.net/doc/dsn2015.pdf)| | |
 |[Moving Target Defense for Adaptive Adversaries](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6578785), by *Richard Colbaugh*, in ISI 2013, [[Summary]](./file/mtd_adaptive_adversaries.md)|06/28/2015|***| |
-|[Adaptive Attacker Strategy Development Against Moving Target Cyber Defense](http://arxiv.org/ftp/arxiv/papers/1407/1407.8540.pdf), by M.L.Winterrose, 2014, [[Summary]]()|06/28/2015|****|
+|[Adaptive Attacker Strategy Development Against Moving Target Cyber Defense](http://arxiv.org/ftp/arxiv/papers/1407/1407.8540.pdf), by M.L.Winterrose, 2014, [[Summary]](./file/ga_mtd_attacker.md)|06/28/2015|****|
 
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
