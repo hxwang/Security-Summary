@@ -48,4 +48,4 @@ Moving Target Network Defense Mechanisms](http://scholarworks.rit.edu/cgi/viewco
 
 ### TO READ 2
 - [Predictive Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6378159)
-
+- [Moving target defense 2014 review](http://cps-vo.org/node/18462)
