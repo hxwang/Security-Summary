@@ -16,6 +16,7 @@
 
 ### Categories
 - [ref](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6900086)
+
 MTD systems broadly fall into two categories: proactive MTD and reactive MTD.
 - Proactive MTD
   - In protactive MTD, possible adversrial behaviros are anticipated, and the corresponding defensive strategies are incorporated int othe system design to thwart attacks proactively without disrupting operations.
