@@ -14,3 +14,11 @@
 ### [Challenge](./file/challenge.md)
 
 
+### Categories
+- [ref](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6900086)
+MTD systems broadly fall into two categories: proactive MTD and reactive MTD.
+- Proactive MTD
+  - In protactive MTD, possible adversrial behaviros are anticipated, and the corresponding defensive strategies are incorporated int othe system design to thwart attacks proactively without disrupting operations.
+  - In addition, some elements of the defense system, such as Interent protocol (IP) addresses, port numbers, operating systems, etc., are diversified periodically to create a varying attack surface.
+- Reactive MTD
+  - In reactive MTD, systems react out of necessity to defend against a detected malicious attack. 
