@@ -43,7 +43,8 @@
 |[Multiple OS Rotational Environment-An Implementated Moving Target Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6900086), by *Michael Thompson*, in ISRCS 2014, [[Summary]](./file/more.md)|07/26/2015 | ***|experiment |
 |[MIssion-oriented Moving Target Defense Based on Cryptographically Strong Network Dynamics](http://dl.acm.org/citation.cfm?id=2460040), by *Justin Yackoshi*, in CSIIRW 2011, [[Summary]](./file/mtd_csnd.md)|07/26/2015|**|Arch|
 |[Defense on the Move: Ant-Based Cyber Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6798536), by *Glenn A. Fink*, in Security&Privacy 2014, [[Summary]](./file/abcd.md)| 07/26/2015|**|grid|
-|[A Moving Target Environment for Computer Configurations Using Genetic Algorithms](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6111663), by *Michael B. Crouse*, 2011, [[Slides]](http://csweb.cs.wfu.edu/~fulp/CSC343/safe11s.pdf)|08/10/2015|*** | Genetic Alg| 
+|[A Moving Target Environment for Computer Configurations Using Genetic Algorithms](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6111663), by *Michael B. Crouse*, 2011, [[Slides]](http://csweb.cs.wfu.edu/~fulp/CSC343/safe11s.pdf)|08/10/2015|*** | Genetic Alg|
+|[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
 
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
