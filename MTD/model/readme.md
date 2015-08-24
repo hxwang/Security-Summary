@@ -11,4 +11,4 @@
 - They consider how to design the recover time (adption time)  to better guarantee the security of target protected node. 
 
 ### Attack interval distribution
-- [DDoS attack]()
+- [DDoS attack](./files/ddos_attack_interval.md)
