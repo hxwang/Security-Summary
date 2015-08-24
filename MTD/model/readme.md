@@ -9,3 +9,6 @@
  
 - In this model, each edge represent a probability that attackers can compromise a node from a previous nodes. And in order to attack a target, the attackers should compromise the whole path that leads to the target victim.
 - They consider how to design the recover time (adption time)  to better guarantee the security of target protected node. 
+
+### Attack interval distribution
+- [DDoS attack]()
