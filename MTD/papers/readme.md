@@ -45,7 +45,7 @@
 |[Defense on the Move: Ant-Based Cyber Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6798536), by *Glenn A. Fink*, in Security&Privacy 2014, [[Summary]](./file/abcd.md)| 07/26/2015|**|grid|
 |[A Moving Target Environment for Computer Configurations Using Genetic Algorithms](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6111663), by *Michael B. Crouse*, 2011, [[Slides]](http://csweb.cs.wfu.edu/~fulp/CSC343/safe11s.pdf)|08/10/2015|*** | Genetic Alg|
 |[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
-|[A placement vulnerability study in multi-tanent public clouds](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/varadarajan), by Venkatanathan Varadaraja, in USENIX security 2015| | |
+|[A placement vulnerability study in multi-tanent public clouds](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/varadarajan), by Venkatanathan Varadaraja, in USENIX Security 2015| | |
 
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
