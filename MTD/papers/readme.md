@@ -58,6 +58,11 @@
 |[A placement vulnerability study in multi-tanent public clouds](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/varadarajan), by Venkatanathan Varadaraja, in USENIX Security 2015| | |
 |[A measurement study on co-residence threat inside the cloud](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/xu), in USENIX Security 2015| | |
 
+### Game Theory
+|Title| Date| Rate|Note|
+|:----|:----|:----|:---|
+|[Empirical Game-Theoretical Analysis of an Adaptive Cyber-Defense Scenario](http://link.springer.com/chapter/10.1007/978-3-319-12601-2_3), by *Michael P. Wellman*, in GameSec2014| 09/07/2015|*** | model| 
+
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
 of Service Defenses](http://vtechworks.lib.vt.edu/bitstream/handle/10919/24697/DiMarco_PL_T_2013.pdf?sequence=1&isAllowed=y)
