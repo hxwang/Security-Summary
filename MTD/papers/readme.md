@@ -47,6 +47,7 @@
 |[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
 |[A placement vulnerability study in multi-tanent public clouds](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/varadarajan), by Venkatanathan Varadaraja, in USENIX Security 2015| | |
 |[A measurement study on co-residence threat inside the cloud](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/xu), in USENIX Security 2015| | |
+|[A Theory of Cyber Attacks -- A Step Towards Analyzing MTD Systems](http://people.cis.ksu.edu/~sdeloach/publications/Conference/MTD15-attacktheory.pdf), by *Rui Zhuang*, in MTD 2015| | |
 
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
