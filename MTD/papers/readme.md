@@ -61,7 +61,7 @@
 ### Game Theory
 |Title| Date| Rate|Note|
 |:----|:----|:----|:---|
-|[Empirical Game-Theoretical Analysis of an Adaptive Cyber-Defense Scenario](http://link.springer.com/chapter/10.1007/978-3-319-12601-2_3), by *Michael P. Wellman*, in GameSec2014| 09/07/2015|*** | model| 
+|[Empirical Game-Theoretical Analysis of an Adaptive Cyber-Defense Scenario](http://link.springer.com/chapter/10.1007/978-3-319-12601-2_3), by *Michael P. Wellman*, in GameSec2014, [[Summary]](./file/michael14_game_theory_mtd.md)| 09/07/2015|*** | model| 
 
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
