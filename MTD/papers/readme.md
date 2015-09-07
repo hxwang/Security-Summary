@@ -45,8 +45,12 @@
 |[Defense on the Move: Ant-Based Cyber Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6798536), by *Glenn A. Fink*, in Security&Privacy 2014, [[Summary]](./file/abcd.md)| 07/26/2015|**|grid|
 |[A Moving Target Environment for Computer Configurations Using Genetic Algorithms](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6111663), by *Michael B. Crouse*, 2011, [[Slides]](http://csweb.cs.wfu.edu/~fulp/CSC343/safe11s.pdf)|08/10/2015|*** | Genetic Alg|
 |[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
-|[A Theory of Cyber Attacks -- A Step Towards Analyzing MTD Systems](http://people.cis.ksu.edu/~sdeloach/publications/Conference/MTD15-attacktheory.pdf), by *Rui Zhuang*, in MTD 2015, [[Summary]](./file/zhuang15_mtd_theory.md)| | |
 
+
+### MTD Model definition
+|Title| Date| Rate|Note|
+|:----|:----|:----|:---|
+|[A Theory of Cyber Attacks -- A Step Towards Analyzing MTD Systems](http://people.cis.ksu.edu/~sdeloach/publications/Conference/MTD15-attacktheory.pdf), by *Rui Zhuang*, in MTD 2015, [[Summary]](./file/zhuang15_mtd_theory.md)|09/07/2015 | ***| model definition|
 
 ### Cloud co-residence attack
 |Title| Date| Rate|Note|
