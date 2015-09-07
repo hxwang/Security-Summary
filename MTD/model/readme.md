@@ -1,5 +1,7 @@
 ## Model
 
+### Technical Terms
+- **Adaptations**: adaptations are defined as a consequence of actions that change the system from on starting configuration to another valid configuration state. [[Zhuang15]](http://people.cis.ksu.edu/~sdeloach/publications/Conference/MTD15-attacktheory.pdf)
 
 ### Network graph
 [[Rui-2014]](../papers/file/rui14-model.md) consider the following model
