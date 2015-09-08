@@ -62,7 +62,7 @@
 |Title| Date| Rate|Note|
 |:----|:----|:----|:---|
 |[Empirical Game-Theoretical Analysis of an Adaptive Cyber-Defense Scenario](http://link.springer.com/chapter/10.1007/978-3-319-12601-2_3), by *Michael P. Wellman*, in GameSec2014, [[Summary]](./file/michael14_game_theory_mtd.md)| 09/07/2015|*** | model| 
-|[Predictive Moving Target Defense](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6378159), by *Richard Colbaugh*, in SMC2012|09/07/2015, [[Summary]](./file/richard12_game_theory_ml.md)|***|with ML|
+|[Predictive Moving Target Defense](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6378159), by *Richard Colbaugh*, in SMC2012, [[Summary]](./file/richard12_game_theory_ml.md)|09/07/2015|***|with ML|
 
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
