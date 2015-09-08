@@ -46,6 +46,10 @@
 |[A Moving Target Environment for Computer Configurations Using Genetic Algorithms](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6111663), by *Michael B. Crouse*, 2011, [[Slides]](http://csweb.cs.wfu.edu/~fulp/CSC343/safe11s.pdf)|08/10/2015|*** | Genetic Alg|
 |[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
 
+### Implementation
+|Title| Date| Rate|Note|
+|:----|:----|:----|:---|
+[CloudRank: Building Heterogeneous and Moving-target Port Interfaces for Networked Systems](http://www.raid-symposium.org/raid2011/files/110.pdf), by *Seungwon Shin*, in RAID2011|09/07/2015|**| | |
 
 ### MTD Model definition
 |Title| Date| Rate|Note|
