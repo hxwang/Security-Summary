@@ -3,4 +3,4 @@
 
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
-|[Post-Mortem of a Zombie: Conficker Cleanup After Six Years](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/asghari), [[Summary]]()|09/11/2015| |*|
+|[Post-Mortem of a Zombie: Conficker Cleanup After Six Years](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/asghari), [[Summary]](./file/zombie_clean_up.md)|09/11/2015| |*|
