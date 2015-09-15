@@ -15,3 +15,4 @@
 |[Compiler-instrumented, Dynamic Secret-Redaction of Legacy Processes for Attacker Deception](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/araujo), [[Summary]](./file/attacker_deception.md)|09/15/2015||*|
 |[Control-Flow Bending: On the Effectiveness of Control-Flow Integrity](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/carlini)|09/15/2015||*|
 |[Automatic Generation of Data-Oriented Exploits](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/hu)|09/15/2015| |*|
+|[Protocol State Fuzzing of TLS Implementations](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/de-ruiter)|09/15/2015| |*|
