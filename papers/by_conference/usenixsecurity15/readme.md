@@ -19,3 +19,4 @@
 |[Verified Correctness and Security of OpenSSL HMAC](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/beringer)|09/15/2015| |*|
 |[Not-Quite-So-Broken TLS: Lessons in Re-Engineering a Security Protocol Specification and Implementation](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/kaloper-mersinjak)|09/15/2015| |*|
 |[To Pin or Not to Pin—Helping App Developers Bullet Proof Their TLS Connections](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/oltrogge)|09/15/2015| |*|
+|[De-anonymizing Programmers via Code Stylometry](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/caliskan-islam)|09/15/2015| |**|
