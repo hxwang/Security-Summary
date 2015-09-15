@@ -27,3 +27,4 @@
 |[Securing Self-Virtualizing Ethernet Devices](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/smolyar)|09/15/2015| |*|
 |[EASEAndroid: Automatic Policy Analysis and Refinement for Security Enhanced Android via Large-Scale Semi-Supervised Learning](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wang-ruowen)|09/15/2015| |**|
 |[Marionette: A Programmable Network Traffic Obfuscation System](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/dyer)|09/15/2015| |**|
+|[CONIKS: Bringing Key Transparency to End Users](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/melara)|09/15/2015| |**|
