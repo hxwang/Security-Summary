@@ -11,3 +11,4 @@
 |[Type Casting Verification: Stopping an Emerging Attack Vector](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/lee)|09/15/2015| |*|
 |[All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/vanhoef)|09/15/2015| |*|
 |[Attacks Only Get Better: Password Recovery Attacks Against RC4 in TLS](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/garman)|09/15/2015| |*|
+|[Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/heilman)|09/15/2015| |*|
