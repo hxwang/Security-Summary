@@ -21,3 +21,4 @@
 |[To Pin or Not to Pin—Helping App Developers Bullet Proof Their TLS Connections](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/oltrogge)|09/15/2015| |*|
 |[De-anonymizing Programmers via Code Stylometry](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/caliskan-islam)|09/15/2015| |**|
 |[RAPTOR: Routing Attacks on Privacy in Tor](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sun)|09/15/2015| |*|
+|[Circuit Fingerprinting Attacks: Passive Deanonymization of Tor Hidden Services](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/kwon)|09/15/2015| |*|
