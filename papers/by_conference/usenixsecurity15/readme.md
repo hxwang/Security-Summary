@@ -13,3 +13,4 @@
 |[Attacks Only Get Better: Password Recovery Attacks Against RC4 in TLS](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/garman)|09/15/2015| |*|
 |[Eclipse Attacks on Bitcoin’s Peer-to-Peer Network](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/heilman)|09/15/2015| |*|
 |[Compiler-instrumented, Dynamic Secret-Redaction of Legacy Processes for Attacker Deception](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/araujo), [[Summary]](./file/attacker_deception.md)|09/15/2015||*|
+|[Control-Flow Bending: On the Effectiveness of Control-Flow Integrity](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/carlini)|09/15/2015||*|
