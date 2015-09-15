@@ -9,3 +9,4 @@
 |[Under-Constrained Symbolic Execution: Correctness Checking for Real Code](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/ramos). [[Summary]](file/code_checking.md)|09/14/2015| |*|
 |[TaintPipe: Pipelined Symbolic Taint Analysis](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/ming)|09/15/2015| |*|
 |[Type Casting Verification: Stopping an Emerging Attack Vector](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/lee)|09/15/2015| |*|
+|[All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/vanhoef)|09/15/2015| |*|
