@@ -30,3 +30,4 @@
 |[CONIKS: Bringing Key Transparency to End Users](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/melara)|09/15/2015| |**|
 |[https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/mcgregor](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/mcgregor)|09/15/2015| |**|
 |[Constants Count: Practical Improvements to Oblivious RAM](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/ren-ling)|09/15/2015| |*|
+|[Raccoon: Closing Digital Side-Channels through Obfuscated Execution](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/rane)|09/15/2015| |*|
