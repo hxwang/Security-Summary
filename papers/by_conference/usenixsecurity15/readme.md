@@ -25,3 +25,4 @@
 |[SecGraph: A Uniform and Open-source Evaluation System for Graph Data Anonymization and De-anonymization](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/ji)|09/15/2015| |*|
 |[Trustworthy Whole-System Provenance for the Linux Kernel](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/bates)|09/15/2015| |*|
 |[Securing Self-Virtualizing Ethernet Devices](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/smolyar)|09/15/2015| |*|
+|[EASEAndroid: Automatic Policy Analysis and Refinement for Security Enhanced Android via Large-Scale Semi-Supervised Learning](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wang-ruowen)|09/15/2015| |**|
