@@ -22,3 +22,4 @@
 |[De-anonymizing Programmers via Code Stylometry](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/caliskan-islam)|09/15/2015| |**|
 |[RAPTOR: Routing Attacks on Privacy in Tor](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sun)|09/15/2015| |*|
 |[Circuit Fingerprinting Attacks: Passive Deanonymization of Tor Hidden Services](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/kwon)|09/15/2015| |*|
+|[SecGraph: A Uniform and Open-source Evaluation System for Graph Data Anonymization and De-anonymization](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/ji)|09/15/2015| |*|
