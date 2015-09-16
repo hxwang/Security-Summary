@@ -68,3 +68,4 @@
 |[UIPicker: User-Input Privacy Identification in Mobile Applications](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/nan)|09/16/2015| |*|
 |[https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/liu](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/liu)|09/16/2015| |****|
 |[WebWitness: Investigating, Categorizing, and Mitigating Malware Download Paths](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/nelms)| 09/16/2015| |*|
+|[Vulnerability Disclosure in the Age of Social Media: Exploiting Twitter for Predicting Real-World Exploits](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sabottke)|09/16/2015| |*****|
