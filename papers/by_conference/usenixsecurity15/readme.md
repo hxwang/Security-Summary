@@ -48,3 +48,4 @@
 |[You Shouldn’t Collect My Secrets: Thwarting Sensitive Keystroke Leakage in Mobile IME Apps](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/chen-jin)|09/16/2015| |*|
 |[Boxify: Full-fledged App Sandboxing for Stock Android](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/backes)|09/16/2015| |*|
 |[Cookies Lack Integrity: Real-World Implications](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/zheng)|09/16/2015| |*|
+|[The Unexpected Dangers of Dynamic JavaScript](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/lekies)|09/16/2015| |**|
