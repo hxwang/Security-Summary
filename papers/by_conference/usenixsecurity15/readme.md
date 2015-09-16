@@ -60,3 +60,4 @@
 |[Thermal Covert Channels on Multi-core Platforms](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/masti)|09/16/2015| |*****|
 |[Rocking Drones with Intentional Sound Noise on Gyroscopic Sensors](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/son)|09/16/2015| |*|
 |[Cache Template Attacks: Automating Attacks on Inclusive Last-Level Caches](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/gruss)|09/16/2015| |***|
+|[A Placement Vulnerability Study in Multi-Tenant Public Clouds](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/varadarajan)|09/16/2015| |*****|
