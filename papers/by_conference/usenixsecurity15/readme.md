@@ -32,3 +32,4 @@
 |[Constants Count: Practical Improvements to Oblivious RAM](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/ren-ling)|09/15/2015| |*|
 |[Raccoon: Closing Digital Side-Channels through Obfuscated Execution](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/rane)|09/15/2015| |***|
 |[M2R: Enabling Stronger Privacy in MapReduce Computation](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/dinh)|09/16/2015| |*|
+|[Measuring Real-World Accuracies and Biases in Modeling Password Guessability](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/ur)|09/16/2015| |***|
