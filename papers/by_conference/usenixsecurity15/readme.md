@@ -39,3 +39,4 @@
 |[Faster Secure Computation through Automatic Parallelization](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/buescher)|09/16/2015| |*|
 |[The Pythia PRF Service](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/everspaugh)|09/16/2015| |*|
 |[EVILCOHORT: Detecting Communities of Malicious Accounts on Online Services](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/stringhini)|09/16/2015| |**|
+|[Trends and Lessons from Three Years Fighting Malicious Extensions](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/jagpal)|09/16/2015| |**|
