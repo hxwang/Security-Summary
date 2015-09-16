@@ -53,3 +53,4 @@
 |[Anatomization and Protection of Mobile Apps’ Location Privacy Threats](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/fawaz)|09/16/2015| |*|
 |[LinkDroid: Reducing Unregulated Aggregation of App Usage Behaviors](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/feng)|09/16/2015| |***|
 |[PowerSpy: Location Tracking Using Mobile Device Power Analysis](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/michalevsky)|09/16/2015| |***|
+|[In the Compression Hornet’s Nest: A Security Study of Data Compression in Network Services](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/pellegrino)|09/16/2015| |***|
