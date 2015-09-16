@@ -59,3 +59,4 @@
 |[GSMem: Data Exfiltration from Air-Gapped Computers over GSM Frequencies](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/guri)|09/16/2015| |**|
 |[Thermal Covert Channels on Multi-core Platforms](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/masti)|09/16/2015| |*****|
 |[Rocking Drones with Intentional Sound Noise on Gyroscopic Sensors](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/son)|09/16/2015| |*|
+|[Cache Template Attacks: Automating Attacks on Inclusive Last-Level Caches](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/gruss)|09/16/2015| |***|
