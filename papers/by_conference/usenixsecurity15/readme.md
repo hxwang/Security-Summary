@@ -41,3 +41,4 @@
 |[EVILCOHORT: Detecting Communities of Malicious Accounts on Online Services](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/stringhini)|09/16/2015| |**|
 |[Trends and Lessons from Three Years Fighting Malicious Extensions](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/jagpal)|09/16/2015| |**|
 |[Meerkat: Detecting Website Defacements through Image-based Object Recognition](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/borgolte)|09/16/2015| |****|
+|[Recognizing Functions in Binaries with Neural Networks](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/shin)|09/16/2015| |***|
