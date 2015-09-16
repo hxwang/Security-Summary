@@ -69,3 +69,4 @@
 |[https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/liu](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/liu)|09/16/2015| |****|
 |[WebWitness: Investigating, Categorizing, and Mitigating Malware Download Paths](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/nelms)| 09/16/2015| |*|
 |[Vulnerability Disclosure in the Age of Social Media: Exploiting Twitter for Predicting Real-World Exploits](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sabottke)|09/16/2015| |*****|
+|[Needles in a Haystack: Mining Information from Public Dynamic Analysis Sandboxes for Malware Intelligence](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/graziano)|09/16/2015| *|
