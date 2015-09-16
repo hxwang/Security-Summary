@@ -50,3 +50,4 @@
 |[Cookies Lack Integrity: Real-World Implications](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/zheng)|09/16/2015| |*|
 |[The Unexpected Dangers of Dynamic JavaScript](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/lekies)|09/16/2015| |**|
 |[ZigZag: Automatically Hardening Web Applications Against Client-side Validation Vulnerabilities](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/weissbacher)|09/16/2015| |*|
+|[Anatomization and Protection of Mobile Apps’ Location Privacy Threats](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/fawaz)|09/16/2015| |*|
