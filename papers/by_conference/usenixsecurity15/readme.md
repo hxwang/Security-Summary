@@ -46,3 +46,4 @@
 |[How the ELF Ruined Christmas](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/di-frederico)| 09/16/2015| |*****|
 |[Finding Unknown Malice in 10 Seconds: Mass Vetting for New Threats at the Google-Play Scale](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/chen-kai)|09/16/2015| |*|
 |[You Shouldn’t Collect My Secrets: Thwarting Sensitive Keystroke Leakage in Mobile IME Apps](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/chen-jin)|09/16/2015| |*|
+|[Boxify: Full-fledged App Sandboxing for Stock Android](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/backes)|09/16/2015| |*|
