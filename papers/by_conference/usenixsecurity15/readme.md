@@ -57,3 +57,4 @@
 |[Bohatei: Flexible and Elastic DDoS Defense](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/fayaz)|09/16/2015| |***|
 |[Boxed Out: Blocking Cellular Interconnect Bypass Fraud at the Network Edge](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/reaves-boxed)|09/16/2015| |*|
 |[GSMem: Data Exfiltration from Air-Gapped Computers over GSM Frequencies](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/guri)|09/16/2015| |**|
+|[Thermal Covert Channels on Multi-core Platforms](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/masti)|09/16/2015| |*****|
