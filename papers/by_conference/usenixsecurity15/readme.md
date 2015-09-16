@@ -52,3 +52,4 @@
 |[ZigZag: Automatically Hardening Web Applications Against Client-side Validation Vulnerabilities](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/weissbacher)|09/16/2015| |*|
 |[Anatomization and Protection of Mobile Apps’ Location Privacy Threats](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/fawaz)|09/16/2015| |*|
 |[LinkDroid: Reducing Unregulated Aggregation of App Usage Behaviors](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/feng)|09/16/2015| |***|
+|[PowerSpy: Location Tracking Using Mobile Device Power Analysis](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/michalevsky)|09/16/2015| |***|
