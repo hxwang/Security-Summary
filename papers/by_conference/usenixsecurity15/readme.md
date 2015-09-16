@@ -43,3 +43,4 @@
 |[Meerkat: Detecting Website Defacements through Image-based Object Recognition](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/borgolte)|09/16/2015| |****|
 |[Recognizing Functions in Binaries with Neural Networks](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/shin)|09/16/2015| |***|
 |[Reassembleable Disassembling](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wang-shuai)|09/16/2015| |*|
+|[How the ELF Ruined Christmas](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/di-frederico)| 09/16/2015| |*****|
