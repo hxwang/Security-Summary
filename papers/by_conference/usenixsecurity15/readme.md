@@ -67,3 +67,4 @@
 |[SUPOR: Precise and Scalable Sensitive User Input Detection for Android Apps](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/huang)|09/16/2015| |*|
 |[UIPicker: User-Input Privacy Identification in Mobile Applications](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/nan)|09/16/2015| |*|
 |[https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/liu](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/liu)|09/16/2015| |****|
+|[WebWitness: Investigating, Categorizing, and Mitigating Malware Download Paths](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/nelms)| 09/16/2015| |*|
