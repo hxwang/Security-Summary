@@ -64,3 +64,4 @@
 |[A Measurement Study on Co-residence Threat inside the Cloud](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/xu)|09/16/2015| |*****|
 |[Towards Discovering and Understanding Task Hijacking in Android](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/ren-chuangang)|09/16/2015| |*|
 |[Cashtags: Protecting the Input and Display of Sensitive Data](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/mitchell)|09/16/2015| |**|
+|[SUPOR: Precise and Scalable Sensitive User Input Detection for Android Apps](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/huang)|09/16/2015| |*|
