@@ -34,3 +34,4 @@
 |[M2R: Enabling Stronger Privacy in MapReduce Computation](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/dinh)|09/16/2015| |*|
 |[Measuring Real-World Accuracies and Biases in Modeling Password Guessability](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/ur)|09/16/2015| |***|
 |[Sound-Proof: Usable Two-Factor Authentication Based on Ambient Sound](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/karapanos)|09/16/2015| |***|
+|[Android Permissions Remystified: A Field Study on Contextual Integrity](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wijesekera)| 09/16/2015| |*|
