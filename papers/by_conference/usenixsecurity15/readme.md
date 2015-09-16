@@ -61,3 +61,4 @@
 |[Rocking Drones with Intentional Sound Noise on Gyroscopic Sensors](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/son)|09/16/2015| |*|
 |[Cache Template Attacks: Automating Attacks on Inclusive Last-Level Caches](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/gruss)|09/16/2015| |***|
 |[A Placement Vulnerability Study in Multi-Tenant Public Clouds](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/varadarajan)|09/16/2015| |*****|
+|[A Measurement Study on Co-residence Threat inside the Cloud](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/xu)|09/16/2015| |*****|
