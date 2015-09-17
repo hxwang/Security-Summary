@@ -37,3 +37,4 @@
 |[A Messy State of the Union: Taming the Composite State Machines of TLS]|09/17/2015| |*|
 |[Vetting SSL Usage in Applications with SSLINT]|09/17/2015| |*|
 |[Controlled-Channel Attacks: Deterministic Side Channels for Untrusted Operating Systems]|09/17/2015| |**|
+|[S$A: A Shared Cache Attack that Works Across Cores and Defies VM Sandboxing—and its Application to AES]|09/17/2015| |***|
