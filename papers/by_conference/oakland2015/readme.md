@@ -12,3 +12,4 @@
 |[The Miner's Dilemma]|09/16/2015| |**|
 |[Bitcoin over Tor isn't a good idea ]|09/16/2015| |*|
 |[Ad Injection at Scale: Assessing Deceptive Advertisement Modifications]|09/16/2015| |**|
+|[Connection-Oriented DNS to Improve Privacy and Security]|09/16/2015| |*|
