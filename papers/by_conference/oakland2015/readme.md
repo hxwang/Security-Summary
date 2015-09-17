@@ -44,3 +44,4 @@
 |[SoK: Deep Packer Inspection: A Longitudinal Study of the Complexity of Run-Time Packers]|09/17/2015| |*|
 |[A Generic Approach to Automatic Deobfuscation of Executable Code]|09/17/2015| |*|
 |[Program-Adaptive Mutational Fuzzing]|09/17/2015| |*|
+|[Micro-Policies: Formally Verified, Tag-Based Security Monitors]|09/17/2015| |*|
