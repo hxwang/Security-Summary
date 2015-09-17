@@ -11,3 +11,4 @@
 |[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies]|09/16/2015| |*|
 |[The Miner's Dilemma]|09/16/2015| |**|
 |[Bitcoin over Tor isn't a good idea ]|09/16/2015| |*|
+|[Ad Injection at Scale: Assessing Deceptive Advertisement Modifications]|09/16/2015| |**|
