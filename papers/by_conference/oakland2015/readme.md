@@ -15,3 +15,4 @@
 |[Connection-Oriented DNS to Improve Privacy and Security]|09/16/2015| |*|
 |[SoK: Secure Messaging]|09/16/2015| |*|
 |[Temporal Lensing and its Application in Pulsing Denial-of-Service Attacks]|09/16/2015| |***|
+|[How Secure and Quick is QUIC? Provable Security and Performance Analyses]|09/16/2015| |*|
