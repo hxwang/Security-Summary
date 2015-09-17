@@ -26,3 +26,4 @@
 |[TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits]|09/16/2015| |*|
 |[GraphSC: Parallel Secure Computation Made Easy]|09/16/2015| |***|
 |[Malicious-Client Security in Blind Seer: A Scalable Private DBMS]| |*|
+|[ObliVM: A Programming Framework for Secure Computation]| |*|
