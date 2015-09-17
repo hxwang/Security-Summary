@@ -43,3 +43,4 @@
 |[The Attack of the Clones: A Study of the Impact of Shared Code on Vulnerability Patching]|09/17/2015| |***|
 |[SoK: Deep Packer Inspection: A Longitudinal Study of the Complexity of Run-Time Packers]|09/17/2015| |*|
 |[A Generic Approach to Automatic Deobfuscation of Executable Code]|09/17/2015| |*|
+|[Program-Adaptive Mutational Fuzzing]|09/17/2015| |*|
