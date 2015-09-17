@@ -22,3 +22,4 @@
 |[ADSNARK: Nearly Practical and Privacy-Preserving Proofs on Authenticated Data]|09/16/2015| |*|
 |[Secure Sampling of Public Parameters for Succinct Zero Knowledge Proofs]|09/16/2015| |*|
 |[Forward Secure Asynchronous Messaging from Puncturable Encryption]|09/16/2015| |**|
+|[Privacy and Access Control for Outsourced Personal Records]|09/16/2015| |***|
