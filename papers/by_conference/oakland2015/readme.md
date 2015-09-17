@@ -46,3 +46,4 @@
 |[Program-Adaptive Mutational Fuzzing]|09/17/2015| |*|
 |[Micro-Policies: Formally Verified, Tag-Based Security Monitors]|09/17/2015| |*|
 |[Counterfeit Object-oriented Programming: On the Difficulty of Preventing Code Reuse Attacks in C++ Applications]|09/17/2015| |*|
+|[Automatic Inference of Search Patterns for Taint-Style Vulnerabilities]|09/17/2015| |*|
