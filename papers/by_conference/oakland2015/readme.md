@@ -29,3 +29,4 @@
 |[ObliVM: A Programming Framework for Secure Computation]|09/16/2015| |*|
 |[SurroundWeb: Mitigating Privacy Concerns in a 3D Web Browser]|09/16/2015| |***|
 |[Towards Making Systems Forget with Machine Unlearning]|09/16/2015| |***|
+|[GenoGuard: Protecting Genomic Data Against Brute-Force Attacks]|09/16/2015| |*|
