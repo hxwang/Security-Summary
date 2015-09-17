@@ -38,3 +38,4 @@
 |[Vetting SSL Usage in Applications with SSLINT]|09/17/2015| |*|
 |[Controlled-Channel Attacks: Deterministic Side Channels for Untrusted Operating Systems]|09/17/2015| |**|
 |[S$A: A Shared Cache Attack that Works Across Cores and Defies VM Sandboxing—and its Application to AES]|09/17/2015| |***|
+|[Last-Level Cache Side-Channel Attacks are Practical]|09/17/2015| |*|
