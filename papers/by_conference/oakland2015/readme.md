@@ -7,3 +7,4 @@
 |[VC3: Trustworthy Data Analytics in the Cloud using SGX]|09/16/2015| |*|
 |[Virtual Proofs of Reality and Their Physical Implementation]|09/16/2015| |*|
 |[Using Hardware Features for Increased Debugging Transparency]|09/16/2015| |*|
+|[Every Second Counts: Quantifying the Negative Externalities of Cybercrime via Typosquatting]|09/16/2015| |***|
