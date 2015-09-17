@@ -17,3 +17,4 @@
 |[Temporal Lensing and its Application in Pulsing Denial-of-Service Attacks]|09/16/2015| |***|
 |[How Secure and Quick is QUIC? Provable Security and Performance Analyses]|09/16/2015| |*|
 |[Secure Track Verification]|09/16/2015| |*|
+|[Riposte: An Anonymous Messaging System Handling Millions of Users]|09/16/2015| |*|
