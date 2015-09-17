@@ -33,3 +33,4 @@
 |[SoK: A comprehensive analysis of game-based ballot privacy definitions]|09/16/2015| |*|
 |[Cracking-Resistant Password Vaults using Natural Language Encoders]|09/16/2015| |***|
 |[Security of the J-PAKE Password-Authenticated Key Exchange Protocol]|09/16/2015| |*|
+|[Post-quantum key exchange for the TLS protocol from the ring learning with errors problem]|09/17/2015| |*|
