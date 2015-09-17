@@ -25,5 +25,5 @@
 |[Privacy and Access Control for Outsourced Personal Records]|09/16/2015| |***|
 |[TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits]|09/16/2015| |*|
 |[GraphSC: Parallel Secure Computation Made Easy]|09/16/2015| |***|
-|[Malicious-Client Security in Blind Seer: A Scalable Private DBMS]| |*|
-|[ObliVM: A Programming Framework for Secure Computation]| |*|
+|[Malicious-Client Security in Blind Seer: A Scalable Private DBMS]|09/16/2015| |*|
+|[ObliVM: A Programming Framework for Secure Computation]|09/16/2015| |*|
