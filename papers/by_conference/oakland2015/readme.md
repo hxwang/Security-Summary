@@ -53,3 +53,4 @@
 |[Caelus: Verifying the Consistency of Cloud Services with Battery-Powered Devices]|09/17/2015| |*|
 |[High System-Code Security with Low Overhead]|09/17/2015| |*|
 |[Understanding and Monitoring Embedded Web Scripts]|09/17/2015| |**|
+|[Effective Real-time Android Application Auditing]|09/17/2015| |*|
