@@ -31,3 +31,4 @@
 |[Towards Making Systems Forget with Machine Unlearning]|09/16/2015| |***|
 |[GenoGuard: Protecting Genomic Data Against Brute-Force Attacks]|09/16/2015| |*|
 |[SoK: A comprehensive analysis of game-based ballot privacy definitions]|09/16/2015| |*|
+|[Cracking-Resistant Password Vaults using Natural Language Encoders]|09/16/2015| |***|
