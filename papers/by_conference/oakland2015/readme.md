@@ -10,3 +10,4 @@
 |[Every Second Counts: Quantifying the Negative Externalities of Cybercrime via Typosquatting]|09/16/2015| |***|
 |[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies]|09/16/2015| |*|
 |[The Miner's Dilemma]|09/16/2015| |**|
+|[Bitcoin over Tor isn't a good idea ]|09/16/2015| |*|
