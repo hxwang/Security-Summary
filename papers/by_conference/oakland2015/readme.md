@@ -35,3 +35,4 @@
 |[Security of the J-PAKE Password-Authenticated Key Exchange Protocol]|09/16/2015| |*|
 |[Post-quantum key exchange for the TLS protocol from the ring learning with errors problem]|09/17/2015| |*|
 |[A Messy State of the Union: Taming the Composite State Machines of TLS]|09/17/2015| |*|
+|[Vetting SSL Usage in Applications with SSLINT]|09/17/2015| |*|
