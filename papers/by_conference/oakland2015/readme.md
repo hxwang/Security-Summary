@@ -8,3 +8,4 @@
 |[Virtual Proofs of Reality and Their Physical Implementation]|09/16/2015| |*|
 |[Using Hardware Features for Increased Debugging Transparency]|09/16/2015| |*|
 |[Every Second Counts: Quantifying the Negative Externalities of Cybercrime via Typosquatting]|09/16/2015| |***|
+|[SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies]|09/16/2015| |*|
