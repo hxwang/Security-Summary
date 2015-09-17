@@ -20,3 +20,4 @@
 |[Riposte: An Anonymous Messaging System Handling Millions of Users]|09/16/2015| |*|
 |[Geppetto: Versatile Verifiable Computation]|09/16/2015| |*|
 |[ADSNARK: Nearly Practical and Privacy-Preserving Proofs on Authenticated Data]|09/16/2015| |*|
+|[Secure Sampling of Public Parameters for Succinct Zero Knowledge Proofs]|09/16/2015| |*|
