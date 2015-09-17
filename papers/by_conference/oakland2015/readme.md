@@ -2,3 +2,4 @@
 
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
+|[Protecting Private Keys against Memory Disclosure Attacks using Hardware Transactional Memory]|09/16/2015| |*|
