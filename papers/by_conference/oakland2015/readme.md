@@ -27,3 +27,4 @@
 |[GraphSC: Parallel Secure Computation Made Easy]|09/16/2015| |***|
 |[Malicious-Client Security in Blind Seer: A Scalable Private DBMS]|09/16/2015| |*|
 |[ObliVM: A Programming Framework for Secure Computation]|09/16/2015| |*|
+|[SurroundWeb: Mitigating Privacy Concerns in a 3D Web Browser]|09/16/2015| |*|
