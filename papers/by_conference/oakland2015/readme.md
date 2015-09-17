@@ -55,3 +55,4 @@
 |[Understanding and Monitoring Embedded Web Scripts]|09/17/2015| |**|
 |[Effective Real-time Android Application Auditing]|09/17/2015| |*|
 |[What the App is That? Deception and Countermeasures in the Android User Interface]|09/17/2015| |*|
+|[Leave Me Alone: App-level Protection Against Runtime Information Gathering on Android]|09/17/2015| |*|
