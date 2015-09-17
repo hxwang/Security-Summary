@@ -24,3 +24,4 @@
 |[Forward Secure Asynchronous Messaging from Puncturable Encryption]|09/16/2015| |**|
 |[Privacy and Access Control for Outsourced Personal Records]|09/16/2015| |***|
 |[TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits]|09/16/2015| |*|
+|[GraphSC: Parallel Secure Computation Made Easy]|09/16/2015| |***|
