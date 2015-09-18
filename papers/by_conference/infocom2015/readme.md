@@ -1,6 +1,6 @@
 ## INFOCOM 2015
 
-Start: 09/18/2015|
+Start: 09/18/2015
 End: 
 
 |Title| Abstract| Full| Related|
