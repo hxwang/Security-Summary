@@ -20,3 +20,4 @@ End:
 |:----|:----|:----|:---|
 |[Online Procurement Auctions for Resource Pooling in Client-Assisted Cloud Storage Systems](http://pages.cpsc.ucalgary.ca/~zongpeng/publications/infocom15-jian.pdf)|09/18/2015| |*|
 |[Provably Delay Efficient Data Retrieving in Storage Clouds](http://newslab.ece.ohio-state.edu/research/resources/storage_infocom15.pdf)|09/18/2015| |*|
+|[StoreApp: A Shared Storage Appliance for Efficient and Scalable Virtualized Hadoop Clusters](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7218427)| |*|
