@@ -18,3 +18,4 @@ End:
 ### Cloud Storage
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
+|[Online Procurement Auctions for Resource Pooling in Client-Assisted Cloud Storage Systems](http://pages.cpsc.ucalgary.ca/~zongpeng/publications/infocom15-jian.pdf)|09/18/2015| |*|
