@@ -81,3 +81,7 @@ End:
 |[SMOC: A Secure Mobile Cloud Computing Platform](http://www.cs.wm.edu/~liqun/paper/infocom15-smoc.pdf)|09/19/2015| |**|
 |[Fine-Grained Data Sharing in Cloud Computing for Mobile Devices](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218659)|09/19/2015| |*|
 |[Your Song Your Way: Rhythm-Based Two-Factor Authentication for Multi-Touch Mobile Devices](http://www2.hawaii.edu/~ruizhang/paper/chen-INFOCOM15.pdf)|09/19/2015| |***|
+
+## Software Defined Network
+
+[Virtual Machine Migration Planning in Software-Defined Networks](http://arxiv.org/pdf/1412.4980.pdf)|09/19/2015| |**|
