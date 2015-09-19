@@ -28,3 +28,4 @@ End:
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
 |[HybridSwap: A Scalable and Synthetic Framework for Guest Swapping on Virtualization Platform](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7218457)|09/18/2015| |*|
+|[Application-specific configuration selection in the cloud: impact of provider policy and potential of systematic testing](https://engineering.purdue.edu/~isl/papers/hajjat2015infocomCloudPolicy.pdf)|09/18/2015| |*|
