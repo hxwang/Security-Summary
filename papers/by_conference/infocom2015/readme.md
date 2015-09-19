@@ -47,3 +47,4 @@ End:
 |[ActCap: Accelerating MapReduce on Heterogeneous Clusters with Capability-Aware Data Placement](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218509)|09/19/2015| |*|
 |[Near Optimal Placement of Virtual Network Functions](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218511)|09/19/2015| |**|
 |[AE: An Asymmetric Extremum Content Defined Chunking Algorithm for Fast and Bandwidth-Efficient Data Deduplication](http://wxia.hustbackup.cn/AE-INFOCOM-zhang.pdf)|09/19/2015| |*|
+|[Enhancing Reliability and Response Times via Replication in Computing Clusters](http://www.zhanqiu.co.uk/uploads/2/1/0/9/21098362/infocom_faulttolerance.pdf)|09/19/2015| |**|
