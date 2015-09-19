@@ -63,3 +63,4 @@ End:
 |[Catch You If You Lie to Me: Efficient Verifiable Conjunctive Keyword Search over Large Dynamic Encrypted Cloud Data](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218596)|09/19/2015| |**|
 |[Generalized Pattern Matching String Search on Encrypted Data in Cloud Systems](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=721859)|09/19/2015| |*|
 |[Inverted Index Based Multi-Keyword Public-key Searchable Encryption with Strong Privacy Guarantee](http://www.cnsr.ictas.vt.edu/publication/Wang_2015_INFOCOM.pdf)|09/19/2015| |*|
+|[SEISA: Secure and Efficient Encrypted Image Search With Access Control](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218593)|09/19/2015| |**|
