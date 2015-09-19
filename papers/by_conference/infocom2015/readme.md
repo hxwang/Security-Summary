@@ -31,3 +31,9 @@ End:
 |[Application-specific configuration selection in the cloud: impact of provider policy and potential of systematic testing](https://engineering.purdue.edu/~isl/papers/hajjat2015infocomCloudPolicy.pdf)|09/18/2015| |*|
 |[Energy-Efficient Heuristics for Job Assignment in Processor-Sharing Server Farms](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7218459)|09/18/2015| |*|
 |[Need for Speed: CORA Scheduler for Optimizing Completion-Times in the Cloud](http://www.seas.gwu.edu/~tlan/papers/CORA2014.pdf)|09/18/2015| |*|
+
+
+### Resource Provisioning in Cloud Computing
+|Title| Abstract| Full| Related|
+|:----|:----|:----|:---|
+[Resource Provisioning in Cloud Computing](http://grid.hust.edu.cn/fmliu/infocom15-hybridcloud-FangmingLiu.pdf)|09/18/2015| |**|
