@@ -36,4 +36,4 @@ End:
 ### Resource Provisioning in Cloud Computing
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
-[Resource Provisioning in Cloud Computing](http://grid.hust.edu.cn/fmliu/infocom15-hybridcloud-FangmingLiu.pdf)|09/18/2015| |**|
+[When Hybrid Cloud Meets Flash Crowd: Towards Cost-Effective Service Provisioning](http://grid.hust.edu.cn/fmliu/infocom15-hybridcloud-FangmingLiu.pdf)|09/18/2015| |**|
