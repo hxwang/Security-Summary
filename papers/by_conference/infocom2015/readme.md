@@ -52,3 +52,4 @@ End:
 ## Big Data Processing
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
+|[SmartEye: Real-time and Efficient Cloud Image Sharing for Disaster Environments](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7218541)|09/19/2015| |***|
