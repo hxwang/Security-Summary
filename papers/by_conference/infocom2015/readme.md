@@ -44,4 +44,5 @@ End:
 ### Cloud Performance
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
-|[ActCap: Accelerating MapReduce on Heterogeneous Clusters with Capability-Aware Data Placement](ActCap: Accelerating MapReduce on Heterogeneous Clusters with Capability-Aware Data Placement)|09/19/2015| |*|
+|[ActCap: Accelerating MapReduce on Heterogeneous Clusters with Capability-Aware Data Placement](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218509)|09/19/2015| |*|
+|[Near Optimal Placement of Virtual Network Functions](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218511)|09/19/2015| |**|
