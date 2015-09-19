@@ -37,3 +37,4 @@ End:
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
 [When Hybrid Cloud Meets Flash Crowd: Towards Cost-Effective Service Provisioning](http://grid.hust.edu.cn/fmliu/infocom15-hybridcloud-FangmingLiu.pdf)|09/18/2015| |**|
+|[A Truthful (1-ɛ)-Optimal Mechanism for On-demand Cloud Resource Provisioning](http://infocom2015.ieee-infocom.org/program/main-technical-program)|09/19/2015| |*|
