@@ -40,3 +40,8 @@ End:
 |[A Truthful (1-ɛ)-Optimal Mechanism for On-demand Cloud Resource Provisioning](http://infocom2015.ieee-infocom.org/program/main-technical-program)|09/19/2015| |*|
 |[Capturing Resource Tradeoffs in Fair Multi-Resource Allocation](http://www.cs.huji.ac.il/~dhay/publications/MRA.pdf)|09/19/2015| |**|
 |[Optimization for Speculative Execution in a MapReduce-like Cluster](http://arxiv.org/pdf/1406.0609.pdf)|09/19/2015| |*|
+
+### Cloud Performance
+|Title| Abstract| Full| Related|
+|:----|:----|:----|:---|
+|[ActCap: Accelerating MapReduce on Heterogeneous Clusters with Capability-Aware Data Placement](ActCap: Accelerating MapReduce on Heterogeneous Clusters with Capability-Aware Data Placement)|09/19/2015| |*|
