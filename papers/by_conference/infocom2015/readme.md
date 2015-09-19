@@ -56,3 +56,8 @@ End:
 |[Optimal Communication Structures for Big Data Aggregation](http://eprints.networks.imdea.org/948/1/edas.final-1570012153.pdf)|09/19/2015| |*|
 |[Temporal Update Dynamics under Blind Sampling](https://engineering.tamu.edu/media/2079489/2015-1-2.pdf)|09/19/2015| |*|
 |[Modeling Randomized Data Streams in Caching, Data Processing and Crawling Applications](http://irl.cse.tamu.edu/people/tanzir/papers/infocom2015b.pdf)|09/19/2015| |*|
+
+### Secure Search in Cloud Computing
+|Title| Abstract| Full| Related|
+|:----|:----|:----|:---|
+|[Catch You If You Lie to Me: Efficient Verifiable Conjunctive Keyword Search over Large Dynamic Encrypted Cloud Data](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218596)|09/19/2015| |**|
