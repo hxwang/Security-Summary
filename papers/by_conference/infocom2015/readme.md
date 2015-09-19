@@ -61,3 +61,4 @@ End:
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
 |[Catch You If You Lie to Me: Efficient Verifiable Conjunctive Keyword Search over Large Dynamic Encrypted Cloud Data](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218596)|09/19/2015| |**|
+|[Generalized Pattern Matching String Search on Encrypted Data in Cloud Systems](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=721859)|09/19/2015| |*|
