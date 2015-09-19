@@ -55,3 +55,4 @@ End:
 |[SmartEye: Real-time and Efficient Cloud Image Sharing for Disaster Environments](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7218541)|09/19/2015| |***|
 |[Optimal Communication Structures for Big Data Aggregation](http://eprints.networks.imdea.org/948/1/edas.final-1570012153.pdf)|09/19/2015| |*|
 |[Temporal Update Dynamics under Blind Sampling](https://engineering.tamu.edu/media/2079489/2015-1-2.pdf)|09/19/2015| |*|
+|[Modeling Randomized Data Streams in Caching, Data Processing and Crawling Applications](http://irl.cse.tamu.edu/people/tanzir/papers/infocom2015b.pdf)|09/19/2015| |*|
