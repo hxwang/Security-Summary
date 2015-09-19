@@ -53,3 +53,4 @@ End:
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
 |[SmartEye: Real-time and Efficient Cloud Image Sharing for Disaster Environments](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=7218541)|09/19/2015| |***|
+|[Optimal Communication Structures for Big Data Aggregation](http://eprints.networks.imdea.org/948/1/edas.final-1570012153.pdf)|09/19/2015| |*|
