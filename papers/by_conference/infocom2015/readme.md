@@ -71,3 +71,4 @@ End:
 |[Distinct Element Counting in Distributed Dynamic Data Streams](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218625)|09/19/2015| |*|
 |[Assessing Attack Vulnerability in Networks with Uncertainty](http://www.people.vcu.edu/~tndinh/papers/infocom15.pdf)|09/19/2015| |*****|
 |[Secure Cloud Storage Hits Distributed String Equality Checking: More Efficient, Conceptually Simpler, and Provably Secure](http://infocom2015.ieee-infocom.org/program/main-technical-program)|09/19/2015| |**|
+|[TR-MABE: White-Box Traceable and Revocable Multi-authority Attribute-based Encryption and Its Applications to Multi-level Privacy-preserving e-Healthcare Cloud Computing Systems](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7218628)|09/19/2015| |**|
