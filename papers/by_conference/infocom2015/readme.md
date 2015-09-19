@@ -22,3 +22,9 @@ End:
 |[Provably Delay Efficient Data Retrieving in Storage Clouds](http://newslab.ece.ohio-state.edu/research/resources/storage_infocom15.pdf)|09/18/2015| |*|
 |[StoreApp: A Shared Storage Appliance for Efficient and Scalable Virtualized Hadoop Clusters](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7218427)|09/18/2015| |*|
 |[Location-aware Associated Data Placement for Geo-distributed Data-intensive Applications](http://grp.pan.uvic.ca/~boyangyu/ADP-info15.pdf)|09/18/2015| |*|
+
+
+### Cloud Computing
+|Title| Abstract| Full| Related|
+|:----|:----|:----|:---|
+|[HybridSwap: A Scalable and Synthetic Framework for Guest Swapping on Virtualization Platform](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7218457)|09/18/2015| |*|
