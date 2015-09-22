@@ -92,3 +92,4 @@ End:
 |[On the Co-Existence of Distributed and Centralized Routing Control-Planes](http://inl.info.ucl.ac.be/publications/co-existence-distributed-and-centralized-routing-control-planes)|09/22/2015| |*|
 |[OFFICER: A general Optimization Framework for OpenFlow Rule Allocation and Endpoint Policy Enforcement](http://www-sop.inria.fr/members/Chadi.Barakat/INFOCOM2015.pdf)|09/22/2015| |*|
 |[Virtual Machine Migration Planning in Software-Defined Networks](http://arxiv.org/pdf/1412.4980.pdf)|09/22/2015| |*****|
+|[The (Surprising) Computational Power of the SDN Data Plane](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7218416)|09/22/2015| |**|
