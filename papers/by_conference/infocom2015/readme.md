@@ -93,3 +93,9 @@ End:
 |[OFFICER: A general Optimization Framework for OpenFlow Rule Allocation and Endpoint Policy Enforcement](http://www-sop.inria.fr/members/Chadi.Barakat/INFOCOM2015.pdf)|09/22/2015| |*|
 |[Virtual Machine Migration Planning in Software-Defined Networks](http://arxiv.org/pdf/1412.4980.pdf)|09/22/2015| |*****|
 |[The (Surprising) Computational Power of the SDN Data Plane](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7218416)|09/22/2015| |**|
+
+
+### Wireless Security
+|Title| Abstract| Full| Related|
+|:----|:----|:----|:---|
+|[Queuing the Trust: Secure Backpressure Algorithm against Insider Threats in Wireless Networks](http://csa.memphis.edu/papers/15lsl-info.pdf)|09/22/2015| |**|
