@@ -86,3 +86,4 @@ End:
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
 [Virtual Machine Migration Planning in Software-Defined Networks](http://arxiv.org/pdf/1412.4980.pdf)|09/19/2015| |**|
+|[A Distributed and Robust SDN Control Plane for Transactional Network Updates](http://inl.info.ucl.ac.be/publications/distributed-and-robust-sdn-control-plane-transactional-network-updates)|09/22/2015| |*|
