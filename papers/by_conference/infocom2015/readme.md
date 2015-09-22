@@ -100,3 +100,4 @@ End:
 |:----|:----|:----|:---|
 |[Queuing the Trust: Secure Backpressure Algorithm against Insider Threats in Wireless Networks](http://csa.memphis.edu/papers/15lsl-info.pdf)|09/22/2015| |**|
 |[Network Anti-Inference: A Fundamental Perspective on Proactive Strategies to Counter Flow Inference](http://csa.memphis.edu/papers/15lw-info-corrected.pdf)|09/22/2015| |*****|
+|[Original SYN: Finding Machines Hidden Behind Firewalls](http://www.cs.unm.edu/~xuzhang/INFOCOM2015FHM.pdf)|09/22/2015| |**|
