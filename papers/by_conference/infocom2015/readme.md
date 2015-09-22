@@ -104,3 +104,4 @@ End:
 |[Agile Virtualized Infrastructure to Proactively Defend Against Cyber Attacks](http://www.cc.gatech.edu/~samantha/paper/infocom2015-mtd.pdf)|09/22/2015| |*****|
 |[Adversary-aware IP Address Randomization for Proactive Agility Against Sophisticated Attackers](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7218443)|09/22/2015| |*****|
 |[Dynamic Defense Strategy against Advanced Persistent Threat with Insiders](http://spirit.cs.ucdavis.edu/pubs/conf/infocom15-pengfei.pdf)|09/22/2015| |*****|
+|[Improving Learning and Adaptation in Security Games by Exploiting Information Asymmetry](http://www4.ncsu.edu/~hdai/infocom-2015-XH.pdf)|09/22/2015| |*****|
