@@ -103,3 +103,4 @@ End:
 |[Original SYN: Finding Machines Hidden Behind Firewalls](http://www.cs.unm.edu/~xuzhang/INFOCOM2015FHM.pdf)|09/22/2015| |**|
 |[Agile Virtualized Infrastructure to Proactively Defend Against Cyber Attacks](http://www.cc.gatech.edu/~samantha/paper/infocom2015-mtd.pdf)|09/22/2015| |*****|
 |[Adversary-aware IP Address Randomization for Proactive Agility Against Sophisticated Attackers](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7218443)|09/22/2015| |*****|
+|[Dynamic Defense Strategy against Advanced Persistent Threat with Insiders](http://spirit.cs.ucdavis.edu/pubs/conf/infocom15-pengfei.pdf)|09/22/2015| |*****|
