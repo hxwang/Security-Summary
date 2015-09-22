@@ -91,3 +91,4 @@ End:
 |[UbiFlow: Mobility Management in Urban-scale Software Defined IoT](http://wp.doc.ic.ac.uk/aese/wp-content/uploads/sites/3/2014/06/Infocom2015_DiWu.pdf)|09/22/2015| |*|
 |[On the Co-Existence of Distributed and Centralized Routing Control-Planes](http://inl.info.ucl.ac.be/publications/co-existence-distributed-and-centralized-routing-control-planes)|09/22/2015| |*|
 |[OFFICER: A general Optimization Framework for OpenFlow Rule Allocation and Endpoint Policy Enforcement](http://www-sop.inria.fr/members/Chadi.Barakat/INFOCOM2015.pdf)|09/22/2015| |*|
+|[Virtual Machine Migration Planning in Software-Defined Networks](http://arxiv.org/pdf/1412.4980.pdf)|09/22/2015| |*|
