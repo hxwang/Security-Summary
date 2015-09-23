@@ -12,3 +12,4 @@
 |[Getting Beyond Tit for Tat: Better Strategies for Moving Target Prototyping and Evaluation]| | | |
 |[Empirical Game-Theoretic Analysis for Moving Target Defense]| | | |
 |[Optimal Defense Policies for Partially Observable Spreading Processes on Bayesian Attack Graph]| | | |
+|[DHT Blind Rendezvous for Session Establishment in Network Layer Moving Target Defenses]| | | |
