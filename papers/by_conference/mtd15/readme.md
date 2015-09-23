@@ -1,7 +1,7 @@
 ## [Moving Target Defense Workshop 2015](http://mtd.mobicloud.asu.edu/)
 
-Start: 09/23/2015
-End: 
+- Start: 09/23/2015
+- End: 
 
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
