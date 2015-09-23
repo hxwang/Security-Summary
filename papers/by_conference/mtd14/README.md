@@ -13,3 +13,4 @@
 |[Reinforcement learning algorithms for adaptive cyber defense against Heartbleed](http://dl.acm.org/citation.cfm?id=2663481)| | | |
 |[Spatiotemporal Address Mutation for Proactive Cyber Agility Against Sophisticated Attackers](http://dl.acm.org/citation.cfm?id=2663483)| | | |
 |[Software Security and Randomization through Program Partitioning and Circuit Variation](http://dl.acm.org/citation.cfm?id=2663484),[slides](http://csis.gmu.edu/MTD2014/slides-andel.pdf)| | | |
+|[Software Profiling Options and Their Effects on Security Based Code Diversification](http://dl.acm.org/citation.cfm?id=2663485)| | | |
