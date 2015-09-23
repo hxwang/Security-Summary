@@ -10,3 +10,4 @@
 |[A Game Theoretic Approach to Strategy Determination for Dynamic Platform Defenses](http://dl.acm.org/citation.cfm?id=2663478)| | | |
 |[Towards A Theory of Moving Target Defense](http://people.cis.ksu.edu/~sdeloach/publications/Conference/mtd307-zhuangA.pdf)| | | |
 |[On the Challenges of Effective Movement](http://dl.acm.org/citation.cfm?id=2663480)| | | |
+|[Reinforcement learning algorithms for adaptive cyber defense against Heartbleed](http://dl.acm.org/citation.cfm?id=2663481)| | | |
