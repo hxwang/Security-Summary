@@ -1,5 +1,8 @@
 ## [Moving Target Defense Workshop 2015](http://mtd.mobicloud.asu.edu/)
 
+Start: 09/23/2015
+End: 
+
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
 |[A Quantitative Framework for Moving Target Defense Effectiveness Evaluation]| | | |
