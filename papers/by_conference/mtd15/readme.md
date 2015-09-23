@@ -10,3 +10,4 @@
 |[VINE: A Cyber Emulation Environment for MTD Experimentation]| | | |
 |[Adaptive Just-In-Time Code Diversification](http://users.elis.ugent.be/~brdsutte/research/publications/2015MTDjangda.pdf/)| | | |
 |[Getting Beyond Tit for Tat: Better Strategies for Moving Target Prototyping and Evaluation]| | | |
+|[Empirical Game-Theoretic Analysis for Moving Target Defense]| | | |
