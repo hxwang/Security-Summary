@@ -9,3 +9,4 @@
 |[The SDN Shuffle: Creating a Moving-Target Defense using Host-based Software-Defined Networking](http://web.cs.wpi.edu/~cshue/research/mtd15.sdn.pdf)| | | |
 |[VINE: A Cyber Emulation Environment for MTD Experimentation]| | | |
 |[Adaptive Just-In-Time Code Diversification](http://users.elis.ugent.be/~brdsutte/research/publications/2015MTDjangda.pdf/)| | | |
+|[Getting Beyond Tit for Tat: Better Strategies for Moving Target Prototyping and Evaluation]| | | |
