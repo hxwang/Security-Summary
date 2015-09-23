@@ -11,3 +11,4 @@
 |[Adaptive Just-In-Time Code Diversification](http://users.elis.ugent.be/~brdsutte/research/publications/2015MTDjangda.pdf/)| | | |
 |[Getting Beyond Tit for Tat: Better Strategies for Moving Target Prototyping and Evaluation]| | | |
 |[Empirical Game-Theoretic Analysis for Moving Target Defense]| | | |
+|[Optimal Defense Policies for Partially Observable Spreading Processes on Bayesian Attack Graph]| | | |
