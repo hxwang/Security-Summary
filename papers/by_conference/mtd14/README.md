@@ -11,3 +11,4 @@
 |[Towards A Theory of Moving Target Defense](http://people.cis.ksu.edu/~sdeloach/publications/Conference/mtd307-zhuangA.pdf)| | | |
 |[On the Challenges of Effective Movement](http://dl.acm.org/citation.cfm?id=2663480)| | | |
 |[Reinforcement learning algorithms for adaptive cyber defense against Heartbleed](http://dl.acm.org/citation.cfm?id=2663481)| | | |
+|[Spatiotemporal Address Mutation for Proactive Cyber Agility Against Sophisticated Attackers](http://dl.acm.org/citation.cfm?id=2663483)| | | |
