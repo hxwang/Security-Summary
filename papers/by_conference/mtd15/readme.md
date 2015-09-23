@@ -4,3 +4,4 @@
 |:----|:----|:----|:---|
 |[A Quantitative Framework for Moving Target Defense Effectiveness Evaluation]| | | |
 |[A Theory of Cyber Attacks -- A Step Towards Analyzing MTD Systems](http://people.cis.ksu.edu/~sdeloach/publications/Conference/MTD15-attacktheory.pdf)| | | |
+|[Probabilistic Performance Analysis of Moving Target and Deception Reconnaissance]| | | |
