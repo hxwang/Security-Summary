@@ -3,7 +3,8 @@
 ### Category 1: Network Level MTD
 - Restructruing a software-defined network's topology, which could disrupt attacks amounted through compromised nodes in the subne. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
 - [IP-Hop-ping](../file/ip-hopping.md)
-
+- **wireless frequency hopping**
+  - used to avoid jammers [[Green15]](http://arxiv.org/pdf/1404.6785.pdf)
 
 ### Category 2: System Level MTD
 - Periodiacallly change the operating of a system that provides a critical service, to make it harder for attackers to exploit a specific OS's known vulnerabilities. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
