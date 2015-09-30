@@ -7,7 +7,7 @@
 
 ### [Related works](./related-work)
 
-### [Challenges](./challenge)
+### [Challenges](./challenges)
 
 ### [Model](./model)
 
