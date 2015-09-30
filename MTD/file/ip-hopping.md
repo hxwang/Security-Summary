@@ -7,3 +7,10 @@
   
 ### Transparent Host Mutation
 - [[Jafarian12]](https://www.ece.cmu.edu/~ece739/papers/movingtarget.pdf)
+- Goal: IP address randomization in a LAN using OpenFlow protocol
+- How it works
+  - In the OenFlow protocol, network switches can be configured as high-speed network caches. When the swtich receives a packet and does not know how to forward the packet, it can ask for instrauctions (called elevation) from a specific machine, called the OpenFlow Controller.
+  - The OpenFlow mutation approach uses this elevation mechanism to alter the DNS records and to change packet address in flight. 
+    - When a client performs a DNS lookp, the DNS server will provide the client with a virtual IP address for a target. 
+    - When the client attempts to access the target, the packet is forward using the virtual IP address until it reaces the destination swtich, at which point it is translated to the destionation host's IP address.
+    - The network swtiches essentially act as NAT devices, performing translations between virtual and real IP addresss.
