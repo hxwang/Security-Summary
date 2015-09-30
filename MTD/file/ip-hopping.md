@@ -14,3 +14,4 @@
     - When a client performs a DNS lookp, the DNS server will provide the client with a virtual IP address for a target. 
     - When the client attempts to access the target, the packet is forward using the virtual IP address until it reaces the destination swtich, at which point it is translated to the destionation host's IP address.
     - The network swtiches essentially act as NAT devices, performing translations between virtual and real IP addresss.
+  - THe OpenFlow controller essentially servers as the mapping system. The controller updates the DNS server with different virtual IP address for each system and orders the OpenFlow swtiches to install NAT rules to hide the identities of both hosts. Unfortunately, since the OpenController must have control of the resource and destination switch, the approach is most suited to a LAN.
