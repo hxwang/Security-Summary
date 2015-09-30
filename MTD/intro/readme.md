@@ -9,7 +9,7 @@
 - MTD techniques generally focus not on the shields that protect the targes but on the manipulation and control of the targets themselves, to create the perception of movement to attackers. The goal is to mitigate the assymmetric advantage of attackers by increasing the complexity, diversity, and uncertainty over the protected system's attack surface. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
 - The point of dynamically modifying the runtime environment is that specific knowledge that the attacker has accumulated from probes to that point (e.g., based on specific memory locations of attack surfaces) is *rendered obsolete* by the runtime modification.
 
-###　Categories
+### Categories
 - Proactive v.s. Reactive [ref](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6900086)
   - Proactive MTD
     - In protactive MTD, possible adversrial behaviros are anticipated, and the corresponding defensive strategies are incorporated int othe system design to thwart attacks proactively without disrupting operations.
