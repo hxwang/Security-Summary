@@ -18,10 +18,6 @@
     - In addition, some elements of the defense system, such as Interent protocol (IP) addresses, port numbers, operating systems, etc., are diversified periodically to create a varying attack surface.
   - Reactive MTD
     - In reactive MTD, systems react out of necessity to defend against a detected malicious attack.
-  
-
-### [Examples](file/example.md)
-
 
 
 
