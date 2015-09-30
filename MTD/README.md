@@ -1,12 +1,11 @@
 ## Moving Target Mechanism
 
-### [Background](./background)
 
 ### [Intro](./intro)
+- definition
+- benefits
 
 ### [Model](./model)
-
-### [Tech](./tech)
 
 ### [Papers](./papers)
 
