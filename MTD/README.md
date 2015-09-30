@@ -5,6 +5,8 @@
 - definition
 - benefits
 
+### [Related works](./related-work)
+
 ### [Model](./model)
 
 ### [Papers](./papers)
