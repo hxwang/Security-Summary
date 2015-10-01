@@ -52,10 +52,11 @@
 |[Characterizing Network-Based Moving Target Defenses](http://web.cs.wpi.edu/~cshue/research/mtd15.characterizing.pdf)|09/30/2015 |*** | |
 
 
-### Implementation
+### Design and Implementation
 |Title| Date| Rate|Note|
 |:----|:----|:----|:---|
 [CloudRank: Building Heterogeneous and Moving-target Port Interfaces for Networked Systems](http://www.raid-symposium.org/raid2011/files/110.pdf), by *Seungwon Shin*, in RAID2011, [[Summary]](./file/shin11_port-mtd.md)|09/07/2015|**| | |
+|[The SDN Shuffle: Creating a Moving-Target Defense using Host-based Software-Defined Networking](http://web.cs.wpi.edu/~cshue/research/mtd15.sdn.pdf)|10/01/2015 |**** | |
 
 ### MTD Model definition
 |Title| Date| Rate|Note|
