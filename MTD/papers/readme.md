@@ -46,6 +46,12 @@
 |[A Moving Target Environment for Computer Configurations Using Genetic Algorithms](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6111663), by *Michael B. Crouse*, 2011, [[Slides]](http://csweb.cs.wfu.edu/~fulp/CSC343/safe11s.pdf)|08/10/2015|*** | Genetic Alg|
 |[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
 
+### High Level Discussions
+|Title| Date| Rate|Note|
+|:----|:----|:----|:---|
+|[Characterizing Network-Based Moving Target Defenses](http://web.cs.wpi.edu/~cshue/research/mtd15.characterizing.pdf)|09/30/2015 |*** | |
+
+
 ### Implementation
 |Title| Date| Rate|Note|
 |:----|:----|:----|:---|
