@@ -15,3 +15,11 @@
     - When the client attempts to access the target, the packet is forward using the virtual IP address until it reaces the destination swtich, at which point it is translated to the destionation host's IP address.
     - The network swtiches essentially act as NAT devices, performing translations between virtual and real IP addresss.
   - THe OpenFlow controller essentially servers as the mapping system. The controller updates the DNS server with different virtual IP address for each system and orders the OpenFlow swtiches to install NAT rules to hide the identities of both hosts. Unfortunately, since the OpenController must have control of the resource and destination switch, the approach is most suited to a LAN.
+
+### MT6D
+- [[DunLop11]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6127486)
+- Goal:
+- How it works
+  - The client and the target share a symmetric key out-of-band and uses these keys to determine the IPv6 addresses the hosts will use. 
+  - To construct their IPv6 addresses, the hosts construct a hash using the shared key, a value derived from the hosts' MAC address and a timestamp. The approach extracts 64 bits from the hash output to encode the lower 64 bits of the host's IPv6 address. 
+  - To provide uniform communication between the host applications, the operating system on each host users a tunneling approach and rotates the address of the tunnel end-points. 
