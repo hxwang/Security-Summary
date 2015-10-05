@@ -10,3 +10,7 @@
   - In a physical side channel attack, unconventional techniques are used to deduce secret information. 
   - Typically, the device has physical access to it for launching a physical side-channel attack. 
   - Traditional side channel attacks involved differential power analysis and timing analysis. Different amount of powr (or time) used by the device in performancing an encruption can be measured and analyzed to deduce some or all of the key bits.
+
+
+### Cloud
+- The security of VM is not only depended on how secure the Operating System and applications they are running, but also related to the security of Virtual Machine Monitor (VMM, or hypervisor), running below the VMs. [[Li-13]](http://www.people.vcu.edu/~xhe2/publications/Conferences/Li-Secrypt12.pdf).
