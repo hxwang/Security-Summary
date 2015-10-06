@@ -23,3 +23,5 @@
   - The client and the target share a symmetric key out-of-band and uses these keys to determine the IPv6 addresses the hosts will use. 
   - To construct their IPv6 addresses, the hosts construct a hash using the shared key, a value derived from the hosts' MAC address and a timestamp. The approach extracts 64 bits from the hash output to encode the lower 64 bits of the host's IPv6 address. 
   - To provide uniform communication between the host applications, the operating system on each host users a tunneling approach and rotates the address of the tunnel end-points. 
+- Weakness
+  - modified both end-hosts of communicate-end to coordinate their movements
