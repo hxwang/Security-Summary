@@ -3,6 +3,8 @@
 - Start: 09/23/2015
 - End: 
 
+[proceedings](http://dl.acm.org/citation.cfm?id=2808475&picked=prox)
+
 |Title| Abstract| Full| Related|
 |:----|:----|:----|:---|
 |[A Quantitative Framework for Moving Target Defense Effectiveness Evaluation]| | | |
