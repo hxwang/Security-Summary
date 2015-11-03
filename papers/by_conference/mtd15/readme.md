@@ -13,7 +13,7 @@
 |[VINE: A Cyber Emulation Environment for MTD Experimentation]| | | |
 |[Adaptive Just-In-Time Code Diversification](http://users.elis.ugent.be/~brdsutte/research/publications/2015MTDjangda.pdf/)| | | |
 |[Getting Beyond Tit for Tat: Better Strategies for Moving Target Prototyping and Evaluation]| | | |
-|[Empirical Game-Theoretic Analysis for Moving Target Defense]| | | |
+|[Empirical Game-Theoretic Analysis for Moving Target Defense](http://dl.acm.org/citation.cfm?id=2808483)| | | |
 |[Optimal Defense Policies for Partially Observable Spreading Processes on Bayesian Attack Graph](http://dl.acm.org/citation.cfm?id=2808482)| | | |
 |[DHT Blind Rendezvous for Session Establishment in Network Layer Moving Target Defenses](http://dl.acm.org/citation.cfm?id=2808477)| | | |
 |[To Be Proactive or Not: A Framework to Model Cyber Maneuvers for Critical Path Protection in MANETs](http://csa.memphis.edu/papers/15lmw-mtd.pdf)| | | |
