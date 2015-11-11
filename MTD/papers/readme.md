@@ -76,6 +76,11 @@
 |[Predictive Moving Target Defense](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6378159), by *Richard Colbaugh*, in SMC2012, [[Summary]](./file/richard12_game_theory_ml.md)|09/07/2015|***|with ML|
 |[A Game-Theoretic Approach to IP Address Randomization in Decoy-Based Cyber Defense]| | | |
 
+### Load balancing
+- [Load Rebalancing for Distributed File Systems in Clouds](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6226382)
+- [A Survey of Load Balancing in Cloud Computing: Challenges and Algorithms ](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6472470)
+- [Workshop on Adaptive Resource Management and Scheduling for Cloud Computing, ARMS-CC 2015](http://arms-cc.hpc.pub.ro/)
+
 ### TO READ 1
 - [Evaluation of Moving Target IPv6 Defense and Distributed Denial
 of Service Defenses](http://vtechworks.lib.vt.edu/bitstream/handle/10919/24697/DiMarco_PL_T_2013.pdf?sequence=1&isAllowed=y)
