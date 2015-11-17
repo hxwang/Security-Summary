@@ -90,3 +90,4 @@ Moving Target Network Defense Mechanisms](http://scholarworks.rit.edu/cgi/viewco
 ### TO READ 2
 - [Predictive Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6378159)
 - [Moving target defense 2014 review](http://cps-vo.org/node/18462)
+- [Can Less Be More? A Game-Theoretic Analysis of Filtering vs. Investment](http://web.eecs.umich.edu/~mingyan/pub/GameSec2014.pdf)
