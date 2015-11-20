@@ -13,6 +13,6 @@
 
 ### Categories
 - [Based on Proactive v.s. Reactive](./file/proactive_reactive.md)
-
+- [Based on technical level](../tech)
 
 
