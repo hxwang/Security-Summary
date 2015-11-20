@@ -12,7 +12,7 @@
 - The point of dynamically modifying the runtime environment is that specific knowledge that the attacker has accumulated from probes to that point (e.g., based on specific memory locations of attack surfaces) is *rendered obsolete* by the runtime modification.
 
 ### Categories
-- [Based on Proactive v.s. Reactive]()
+- [Based on Proactive v.s. Reactive](./file/proactive_reactive.md)
 
 
 
