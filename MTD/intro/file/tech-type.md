@@ -15,3 +15,9 @@
 - Rootkit take advantage of address layout and instructions sets to force jump into malicious code
 - Randomization techniques such as RISE, HTML randomization and SQL randomization, attempt to avoid this by randomizing the instruction or languges.
 - This makes it more difficult to inject attacks by writing, for example, standard SQL: if the SQL is not randomized in the same way as the system expects it will not compile as SQL. Furthermore, re-randomization can be done peroidically to invalidate any reconnaissaance that an attacker may have successfully performed.
+
+### Refresh
+- Refresh tactics attempt to return components to a known-safe state by either rebooting an existing component or by restoring a component to a previous checkpoint.
+
+### Resource
+- Resource tactics manipulate the resources that may be exploitable by either turning them off, setting limitations on how they may be used, or failing back to a safe set of components that are more thoroughly protected.
