@@ -2,6 +2,7 @@
 
 - Ref
   - [Schmerl14](http://www.cs.cmu.edu/~garlan/publications/CMU-ISR-14-109.pdf)
+    - Page 18, summary of various techniques and their impact on security and other quality measures
 
 ### N-Variant
 - Tactics of this kind take advantage of the fact that the same functionaility in a system can be provided by multiple different implementations. 
