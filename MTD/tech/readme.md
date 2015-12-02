@@ -8,9 +8,8 @@
 - Session layer
 - Other
   - Restructruing a software-defined network's topology, which could disrupt attacks amounted through compromised nodes in the subne. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
-
-- **wireless frequency hopping**
-  - used to avoid jammers [[Green15]](http://arxiv.org/pdf/1404.6785.pdf)
+  - **wireless frequency hopping**
+    - used to avoid jammers [[Green15]](http://arxiv.org/pdf/1404.6785.pdf)
 
 ### Category 2: System Level MTD
 - Hardware-based
