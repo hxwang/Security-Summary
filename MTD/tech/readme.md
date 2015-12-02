@@ -1,8 +1,14 @@
 ## MTD techniques
 
 ### Category 1: Network Level MTD
-- Restructruing a software-defined network's topology, which could disrupt attacks amounted through compromised nodes in the subne. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
-- [IP-Hop-ping](../file/ip-hopping.md)
+- MAC layer: changing MAC address
+- IP Layer: IP randomization
+  - [IP-Hop-ping](../file/ip-hopping.md)
+- TCP layer: changing network protocol
+- Session layer
+- Other
+  - Restructruing a software-defined network's topology, which could disrupt attacks amounted through compromised nodes in the subne. [[Mrco-2014]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537)
+
 - **wireless frequency hopping**
   - used to avoid jammers [[Green15]](http://arxiv.org/pdf/1404.6785.pdf)
 
