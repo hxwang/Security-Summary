@@ -46,6 +46,7 @@
 |[A Moving Target Environment for Computer Configurations Using Genetic Algorithms](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6111663), by *Michael B. Crouse*, 2011, [[Slides]](http://csweb.cs.wfu.edu/~fulp/CSC343/safe11s.pdf)|08/10/2015|*** | Genetic Alg|
 |[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
 |[Formal Approach for Route Agility against Persistent Attackers](http://link.springer.com/chapter/10.1007%2F978-3-642-40203-6_14), by Jafar Jafarian, in ESORICS 2013| | |
+|[Efficient Random Route Mututation Considering Flow and Network Constraints](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6682715), by Qi Duan, in CNS 2013| | |
 
 ### High Level Discussions
 |Title| Date| Rate|Note|
