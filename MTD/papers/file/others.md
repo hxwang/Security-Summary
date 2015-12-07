@@ -1,6 +1,5 @@
 |Title| Date| Related| Note|
 |:----|:----|:----|:---|
-
 |[Command and Control Requirements for Moving Target Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6237462), by *Marco Carvalho*, in ICS 2012, [[Summary]](./file/marco12-c2-mtd.md)|05/15/2015|**|related work|
 |[Symbiotes and defensive Mutualism: Moving Target Defense](http://link.springer.com/chapter/10.1007/978-1-4614-0977-9_5#page-1), by *Ang Cui*, in [MTD book](http://www.springer.com/us/book/9781461409762) 2011, [[Summary]](file/ang11-symbiotes.md)|05/15/2015|*| |
 |[A Multi-Layer Moving Target Defense Approaches for Protecting Resource-Constrainted Distributed Devices](http://download-v2.springer.com/static/pdf/465/chp%253A10.1007%252F978-3-319-04717-1_14.pdf?token2=exp=1431713670~acl=%2Fstatic%2Fpdf%2F465%2Fchp%25253A10.1007%25252F978-3-319-04717-1_14.pdf*~hmac=3dbdae1534b5c82fbbdeb0e3d99f4f2f9fd2372b5ad3092b3fc580e3c5da8c5b), by *Valentina Casola*, in Integration Reusable Systems 2014, [[Summary]](./file/vakentina12-multi-layer.md)|05/15/2015|***|related work|
