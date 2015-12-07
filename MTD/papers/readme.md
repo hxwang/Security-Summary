@@ -30,6 +30,15 @@
 ### SDN
 - [SDN-based solutions for Moving Target Defense Network Protection](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6918979&tag=1), by Panos Kampanakis, in WowMom 2014|**| |
 
+
+### Network Address Shuffling
+- Change IP address 
+
+|Title| Date| Related| Note|
+|:----|:----|:----|:---|
+|[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
+
+
 |[Moving-Target Defenses for Computer Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537), by *Marco Carvalho*, in CRS 2014, [[Summary]](./file/marco14.md)| 05/04/2015| ***|
 |[A Model for Analyzing the Effect of Moving Target Defenses on Enterprise Networks](http://dl.acm.org/citation.cfm?id=2602088), by *Rui Zhang*, in CISR 14, [[Summary]](./file/rui14-model.md)| 05/04/2015| ****|
 |[Comparing Different Moving Target Defense Techniques](http://dl.acm.org/citation.cfm?id=2663486), by *Jun Xu*, in MTD 2014, [[Summray]](./file/jun14-compare-diff-tech.md)| 05/04/2015| ***|
@@ -70,7 +79,7 @@
 |[MIssion-oriented Moving Target Defense Based on Cryptographically Strong Network Dynamics](http://dl.acm.org/citation.cfm?id=2460040), by *Justin Yackoshi*, in CSIIRW 2011, [[Summary]](./file/mtd_csnd.md)|07/26/2015|**|Arch|
 |[Defense on the Move: Ant-Based Cyber Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6798536), by *Glenn A. Fink*, in Security&Privacy 2014, [[Summary]](./file/abcd.md)| 07/26/2015|**|grid|
 |[A Moving Target Environment for Computer Configurations Using Genetic Algorithms](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6111663), by *Michael B. Crouse*, 2011, [[Slides]](http://csweb.cs.wfu.edu/~fulp/CSC343/safe11s.pdf)|08/10/2015|*** | Genetic Alg|
-|[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
+
 
 
 ### High Level Discussions
