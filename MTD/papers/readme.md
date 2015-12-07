@@ -32,7 +32,8 @@
 
 |Title| Date| Related| Note|
 |:----|:----|:----|:---|
-[Software Protection with Code Mobility](http://dl.acm.org/citation.cfm?id=2808481), by Alessandrop Cabutto, in MTD 2015| **| | |
+|[Software Protection with Code Mobility](http://dl.acm.org/citation.cfm?id=2808481), by Alessandrop Cabutto, in MTD 2015| | **| |
+|[Adaptive Just-In-Time Code Diversification](http://dl.acm.org/citation.cfm?id=2808487), by Abhinav Jangda, in MTD 2015| |** | |
 
 
 ### Route Agility
@@ -58,13 +59,6 @@
 |[Cyber Defenses for Physical Attacks and Insider Threats in Cloud Computing](http://dl.acm.org/citation.cfm?id=2590310), by Jakub Szefer, in AsiaCCS 2014| 2015/12/06|***| |
 
 
-### SDN
-
-|Title| Date| Related| Note|
-|:----|:----|:----|:---|
-- [SDN-based solutions for Moving Target Defense Network Protection](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6918979&tag=1), by Panos Kampanakis, in WowMom 2014|**| |
-
-
 ### Network Address Shuffling
 - Change IP address 
 
@@ -73,7 +67,9 @@
 |[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
 [MT6D: A Moving Target IPv6 Defense](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6127486), by Matthew Dunlop, in MilCom 2011| ***| |
 |[OpenFlow Random Host Mutation: Transparent Moving Target Defense using Software Defined Networking](http://dl.acm.org/citation.cfm?id=2342467), by *Jafar Haadi Jafarian*, in HostSDN 2012, [[download]](https://app.box.com/files/0/f/4476591014/1/f_36624731202), [[Summary]](./file/Jafar12-random-host-sdn.md)|05/18/2015 |**** |algorithm |
-
+|[DHT Blind Rendezvous for Session Establishment in Network Layout Moving Target Defenses](http://dl.acm.org/citation.cfm?id=2808477), by Christopher Morrel, in MTD 2015| | | |
+|[The SDN Shuffle: Creating a Moving-Target Defense using Host-based Software-Defined Networking](http://web.cs.wpi.edu/~cshue/research/mtd15.sdn.pdf)|10/01/2015 |**** | |
+- [SDN-based solutions for Moving Target Defense Network Protection](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6918979&tag=1), by Panos Kampanakis, in WowMom 2014|**| SDN |
 
 ### Theoretical Study 
 - Form theory model
@@ -84,6 +80,8 @@
 |[Investigating the Application of Moving Target Defenses to Network Security](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623770&tag=1), by *Rui Zhang*, in ICRCS 2013, [[Summary]](file/rui13-mtd.md)|05/15/2015|*****| related work|
 |[A Model for Analyzing the Effect of Moving Target Defenses on Enterprise Networks](http://dl.acm.org/citation.cfm?id=2602088), by *Rui Zhang*, in CISR 14, [[Summary]](./file/rui14-model.md)| 05/04/2015| ****|
 |[Model-driven, Moving-Target Defense for Enterprise Network Security](http://link.springer.com/chapter/10.1007%2F978-3-319-08915-7_5#page-1), by Scott A. Deloach, in Model@runtime 2014| ***| |
+|[Optimal Defense Policies for Partially Observable Spreading Process on Bayesian Attack Graphs](http://dl.acm.org/citation.cfm?id=2808482), by Erik Miehling, in MTD 2015| | | |
+
 
 ### Evaluation
 - Quantitative evaluation 
@@ -157,7 +155,7 @@
 |Title| Date| Rate|Note|
 |:----|:----|:----|:---|
 [CloudRank: Building Heterogeneous and Moving-target Port Interfaces for Networked Systems](http://www.raid-symposium.org/raid2011/files/110.pdf), by *Seungwon Shin*, in RAID2011, [[Summary]](./file/shin11_port-mtd.md)|09/07/2015|**| | |
-|[The SDN Shuffle: Creating a Moving-Target Defense using Host-based Software-Defined Networking](http://web.cs.wpi.edu/~cshue/research/mtd15.sdn.pdf)|10/01/2015 |**** | |
+
 
 ### MTD Model definition
 |Title| Date| Rate|Note|
