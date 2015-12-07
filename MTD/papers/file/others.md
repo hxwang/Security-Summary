@@ -13,15 +13,13 @@
 |[A Formal Model for a System's Attack Surface](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_1), by *Pratyusa K. Manadhata*, in MTD 2011, [[Summary]](./file/Pratyusa11-a-formal-model-attack-surface.md)|05/19/2015|***|attack surface|
 |[Moving Toward Trustworthy Systems: R&D Essentials](http://dl.acm.org/citation.cfm?id=1907684), by *Frederick T. Sheldon*, in ICS 2010, [[Summary]](./file/Frederick10-moving-toward-trustworthy.md)|05/19/2015|**| |
 |[Modeling Modern Network Attacks and Countermeasures Using Attack Graphs](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5380524&tag=1), by *Kyle Ingols*, in SAC 2009, [[Summary]](./file/Kyle09-attack-graph.md)|05/19/2015|*| |
-|[Toward Network Configuration Randomizatio for Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_9), by *Ehab Al-Shaer*, in MTD book 2011, [[Summary]](./file/ehab11-randomization-mtd.md)|05/20/2015|***| | 
 |[Predictability-Oriented Defense Against Adaptive Adversaries](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6378159), by *Richard Colbaugh*, in SMC 2012, [[Summary]](./file/richard12-Predictability-oriented-defense.md)|05/20/2015|***|model|
 |[Evolutionary Drift Models for Moving Target Defense](http://dl.acm.org/citation.cfm?id=2460018), by *Christopher Oehmen*, in CSIIRW 2012, [[Summary]](./file/oehmen12-evolution-drift.md)|05/24/2015|**|
-|[Towards a Theory of Moving Target](http://dl.acm.org/citation.cfm?id=2663479), by *Rui Zhuang*, in MTD 2014,[[Summary]](./file/zhuang14-mtd-theory.md)| | |
 |[Scalable Security Model for Assessing Effectiveness of Moving Target Defenses](http://ieeexplore.ieee.org.mutex.gmu.edu/stamp/stamp.jsp?tp=&arnumber=6903607), by *Jin B. Hong*, in DSN 2014, [[Summary]](./file/jin14-scalable-security-model-for-MTD.md)| | |
 |[DSN](http://www.mohaisen.net/doc/dsn2015.pdf)| | |
 |[Adaptive Attacker Strategy Development Against Moving Target Cyber Defense](http://arxiv.org/ftp/arxiv/papers/1407/1407.8540.pdf), by M.L.Winterrose, 2014, [[Summary]](./file/ga_mtd_attacker.md)|06/28/2015|****| attacker strategy|
 |[MIssion-oriented Moving Target Defense Based on Cryptographically Strong Network Dynamics](http://dl.acm.org/citation.cfm?id=2460040), by *Justin Yackoshi*, in CSIIRW 2011, [[Summary]](./file/mtd_csnd.md)|07/26/2015|**|Arch|
 |[A Moving Target Environment for Computer Configurations Using Genetic Algorithms](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6111663), by *Michael B. Crouse*, 2011, [[Slides]](http://csweb.cs.wfu.edu/~fulp/CSC343/safe11s.pdf)|08/10/2015|*** | Genetic Alg|
-
+|[Toward Network Configuration Randomizatio for Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_9), by *Ehab Al-Shaer*, in MTD book 2011, [[Summary]](./file/ehab11-randomization-mtd.md)|05/20/2015|***| | 
 
 
