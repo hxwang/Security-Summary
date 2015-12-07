@@ -13,7 +13,7 @@
 
 |Title| Date| Related| Note|
 |:----|:----|:----|:---|
-[Nomad: Mitigating Arbitrary Cloud Side Channels via Provider-Assisted Migration](http://dl.acm.org/citation.cfm?doid=2810103.2813706), by Soo-Jin Moon, in CCS 2015| 2015/11/20| *****| |
+[Nomad: Mitigating Arbitrary Cloud Side Channels via Provider-Assisted Migration](http://dl.acm.org/citation.cfm?doid=2810103.2813706), by Soo-Jin Moon, in CCS 2015| 11/20/2015| *****| |
 |[Improving Cloud Survivability through Dependency based Virtual Machine Placement](http://www.people.vcu.edu/~myu/s-lab/publications/Li2012.pdf), by *Min Li*, in DBSec 2012, [[Summary]](./file/li12-vm-placement.md)|05/14/2015|****| |
 
 
@@ -23,7 +23,7 @@
 
 |Title| Date| Related| Note|
 |:----|:----|:----|:---|
-[Architecture-Based Self-Adaptation for Moving Target Defense](http://www.cs.cmu.edu/~garlan/publications/CMU-ISR-14-109.pdf), by Bradley Schmerl, CMU-ISR 2014|2015/11/20 |*** | |
+[Architecture-Based Self-Adaptation for Moving Target Defense](http://www.cs.cmu.edu/~garlan/publications/CMU-ISR-14-109.pdf), by Bradley Schmerl, CMU-ISR 2014| 11/20/2015 |*** | |
 |[Empirical Game-Theoretical Analysis of an Adaptive Cyber-Defense Scenario](http://link.springer.com/chapter/10.1007/978-3-319-12601-2_3), by *Michael P. Wellman*, in GameSec2014, [[Summary]](./file/michael14_game_theory_mtd.md)| 09/07/2015|*** | model|
 
 
@@ -34,6 +34,13 @@
 |:----|:----|:----|:---|
 |[Formal Approach for Route Agility against Persistent Attackers](http://link.springer.com/chapter/10.1007%2F978-3-642-40203-6_14), by Jafar Jafarian, in ESORICS 2013|2015/12/06 | ***| |
 |[Efficient Random Route Mututation Considering Flow and Network Constraints](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6682715), by Qi Duan, in CNS 2013|2015/12/06 | ***| |
+
+### Network topology agility
+
+|Title| Date| Related| Note|
+|:----|:----|:----|:---|
+[Aigle Virtualized Infrastructure to Proactively Defend Against Cyber Attacks](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7218442), by Fida Gillani, in INFOCOM 2015| 2015/12/06| ****| |
+
 
 ### Insider attack
 - Eliminate insiders.
@@ -56,6 +63,9 @@
 |Title| Date| Related| Note|
 |:----|:----|:----|:---|
 |[Analysis of Network Address Shuffling as a Moving Target Defense](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883401), by *Thomas E. Carrol*, in ICC 2014| | | |
+[MT6D: A Moving Target IPv6 Defense](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6127486), by Matthew Dunlop, in MilCom 2011| ***| |
+|[OpenFlow Random Host Mutation: Transparent Moving Target Defense using Software Defined Networking](http://dl.acm.org/citation.cfm?id=2342467), by *Jafar Haadi Jafarian*, in HostSDN 2012, [[download]](https://app.box.com/files/0/f/4476591014/1/f_36624731202), [[Summary]](./file/Jafar12-random-host-sdn.md)|05/18/2015 |**** |algorithm |
+
 
 ### Theoretical Study 
 - Form theory model
@@ -65,6 +75,7 @@
 |[A Moving-target Defense Strateg for Cloud-based Services with Heterogeneous and Dynamic Attack Surface](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6883418), by *Wei Peng*, in ICC 2014, [[Summary]](./file/wei14-a-mtd-strategy.md)|05/18/2015 |***** |model |
 |[Investigating the Application of Moving Target Defenses to Network Security](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6623770&tag=1), by *Rui Zhang*, in ICRCS 2013, [[Summary]](file/rui13-mtd.md)|05/15/2015|*****| related work|
 |[A Model for Analyzing the Effect of Moving Target Defenses on Enterprise Networks](http://dl.acm.org/citation.cfm?id=2602088), by *Rui Zhang*, in CISR 14, [[Summary]](./file/rui14-model.md)| 05/04/2015| ****|
+|[Model-driven, Moving-Target Defense for Enterprise Network Security](http://link.springer.com/chapter/10.1007%2F978-3-319-08915-7_5#page-1), by Scott A. Deloach, in Model@runtime 2014| ***| |
 
 ### Evaluation
 - Quantitative evaluation 
@@ -94,7 +105,7 @@
 |[Introductin Diversity and Uncertainty to Create Moving Attack Surfaces for Web Services](https://books.google.com/books?id=VERsnX772S0C&pg=PR15&lpg=PR15&dq=Introduction+Diversity+and+Uncertainty+to+Create+Moving+Attack+Surfaces+for+Web+Services&source=bl&ots=hMJZktVK3i&sig=P0HWn51GLYcTOKx1RSvuC1UDgS0&hl=en&sa=X&ei=DhBaVfadLY2VyQSRpYGQCQ&ved=0CB4Q6AEwAA#v=onepage&q=Introduction%20Diversity%20and%20Uncertainty%20to%20Create%20Moving%20Attack%20Surfaces%20for%20Web%20Services&f=false), by *Yih Huang*, in MTD book 2011, [[Summary]](./file/Huang11-diversity-and-uncertainty.md)|05/18/2015|***| |
 |[Characterizing the power of moving target defense via vyber epidemic dynamics](http://dl.acm.org/citation.cfm?id=2600180), by *Yujuan Han*, in HotSoS 2014, [[Slides]](http://www.cs.utsa.edu/~shxu/socs/Measuring-Power-of-MTD.pdf), [[Summary]](./file/han14-characterizing-the-power-of-mtd.md)|05/18/2015 |**** |model |
 |[Artificial Diversity as Maneuvers in a Control Theoretic Moving Target Defense](http://cps-vo.org/node/3710),by *Jeff Rowe*, in MTD Symposium 2012, [[Summary]](./file/jeff12-artificial-diversity.md)|05/18/2015 |**** |Mechanism |
-|[OpenFlow Random Host Mutation: Transparent Moving Target Defense using Software Defined Networking](http://dl.acm.org/citation.cfm?id=2342467), by *Jafar Haadi Jafarian*, in HostSDN 2012, [[download]](https://app.box.com/files/0/f/4476591014/1/f_36624731202), [[Summary]](./file/Jafar12-random-host-sdn.md)|05/18/2015 |**** |algorithm |
+
 |[NOMAD: Towards Non-Intrusive Moving-Target Defense against Web Bots](http://faculty.cse.tamu.edu/guofei/paper/NOMAD_CNS13.pdf), by *Shardul Vikram*, in CNS 2013, [[Summary]](./file/Shardul13-nomad.md)|05/19/2015|***| | 
 |[Effectiveness of Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_2) by *David Evans*, in MTD book 2011,[[Summary]](./file/david11-effectivness-of-mtd.md)|05/19/2015|****|bin & ball|
 |[Random Host Mutation for Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-3-642-36883-7_19), by *Ehab Al-Shaer*, in Security and Privacy in Communication Networks 2013, [[Summary]](./file/Ehab13-RHM.md)|05/19/2015|****|Algorithms|
