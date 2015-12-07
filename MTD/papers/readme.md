@@ -27,6 +27,14 @@
 |[Empirical Game-Theoretical Analysis of an Adaptive Cyber-Defense Scenario](http://link.springer.com/chapter/10.1007/978-3-319-12601-2_3), by *Michael P. Wellman*, in GameSec2014, [[Summary]](./file/michael14_game_theory_mtd.md)| 09/07/2015|*** | model|
 
 
+### Software Diversity
+- Dynamic changing software binary code to thwart covert-channel attack, or return-of-pointer (ROP) attack
+
+|Title| Date| Related| Note|
+|:----|:----|:----|:---|
+[Software Protection with Code Mobility](http://dl.acm.org/citation.cfm?id=2808481), by Alessandrop Cabutto, in MTD 2015| **| | |
+
+
 ### Route Agility
 - Randomized routing approach
 
@@ -85,6 +93,17 @@
 |:----|:----|:----|:---|
 [Quantitative Evaluation of Dynamic Platform Techniques as a Defense Mechanism](http://link.springer.com/chapter/10.1007%2F978-3-319-11379-1_20), by Hamed Okhravi, in RAID 2014| 2015/12/06| | |
 
+
+### Contents Dynamics
+- Randomized html contents
+
+|Title| Date| Related| Note|
+|:----|:----|:----|:---|
+|[NOMAD: Towards Non-Intrusive Moving-Target Defense against Web Bots](http://faculty.cse.tamu.edu/guofei/paper/NOMAD_CNS13.pdf), by *Shardul Vikram*, in CNS 2013, [[Summary]](./file/Shardul13-nomad.md)|05/19/2015|***| | 
+
+
+
+
 |[Moving-Target Defenses for Computer Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537), by *Marco Carvalho*, in CRS 2014, [[Summary]](./file/marco14.md)| 05/04/2015| ***|
 
 |[Comparing Different Moving Target Defense Techniques](http://dl.acm.org/citation.cfm?id=2663486), by *Jun Xu*, in MTD 2014, [[Summray]](./file/jun14-compare-diff-tech.md)| 05/04/2015| ***|
@@ -106,7 +125,7 @@
 |[Characterizing the power of moving target defense via vyber epidemic dynamics](http://dl.acm.org/citation.cfm?id=2600180), by *Yujuan Han*, in HotSoS 2014, [[Slides]](http://www.cs.utsa.edu/~shxu/socs/Measuring-Power-of-MTD.pdf), [[Summary]](./file/han14-characterizing-the-power-of-mtd.md)|05/18/2015 |**** |model |
 |[Artificial Diversity as Maneuvers in a Control Theoretic Moving Target Defense](http://cps-vo.org/node/3710),by *Jeff Rowe*, in MTD Symposium 2012, [[Summary]](./file/jeff12-artificial-diversity.md)|05/18/2015 |**** |Mechanism |
 
-|[NOMAD: Towards Non-Intrusive Moving-Target Defense against Web Bots](http://faculty.cse.tamu.edu/guofei/paper/NOMAD_CNS13.pdf), by *Shardul Vikram*, in CNS 2013, [[Summary]](./file/Shardul13-nomad.md)|05/19/2015|***| | 
+
 |[Effectiveness of Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_2) by *David Evans*, in MTD book 2011,[[Summary]](./file/david11-effectivness-of-mtd.md)|05/19/2015|****|bin & ball|
 |[Random Host Mutation for Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-3-642-36883-7_19), by *Ehab Al-Shaer*, in Security and Privacy in Communication Networks 2013, [[Summary]](./file/Ehab13-RHM.md)|05/19/2015|****|Algorithms|
 |[A Formal Model for a System's Attack Surface](http://link.springer.com/chapter/10.1007%2F978-1-4614-0977-9_1), by *Pratyusa K. Manadhata*, in MTD 2011, [[Summary]](./file/Pratyusa11-a-formal-model-attack-surface.md)|05/19/2015|***|attack surface|
