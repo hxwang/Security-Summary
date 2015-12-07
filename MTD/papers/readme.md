@@ -89,6 +89,7 @@
 |[The SDN Shuffle: Creating a Moving-Target Defense using Host-based Software-Defined Networking](http://web.cs.wpi.edu/~cshue/research/mtd15.sdn.pdf)|10/01/2015 |**** | |
 [SDN-based solutions for Moving Target Defense Network Protection](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6918979&tag=1), by Panos Kampanakis, in WowMom 2014|**| SDN |
 |[Adversary-aware IP Address Randomization for Proactive Agility against Sophisticated Attacks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6759960), by Jafar Haadi Jafarian, in MTD 2015| | | |
+|[Random Host Mutation for Moving Target Defense](http://link.springer.com/chapter/10.1007%2F978-3-642-36883-7_19), by *Ehab Al-Shaer*, in Security and Privacy in Communication Networks 2013, [[Summary]](./file/Ehab13-RHM.md)|05/19/2015|****|Algorithms|
 
 ### Theoretical Study 
 - Form theory model
