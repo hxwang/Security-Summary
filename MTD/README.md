@@ -1,23 +1,23 @@
 ## Moving Target Mechanism
 
+### Main
+- [Intro](./intro)
+  - definition
+  - benefits
 
-### [Intro](./intro)
-- definition
-- benefits
+- [Related works](./related-work)
 
-### [Related works](./related-work)
+- [Challenges](./challenges)
 
-### [Challenges](./challenges)
+- [Model](./model)
 
-### [Model](./model)
+- [Papers](./papers)
 
-### [Papers](./papers)
+- [Question](./file/question.md)
 
-### [Question](./file/question.md)
 
-### [Private Research Repo](../../../../Moving-Target-Defense)
-
-### [Related Researchers](./file/peers.md)
-
-### Tools
-- [topsy](http://topsy.com/)
+### MISC
+- tools
+  - [topsy](http://topsy.com/)
+- [Related Researchers](./file/peers.md)
+- [Private Research Repo](../../../../Moving-Target-Defense)
