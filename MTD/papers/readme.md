@@ -8,6 +8,8 @@
 |Title| Date| Related| Note|
 |:----|:----|:----|:---|
 [Architecture-Based Self-Adaptation for Moving Target Defense](http://www.cs.cmu.edu/~garlan/publications/CMU-ISR-14-109.pdf), by Bradley Schmerl, CMU-ISR 2014|2015/11/20 |*** | |
+|[Empirical Game-Theoretical Analysis of an Adaptive Cyber-Defense Scenario](http://link.springer.com/chapter/10.1007/978-3-319-12601-2_3), by *Michael P. Wellman*, in GameSec2014, [[Summary]](./file/michael14_game_theory_mtd.md)| 09/07/2015|*** | model|
+
 
 ### Route Agility
 - Randomized routing approach
@@ -17,6 +19,16 @@
 |[Formal Approach for Route Agility against Persistent Attackers](http://link.springer.com/chapter/10.1007%2F978-3-642-40203-6_14), by Jafar Jafarian, in ESORICS 2013|2015/12/06 | ***| |
 |[Efficient Random Route Mututation Considering Flow and Network Constraints](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6682715), by Qi Duan, in CNS 2013|2015/12/06 | ***| |
 
+### Insider attack
+- Eliminate insiders.
+
+|Title| Date| Related| Note|
+|:----|:----|:----|:---|
+|[Cyber Defenses for Physical Attacks and Insider Threats in Cloud Computing](http://dl.acm.org/citation.cfm?id=2590310), by Jakub Szefer, in AsiaCCS 2014| 2015/12/06|***| |
+
+
+### SDN
+- [SDN-based solutions for Moving Target Defense Network Protection](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6918979&tag=1), by Panos Kampanakis, in WowMom 2014|**| |
 
 |[Moving-Target Defenses for Computer Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537), by *Marco Carvalho*, in CRS 2014, [[Summary]](./file/marco14.md)| 05/04/2015| ***|
 |[A Model for Analyzing the Effect of Moving Target Defenses on Enterprise Networks](http://dl.acm.org/citation.cfm?id=2602088), by *Rui Zhang*, in CISR 14, [[Summary]](./file/rui14-model.md)| 05/04/2015| ****|
@@ -87,7 +99,7 @@
 ### Game Theory
 |Title| Date| Rate|Note|
 |:----|:----|:----|:---|
-|[Empirical Game-Theoretical Analysis of an Adaptive Cyber-Defense Scenario](http://link.springer.com/chapter/10.1007/978-3-319-12601-2_3), by *Michael P. Wellman*, in GameSec2014, [[Summary]](./file/michael14_game_theory_mtd.md)| 09/07/2015|*** | model| 
+ 
 |[Predictive Moving Target Defense](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6378159), by *Richard Colbaugh*, in SMC2012, [[Summary]](./file/richard12_game_theory_ml.md)|09/07/2015|***|with ML|
 |[A Game-Theoretic Approach to IP Address Randomization in Decoy-Based Cyber Defense]| | | |
 
