@@ -21,7 +21,6 @@
 |[Scalable Security Model for Assessing Effectiveness of Moving Target Defenses](http://ieeexplore.ieee.org.mutex.gmu.edu/stamp/stamp.jsp?tp=&arnumber=6903607), by *Jin B. Hong*, in DSN 2014, [[Summary]](./file/jin14-scalable-security-model-for-MTD.md)| | |
 |[DSN](http://www.mohaisen.net/doc/dsn2015.pdf)| | |
 |[Adaptive Attacker Strategy Development Against Moving Target Cyber Defense](http://arxiv.org/ftp/arxiv/papers/1407/1407.8540.pdf), by M.L.Winterrose, 2014, [[Summary]](./file/ga_mtd_attacker.md)|06/28/2015|****| attacker strategy|
-|[Multiple OS Rotational Environment-An Implementated Moving Target Defense](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6900086), by *Michael Thompson*, in ISRCS 2014, [[Summary]](./file/more.md)|07/26/2015 | ***|experiment |
 |[MIssion-oriented Moving Target Defense Based on Cryptographically Strong Network Dynamics](http://dl.acm.org/citation.cfm?id=2460040), by *Justin Yackoshi*, in CSIIRW 2011, [[Summary]](./file/mtd_csnd.md)|07/26/2015|**|Arch|
 |[A Moving Target Environment for Computer Configurations Using Genetic Algorithms](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6111663), by *Michael B. Crouse*, 2011, [[Slides]](http://csweb.cs.wfu.edu/~fulp/CSC343/safe11s.pdf)|08/10/2015|*** | Genetic Alg|
 
