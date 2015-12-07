@@ -104,6 +104,8 @@
 |[Characterizing Network-Based Moving Target Defenses](http://web.cs.wpi.edu/~cshue/research/mtd15.characterizing.pdf)|09/30/2015 |*** | |
 |[A Theory of Cyber Attacks -- A Step Towards Analyzing MTD Systems](http://people.cis.ksu.edu/~sdeloach/publications/Conference/MTD15-attacktheory.pdf), by *Rui Zhuang*, in MTD 2015, [[Summary]](./file/zhuang15_mtd_theory.md)|09/07/2015 | ***| model definition|
 |[Moving Target Defense for Adaptive Adversaries](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6578785), by *Richard Colbaugh*, in ISI 2013, [[Summary]](./file/mtd_adaptive_adversaries.md)|06/28/2015|***| |
+|[Towards a Theory of Moving Target](http://dl.acm.org/citation.cfm?id=2663479), by *Rui Zhuang*, in MTD 2014,[[Summary]](./file/zhuang14-mtd-theory.md)| | |
+
 
 ### Evaluation
 - Quantitative evaluation 
