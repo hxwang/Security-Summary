@@ -14,7 +14,7 @@
 |Title| Date| Related| Note|
 |:----|:----|:----|:---|
 [Nomad: Mitigating Arbitrary Cloud Side Channels via Provider-Assisted Migration](http://dl.acm.org/citation.cfm?doid=2810103.2813706), by Soo-Jin Moon, in CCS 2015| 11/20/2015| *****| |
-|[Improving Cloud Survivability through Dependency based Virtual Machine Placement](http://www.people.vcu.edu/~myu/s-lab/publications/Li2012.pdf), by *Min Li*, in DBSec 2012, [[Summary]](./file/li12-vm-placement.md)|05/14/2015|****| |
+|[Improving Cloud Survivability through Dependency based Virtual Machine Placement](http://www.people.vcu.edu/~xhe2/publications/Conferences/Li-Secrypt12.pdf), by *Min Li*, in DBSec 2012, [[Summary]](./file/li12-vm-placement.md)|05/14/2015|****| |
 |[Incentive Compatible Moving Target Defense against VM-Colocation Attacks in Clouds](http://link.springer.com/chapter/10.1007%2F978-3-642-30436-1_32#page-1), by *Yulong Zhang*, in SEC 2012, [[Summary]](./file/zhang12-incentive-mtd.md)|05/14/2015|**** |related work|
 |[Autonomic Resilient Cloud Management (ARCM)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7024043), by *Cihan Tunc etc*, in ICCAC 2014, [[Summary]](./file/arcm.md)| 07/19/2015|***| Mode|
 |[Hey, You, Get Off of My Cloud: Exploring Information Leakage in Third-Party Compute Clouds](http://dl.acm.org/citation.cfm?id=1653687), by *Thomas Ristenpart*, in CCS 2009, [[Summary]](./file/hyg.md)|05/14/2015|****|related work|
