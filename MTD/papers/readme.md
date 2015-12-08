@@ -127,9 +127,6 @@
 |:----|:----|:----|:---|
 |[NOMAD: Towards Non-Intrusive Moving-Target Defense against Web Bots](http://faculty.cse.tamu.edu/guofei/paper/NOMAD_CNS13.pdf), by *Shardul Vikram*, in CNS 2013, [[Summary]](./file/Shardul13-nomad.md)|05/19/2015|***| | 
 |[Toward a Moving Target Defense for Web Applications](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7301020), by Marthony Taguinod, in IRI 2015| | | |
-
-
-
 |[Moving-Target Defenses for Computer Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6798537), by *Marco Carvalho*, in CRS 2014, [[Summary]](./file/marco14.md)| 05/04/2015| ***|
 
 ### Other references
